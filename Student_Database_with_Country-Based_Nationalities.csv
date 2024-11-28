@@ -1,0 +1,901 @@
+Student ID,Name,Faculty,Advisor's Name,Email,Phone Number,Date of Birth,Gender,Address,Semesters,Scholarship Status / Tuition Fees,Clubs Attending,Password,Nationality
+12200000,Nazira Erkin,KLC,Park Jimin,erkin70@inha.edu,1025352228,20051120,F,"27 JungangRo, BupyeongGu, Incheon 120146",9,0,Dance Club,")X|t'o[M,<",Uzbekistan
+12200001,Jahongir,ISE,Lee Hana,jahongir35@inha.edu,1031516203,20000907,M,"70 CheongunRo, NamdongGu, Incheon 129772",9,100,Music Society,d2kaGSFS_+,Uzbekistan
+12200002,Madina,ISE,Kang Daehyun,madina88@inha.edu,1031158863,19971215,F,"29 OndangRo, GyeyangGu, Incheon 129617",9,50,Dance Club,"St%H""@{&_j",Uzbekistan
+12200003,Kang Seoyeon,IBT,Park Jimin,seoyeon25@inha.edu,1088669437,19970328,F,"18 OndangRo, BupyeongGu, Incheon 127913",9,25,Drama Club,Kwd(q].a`g,South Korea
+12200004,Kang Seoyeon,IBT,Kim Seokjin,seoyeon9@inha.edu,1098143400,19950609,F,"98 OndangRo, YeonsuGu, Incheon 120375",9,50,Skating,YjZD9}XP*,South Korea
+12200005,Lee Jisoo,IBT,Choi Minseo,jisoo48@inha.edu,1067866366,20010802,F,"78 OndangRo, YeonsuGu, Incheon 120114",9,0,Dance Club,W.Zy27B2{v,South Korea
+12200006,Madina,ISE,Park Jimin,madina71@inha.edu,1023705575,19970304,F,"34 JungangRo, BupyeongGu, Incheon 126433",9,0,0,"{a0x(+t""+y",Uzbekistan
+12200007,Jung Donghyun,IBT,Jung Hoseok,donghyun89@inha.edu,1013315897,19981127,M,"28 JungangRo, BupyeongGu, Incheon 125968",9,25,Rock Climbing,K6j(qvUfok,Germany
+12200008,Kim Minho,IBT,Kim Seokjin,minho66@inha.edu,1023818462,20020223,M,"67 OndangRo, YeonsuGu, Incheon 122633",9,50,Music Society,L>7@5W8dAp,South Korea
+12200009,Azizbek,ISE,Jung Eunji,azizbek97@inha.edu,1017186485,19950417,M,"43 JungangRo, GyeyangGu, Incheon 124334",9,50,Drama Club,@895LWxt7,Germany
+12200010,Shohjahon,ISE,Jung Eunji,shohjahon85@inha.edu,1062011661,19960318,M,"55 JungangRo, NamdongGu, Incheon 121771",9,0,0,L`(|ew/=D2,United States
+12200011,Ziyoda,ISE,Kang Daehyun,ziyoda86@inha.edu,1040691596,20011021,F,"11 GeumgangRo, YeonsuGu, Incheon 123325",9,50,Skating,")D`;3dk,1R",Germany
+12200012,Sarvar,ISE,Jung Hoseok,sarvar87@inha.edu,1067635899,20030910,M,"39 CheongunRo, NamdongGu, Incheon 123627",9,0,0,+OoGs~zhuc,Australia
+12200013,Jung Donghyun,IBT,Jung Eunji,donghyun64@inha.edu,1041078047,20010516,M,"41 MyeongdongRo, NamdongGu, Incheon 128968",9,100,0,]v(\wg[bIR,Brazil
+12200014,Madina,ISE,Lee Hana,madina22@inha.edu,1086794421,19961208,F,"30 OndangRo, GyeyangGu, Incheon 129350",9,100,0,":^*h_,cQ!$",Uzbekistan
+12200015,Park Hyunjin,IBT,Park Jimin,hyunjin96@inha.edu,1084903629,20040315,M,"24 OndangRo, YeonsuGu, Incheon 126448",9,0,Rock Climbing,]^lVJzcwYN,South Korea
+12200016,Aung Kyaw,KLC,Jung Hoseok,kyaw57@inha.edu,1023524527,20020622,M,"81 OndangRo, NamdongGu, Incheon 129534",9,25,Drama Club,/n(@QGU:+T,Australia
+12200017,Sarvar,ISE,Park Jimin,sarvar27@inha.edu,1024535785,19960804,M,"13 MyeongdongRo, BupyeongGu, Incheon 129728",9,25,Rock Climbing,'NDgX+VDc;,United States
+12200018,Ziyoda,ISE,Lee Hana,ziyoda52@inha.edu,1019507014,20050322,F,"67 OndangRo, YeonsuGu, Incheon 126918",9,50,0,hL7g.9l?yd,Australia
+12200019,Kim Minho,IBT,Kang Daehyun,minho6@inha.edu,1058739735,19950705,M,"68 OndangRo, SeoGu, Incheon 128074",9,50,Dance Club,F*2tjqh9_J,South Korea
+12200020,Meerim Zhumagul,KLC,Choi Minseo,zhumagul67@inha.edu,1086428042,20000705,F,"47 JungangRo, BupyeongGu, Incheon 127222",9,50,Debate Team,zL8Z;x@Vu2,Brazil
+12200021,Takahashi Mei,KLC,Choi Minseo,mei98@inha.edu,1015673557,19960816,F,"7 MyeongdongRo, NamdongGu, Incheon 127152",9,0,Game Programming,a:xkfCZcUL,Germany
+12200022,Sarvar,ISE,Kang Daehyun,sarvar87@inha.edu,1071963784,20000210,M,"99 GeumgangRo, YeonsuGu, Incheon 123179",9,25,Debate Team,7^?^^@^_!},Australia
+12200023,Jung Donghyun,IBT,Jung Hoseok,donghyun46@inha.edu,1049659230,20020616,M,"90 CheongunRo, SeoGu, Incheon 122585",9,0,Dance Club,Sb}QUpMJF],India
+12200024,Malika,ISE,Jung Hoseok,malika41@inha.edu,1049714171,20010128,F,"59 GeumgangRo, BupyeongGu, Incheon 126154",9,0,Debate Team,z;{q$'uomj,United States
+12200025,Choi Soojin,IBT,Kim Seokjin,soojin1@inha.edu,1013024265,19961006,F,"18 GeumgangRo, SeoGu, Incheon 125253",9,0,Music Society,7gp/4>Cu\Y,United States
+12200026,Aibek Temir,KLC,Park Jimin,temir62@inha.edu,1061607376,20021106,M,"76 OndangRo, GyeyangGu, Incheon 128710",9,0,Game Programming,qJj1*nn{H=,Brazil
+12200027,Gulnoza,ISE,Lee Hana,gulnoza2@inha.edu,1020184169,20040622,F,"69 OndangRo, YeonsuGu, Incheon 125149",9,25,Music Society,RfiOJzCw+,United States
+12200028,Jung Donghyun,IBT,Jung Eunji,donghyun62@inha.edu,1060859279,20050809,M,"97 OndangRo, YeonsuGu, Incheon 125627",9,25,Game Programming,"0nRJ""m77Fa",Brazil
+12200029,Sarvar,ISE,Choi Minseo,sarvar17@inha.edu,1056844974,20000616,M,"98 JungangRo, NamdongGu, Incheon 122043",9,50,Rock Climbing,!mFA=%Vvh>,Germany
+12210000,Gulnoza,ISE,Choi Minseo,gulnoza64@inha.edu,1071952506,20010210,F,"48 MyeongdongRo, NamdongGu, Incheon 122281",8,0,Debate Team,QFaLu0XZ+%,Australia
+12210001,Kang Seoyeon,IBT,Jung Eunji,seoyeon12@inha.edu,1034868534,20021020,F,"84 MyeongdongRo, SeoGu, Incheon 120234",8,0,Rock Climbing,Pls5s$#xi[,South Korea
+12210002,Islom,ISE,Kim Seokjin,islom46@inha.edu,1048007292,20020325,M,"60 JungangRo, YeonsuGu, Incheon 125033",8,25,Rock Climbing,i`'(n~As(l,Brazil
+12210003,Kobayashi Riku,KLC,Jung Eunji,riku21@inha.edu,1014013372,20050713,M,"22 JungangRo, YeonsuGu, Incheon 120166",8,100,0,":d"")Z!1?Tj",Brazil
+12210004,Park Hyunjin,IBT,Choi Minseo,hyunjin35@inha.edu,1034849507,19981002,M,"90 MyeongdongRo, BupyeongGu, Incheon 125704",8,50,0,t%1B:!}c$P,South Korea
+12210005,Kang Seoyeon,IBT,Park Jimin,seoyeon42@inha.edu,1036986815,19980310,F,"57 OndangRo, YeonsuGu, Incheon 121414",8,25,Music Society,/}H*tJ*p\\,South Korea
+12210006,Aizada Nurlan,KLC,Choi Minseo,nurlan13@inha.edu,1027649447,20000827,F,"86 GeumgangRo, SeoGu, Incheon 122141",8,0,Music Society,Qy9Yap=M'I,Brazil
+12210007,Gulnoza,ISE,Lee Hana,gulnoza55@inha.edu,1044386596,19950209,F,"30 JungangRo, SeoGu, Incheon 127752",8,100,Dance Club,J2f$:V`!)U,Brazil
+12210008,Dilnoza,ISE,Kang Daehyun,dilnoza11@inha.edu,1072512204,20050901,F,"99 JungangRo, BupyeongGu, Incheon 126957",8,0,0,R}Osz{x9(.,Germany
+12210009,Park Hyunjin,IBT,Park Jimin,hyunjin25@inha.edu,1012447493,20040406,M,"87 JungangRo, YeonsuGu, Incheon 121879",8,0,Drama Club,2Nb$Gd4fB,South Korea
+12210010,Sarvar,ISE,Park Jimin,sarvar37@inha.edu,1063567293,19960917,M,"24 JungangRo, NamdongGu, Incheon 127178",8,25,0,"5{*m""~|K>^",India
+12210011,Dilnoza,ISE,Choi Minseo,dilnoza23@inha.edu,1049438254,20030420,F,"17 CheongunRo, GyeyangGu, Incheon 120183",8,100,0,"`o}!""\quuP",Brazil
+12210012,Tanaka Haruka,KLC,Jung Eunji,haruka76@inha.edu,1051658318,20040120,F,"96 MyeongdongRo, NamdongGu, Incheon 128373",8,0,Drama Club,1`c_UcF*pT,United States
+12210013,Dilnoza,ISE,Jung Eunji,dilnoza92@inha.edu,1087486713,20010609,F,"35 GeumgangRo, YeonsuGu, Incheon 122625",8,100,Skating,@+J[A{MsI%,India
+12210014,Kang Seoyeon,IBT,Kim Seokjin,seoyeon22@inha.edu,1068586782,20051221,F,"64 CheongunRo, NamdongGu, Incheon 126970",8,0,Music Society,b}>M$b~Q.e,South Korea
+12210015,Jahongir,ISE,Park Jimin,jahongir14@inha.edu,1094183024,20050217,M,"70 GeumgangRo, BupyeongGu, Incheon 124561",8,50,Game Programming,+x'0Y:omQ$,Uzbekistan
+12210016,Park Hyunjin,IBT,Jung Hoseok,hyunjin59@inha.edu,1035068056,20051225,M,"21 GeumgangRo, SeoGu, Incheon 129450",8,25,Skating,Ek<Jo!T[/5,South Korea
+12210017,Meerim Zhumagul,KLC,Choi Minseo,zhumagul92@inha.edu,1038051026,19950419,F,"37 CheongunRo, SeoGu, Incheon 120602",8,25,Game Programming,Z(w|zZ:r1I,United States
+12210018,Jung Donghyun,IBT,Lee Hana,donghyun72@inha.edu,1093147708,19951220,M,"39 MyeongdongRo, SeoGu, Incheon 127159",8,50,Music Society,#]73b.%(]},Germany
+12210019,Shohjahon,ISE,Jung Eunji,shohjahon92@inha.edu,1097535576,20040606,M,"18 JungangRo, NamdongGu, Incheon 125233",8,0,Rock Climbing,E_f'zwfFU=,Australia
+12210020,Lee Jisoo,IBT,Kim Seokjin,jisoo98@inha.edu,1053854932,20050809,F,"12 GeumgangRo, YeonsuGu, Incheon 127085",8,0,Music Society,bwt(lDp#NY,South Korea
+12210021,Park Hyunjin,IBT,Park Jimin,hyunjin39@inha.edu,1050825640,19990721,M,"83 CheongunRo, GyeyangGu, Incheon 126117",8,100,0,"!f@xotbI,'",South Korea
+12210022,Gulnoza,ISE,Lee Hana,gulnoza44@inha.edu,1017851642,20040623,F,"60 JungangRo, NamdongGu, Incheon 129299",8,50,Skating,Y$H`ys%Ya:,United States
+12210023,Malika,ISE,Park Jimin,malika5@inha.edu,1083832198,20001119,F,"32 OndangRo, YeonsuGu, Incheon 128461",8,50,Kayaking,N84vKrlTHp,Brazil
+12210024,Gulnoza,ISE,Jung Eunji,gulnoza51@inha.edu,1087068442,20030422,F,"75 GeumgangRo, GyeyangGu, Incheon 129870",8,0,0,dT~kZB)xHP,India
+12210025,Gulnoza,ISE,Lee Hana,gulnoza7@inha.edu,1024448607,19970722,F,"1 CheongunRo, SeoGu, Incheon 120039",8,0,Rock Climbing,j.PdsM.)\h,Brazil
+12210026,Kobayashi Riku,KLC,Choi Minseo,riku39@inha.edu,1067848979,20050310,M,"68 OndangRo, GyeyangGu, Incheon 123017",8,0,Dance Club,Um?!Dlk*b',United States
+12210027,Choi Soojin,IBT,Jung Hoseok,soojin53@inha.edu,1059348303,19971107,F,"12 OndangRo, SeoGu, Incheon 124534",8,25,Drama Club,"n]5""[:$sg`",United States
+12210028,Islom,ISE,Kang Daehyun,islom54@inha.edu,1069174759,20020718,M,"14 MyeongdongRo, NamdongGu, Incheon 126407",8,50,0,X&Z^;HN85N,India
+12210029,Min Win,KLC,Choi Minseo,win46@inha.edu,1091499390,20050828,M,"48 JungangRo, SeoGu, Incheon 125017",8,0,Game Programming,CfdbR@R>kO,India
+12210030,Park Hyunjin,IBT,Kang Daehyun,hyunjin11@inha.edu,1054561122,19960511,M,"66 GeumgangRo, NamdongGu, Incheon 125160",8,0,Rock Climbing,lzcCvTJFRB,South Korea
+12210031,Gulnoza,ISE,Lee Hana,gulnoza67@inha.edu,1037605444,20000815,F,"51 MyeongdongRo, NamdongGu, Incheon 122174",8,0,Skating,84I_tF)A4b,Germany
+12210032,Madina,ISE,Kang Daehyun,madina15@inha.edu,1048871595,19950304,F,"98 MyeongdongRo, NamdongGu, Incheon 127268",8,100,Game Programming,pIFz?.D\|y,Uzbekistan
+12210033,Shohjahon,ISE,Jung Hoseok,shohjahon25@inha.edu,1050996476,20040918,M,"24 MyeongdongRo, BupyeongGu, Incheon 120548",8,50,0,"+(YsBv""n?{",India
+12210034,Jahongir,ISE,Park Jimin,jahongir19@inha.edu,1086674617,20010327,M,"8 CheongunRo, YeonsuGu, Incheon 121479",8,0,Debate Team,MhS:Dk*)Vf,Uzbekistan
+12210035,Park Hyunjin,IBT,Jung Eunji,hyunjin17@inha.edu,1090654706,19980107,M,"14 GeumgangRo, GyeyangGu, Incheon 123369",8,0,Music Society,8O+3>WVdh7,South Korea
+12210036,Azizbek,ISE,Jung Eunji,azizbek33@inha.edu,1099544499,20011010,M,"50 CheongunRo, YeonsuGu, Incheon 124596",8,25,Drama Club,:G+Zjm6M5[,Germany
+12210037,Dilnoza,ISE,Lee Hana,dilnoza94@inha.edu,1017016929,20000418,F,"67 JungangRo, SeoGu, Incheon 120944",8,0,Kayaking,Lj~CH7fkSR,Australia
+12210038,Jahongir,ISE,Park Jimin,jahongir46@inha.edu,1021786085,20000605,M,"39 MyeongdongRo, SeoGu, Incheon 129107",8,0,Dance Club,tOa+k2mVtX,Uzbekistan
+12210039,Malika,ISE,Park Jimin,malika86@inha.edu,1065547144,19960317,F,"55 OndangRo, SeoGu, Incheon 128721",8,50,Kayaking,"qEi4,/6U,e",India
+12210040,Ziyoda,ISE,Kim Seokjin,ziyoda63@inha.edu,1071606504,19991113,F,"19 JungangRo, NamdongGu, Incheon 125158",8,50,Game Programming,"Q2BAnun,vR",India
+12210041,Azizbek,ISE,Lee Hana,azizbek44@inha.edu,1083777685,20011101,M,"17 OndangRo, GyeyangGu, Incheon 125280",8,0,Kayaking,)ye\{#UQCP,United States
+12210042,Azizbek,ISE,Choi Minseo,azizbek17@inha.edu,1045141027,19990627,M,"52 JungangRo, SeoGu, Incheon 120635",8,0,Rock Climbing,"{fA}""tE9<}",India
+12210043,Jung Donghyun,IBT,Park Jimin,donghyun24@inha.edu,1095789666,20040409,M,"44 JungangRo, NamdongGu, Incheon 120014",8,25,Drama Club,"u""X,M{ybVh",United States
+12210044,Aung Kyaw,KLC,Jung Hoseok,kyaw28@inha.edu,1028386898,20040822,M,"6 CheongunRo, BupyeongGu, Incheon 122700",8,0,Music Society,h>0~PCQ'r',Australia
+12210045,Kang Seoyeon,IBT,Kang Daehyun,seoyeon44@inha.edu,1062326391,19970916,F,"26 MyeongdongRo, SeoGu, Incheon 127004",8,25,Game Programming,"h@]""FC?|f?",South Korea
+12210046,Gulnoza,ISE,Lee Hana,gulnoza65@inha.edu,1035554141,19980103,F,"91 GeumgangRo, GyeyangGu, Incheon 122503",8,0,Skating,k(Q=F$L%(v,Germany
+12210047,Jung Donghyun,IBT,Kang Daehyun,donghyun93@inha.edu,1056815824,20000417,M,"44 OndangRo, GyeyangGu, Incheon 120852",8,0,Dance Club,z@o_f.XhE},Brazil
+12210048,Madina,ISE,Choi Minseo,madina80@inha.edu,1081365222,19980213,F,"53 JungangRo, NamdongGu, Incheon 129828",8,100,Kayaking,WJ<E8^uAly,Uzbekistan
+12210049,Min Win,KLC,Jung Eunji,win63@inha.edu,1024046871,19990308,M,"64 CheongunRo, YeonsuGu, Incheon 128068",8,50,Music Society,*!Ip9R9D1N,India
+12210050,Malika,ISE,Jung Hoseok,malika80@inha.edu,1095015429,19951122,F,"80 JungangRo, GyeyangGu, Incheon 125372",8,0,Game Programming,1P9]zTL*9D,Brazil
+12210051,Kang Seoyeon,IBT,Park Jimin,seoyeon77@inha.edu,1042507950,20010618,F,"22 CheongunRo, BupyeongGu, Incheon 123722",8,50,Drama Club,N3tCl(_i[^,South Korea
+12210052,Aung Kyaw,KLC,Lee Hana,kyaw87@inha.edu,1036102923,20000416,M,"75 CheongunRo, SeoGu, Incheon 124204",8,25,Kayaking,C2n~4Kh=qc,Germany
+12210053,Dilnoza,ISE,Choi Minseo,dilnoza71@inha.edu,1076985141,19971126,F,"81 OndangRo, YeonsuGu, Incheon 128162",8,0,Dance Club,r[H4t~Qa_o,Germany
+12210054,Jahongir,ISE,Kim Seokjin,jahongir85@inha.edu,1055256782,19991126,M,"44 JungangRo, YeonsuGu, Incheon 127318",8,0,Game Programming,|:e1xU;ffa,Uzbekistan
+12210055,Kim Minho,IBT,Lee Hana,minho38@inha.edu,1056052669,20010313,M,"13 CheongunRo, GyeyangGu, Incheon 124384",8,0,Debate Team,L|{Y%ox#Tj,South Korea
+12210056,Dilnoza,ISE,Park Jimin,dilnoza8@inha.edu,1063393381,19960823,F,"5 JungangRo, YeonsuGu, Incheon 122586",8,0,Game Programming,2@&S3+WiC.,Germany
+12210057,Yamada Taro,KLC,Choi Minseo,taro53@inha.edu,1042563397,20040722,M,"34 CheongunRo, BupyeongGu, Incheon 120183",8,0,0,]NrG[P!iz+,United States
+12210058,Ziyoda,ISE,Choi Minseo,ziyoda87@inha.edu,1068782162,19980713,F,"24 MyeongdongRo, YeonsuGu, Incheon 120586",8,0,0,y2+B)DFvHj,Germany
+12210059,Lee Jisoo,IBT,Lee Hana,jisoo89@inha.edu,1081684792,19961207,F,"40 CheongunRo, SeoGu, Incheon 120826",8,100,Game Programming,8`]P>`A'eJ,South Korea
+12210060,Yamada Taro,KLC,Kang Daehyun,taro59@inha.edu,1042957691,20011123,M,"59 GeumgangRo, NamdongGu, Incheon 127355",8,25,Music Society,c_nr{MRl_d,India
+12210061,Shohjahon,ISE,Lee Hana,shohjahon33@inha.edu,1074489314,19951209,M,"27 MyeongdongRo, SeoGu, Incheon 120060",8,0,Dance Club,to`wo:wOQ7,India
+12210062,Thuzar Hnin,KLC,Kim Seokjin,hnin11@inha.edu,1048379015,19960928,F,"49 OndangRo, BupyeongGu, Incheon 123719",8,0,Skating,oOA;~vL!1X,Germany
+12210063,Shohjahon,ISE,Park Jimin,shohjahon33@inha.edu,1054806566,20040317,M,"4 JungangRo, NamdongGu, Incheon 122374",8,50,Rock Climbing,"E5n,lp#Ci+",India
+12210064,Lee Jisoo,IBT,Jung Hoseok,jisoo29@inha.edu,1059133800,20030425,F,"30 CheongunRo, GyeyangGu, Incheon 122711",8,25,0,t(Z}C=F}u(,South Korea
+12210065,Park Hyunjin,IBT,Jung Hoseok,hyunjin22@inha.edu,1025551149,19991202,M,"92 GeumgangRo, YeonsuGu, Incheon 129245",8,0,Dance Club,3A`G:\ab&B,South Korea
+12210066,Jahongir,ISE,Jung Eunji,jahongir72@inha.edu,1081866403,20040505,M,"56 OndangRo, BupyeongGu, Incheon 129473",8,100,Game Programming,2ueZzxsi5n,Uzbekistan
+12210067,Jung Donghyun,IBT,Jung Eunji,donghyun75@inha.edu,1055161410,20050413,M,"60 MyeongdongRo, SeoGu, Incheon 128107",8,0,Dance Club,v<D>$U>F|p,Australia
+12210068,Islom,ISE,Jung Hoseok,islom47@inha.edu,1012228330,20051103,M,"73 CheongunRo, SeoGu, Incheon 123832",8,0,Rock Climbing,CFvLpzw/v@,Brazil
+12210069,Meerim Zhumagul,KLC,Jung Eunji,zhumagul10@inha.edu,1011374948,19950224,F,"68 MyeongdongRo, YeonsuGu, Incheon 127545",8,50,Kayaking,V^88h0g[]<,Australia
+12210070,Park Hyunjin,IBT,Kang Daehyun,hyunjin50@inha.edu,1010483847,20010711,M,"32 CheongunRo, GyeyangGu, Incheon 128262",8,0,Drama Club,"[Q"".tz,v*Y",South Korea
+12210071,Shohjahon,ISE,Kang Daehyun,shohjahon94@inha.edu,1079942818,20011009,M,"31 JungangRo, NamdongGu, Incheon 125083",8,100,Kayaking,zTCCl&H(~^,Australia
+12210072,Dilnoza,ISE,Park Jimin,dilnoza56@inha.edu,1068139609,20010201,F,"12 OndangRo, GyeyangGu, Incheon 129582",8,25,Rock Climbing,a;KU*M`7nO,Brazil
+12210073,Aizada Nurlan,KLC,Kang Daehyun,nurlan18@inha.edu,1087682187,20021206,F,"69 CheongunRo, YeonsuGu, Incheon 127432",8,50,Dance Club,"0gk|hupC""G",India
+12210074,Jung Donghyun,IBT,Choi Minseo,donghyun78@inha.edu,1036452096,20050626,M,"77 JungangRo, NamdongGu, Incheon 123418",8,25,Debate Team,/`J\b`b:ne,Germany
+12210075,Jung Donghyun,IBT,Park Jimin,donghyun48@inha.edu,1010681112,19970327,M,"24 GeumgangRo, SeoGu, Incheon 126051",8,0,Drama Club,""":l{l91]UM",Australia
+12210076,Shohjahon,ISE,Kim Seokjin,shohjahon37@inha.edu,1083827222,20030722,M,"40 OndangRo, GyeyangGu, Incheon 122967",8,25,Kayaking,m='&vHDhPn,Germany
+12210077,Kim Minho,IBT,Kang Daehyun,minho12@inha.edu,1030586493,20001126,M,"2 CheongunRo, BupyeongGu, Incheon 127999",8,25,0,@p>z2S#UkC,South Korea
+12210078,Kim Minho,IBT,Choi Minseo,minho4@inha.edu,1091318837,19980612,M,"71 JungangRo, SeoGu, Incheon 121216",8,100,0,d$lP`5!8w,South Korea
+12210079,Ziyoda,ISE,Kang Daehyun,ziyoda7@inha.edu,1068406300,20051005,F,"72 GeumgangRo, YeonsuGu, Incheon 126925",8,0,Drama Club,"xu>aur1""kC",India
+12210080,Jung Donghyun,IBT,Jung Hoseok,donghyun23@inha.edu,1073706592,20000716,M,"94 CheongunRo, SeoGu, Incheon 124912",8,50,Skating,ZdSm>'#3hq,India
+12210081,Kim Minho,IBT,Jung Hoseok,minho35@inha.edu,1063923396,20021122,M,"85 JungangRo, YeonsuGu, Incheon 120769",8,0,Dance Club,=@$>2HgwV,South Korea
+12210082,Kang Seoyeon,IBT,Kang Daehyun,seoyeon87@inha.edu,1029738899,19981219,F,"76 JungangRo, NamdongGu, Incheon 125633",8,25,0,0uZ5n*H:f[,South Korea
+12210083,Kang Seoyeon,IBT,Choi Minseo,seoyeon95@inha.edu,1088333865,20010721,F,"56 OndangRo, GyeyangGu, Incheon 127430",8,100,0,Jp!Ph@$z<N,South Korea
+12210084,Kang Seoyeon,IBT,Jung Eunji,seoyeon45@inha.edu,1011488678,20000618,F,"36 GeumgangRo, YeonsuGu, Incheon 127216",8,0,Kayaking,"eHlgc>Yj""a",South Korea
+12210085,Azizbek,ISE,Jung Eunji,azizbek90@inha.edu,1071351661,19960212,M,"63 MyeongdongRo, NamdongGu, Incheon 123127",8,0,Drama Club,up_U|9sWG.,United States
+12210086,Lee Jisoo,IBT,Jung Hoseok,jisoo37@inha.edu,1043917447,20020623,F,"37 OndangRo, YeonsuGu, Incheon 121748",8,0,Debate Team,~<98atZnr9,South Korea
+12210087,Kim Minho,IBT,Jung Hoseok,minho60@inha.edu,1083702728,19960524,M,"71 GeumgangRo, BupyeongGu, Incheon 127536",8,0,Kayaking,r6u5=jMgg^,South Korea
+12210088,Madina,ISE,Kang Daehyun,madina67@inha.edu,1061565307,20041014,F,"72 JungangRo, GyeyangGu, Incheon 122258",8,25,Game Programming,"Md,19PoNSM",Uzbekistan
+12210089,Gulnoza,ISE,Park Jimin,gulnoza16@inha.edu,1051223039,19980903,F,"17 MyeongdongRo, YeonsuGu, Incheon 122995",8,0,Rock Climbing,14]]bn?z$C,United States
+12210090,Park Hyunjin,IBT,Kim Seokjin,hyunjin96@inha.edu,1061165650,19951202,M,"68 MyeongdongRo, BupyeongGu, Incheon 126890",8,0,Music Society,1vK^kcGb((,South Korea
+12210091,Azizbek,ISE,Lee Hana,azizbek52@inha.edu,1067744733,20030420,M,"24 JungangRo, SeoGu, Incheon 125152",8,0,Rock Climbing,LnK(6jj8QU,Brazil
+12210092,Jahongir,ISE,Jung Hoseok,jahongir94@inha.edu,1090935544,19991217,M,"58 CheongunRo, GyeyangGu, Incheon 122095",8,0,Debate Team,1<Z5$R`g_&,Uzbekistan
+12210093,Aibek Temir,KLC,Lee Hana,temir17@inha.edu,1090795551,20030808,M,"45 MyeongdongRo, NamdongGu, Incheon 126779",8,100,Game Programming,SD''tJQ=G5,India
+12210094,Kang Seoyeon,IBT,Kang Daehyun,seoyeon54@inha.edu,1047925121,20011009,F,"38 JungangRo, GyeyangGu, Incheon 124256",8,0,Game Programming,+9wYCf9l7C,South Korea
+12210095,Sarvar,ISE,Kang Daehyun,sarvar17@inha.edu,1043834362,20051020,M,"33 CheongunRo, GyeyangGu, Incheon 126420",8,50,Rock Climbing,JlYKeKht<,United States
+12210096,Gulnoza,ISE,Jung Hoseok,gulnoza90@inha.edu,1042329865,20040521,F,"72 JungangRo, YeonsuGu, Incheon 121947",8,100,0,1tN)`Hxh|~,United States
+12210097,Jung Donghyun,IBT,Park Jimin,donghyun56@inha.edu,1059106779,19950704,M,"29 JungangRo, SeoGu, Incheon 121889",8,0,Kayaking,MBZbbSRAqK,Australia
+12210098,Adi Putri,KLC,Park Jimin,putri60@inha.edu,1083965556,20000702,F,"75 MyeongdongRo, GyeyangGu, Incheon 122974",8,0,Drama Club,"j""|NK#gr(j",Brazil
+12210099,Azizbek,ISE,Kim Seokjin,azizbek88@inha.edu,1064616552,19990312,M,"31 JungangRo, BupyeongGu, Incheon 128906",8,0,Dance Club,y@Hv\9S1M},Germany
+12210100,Dilnoza,ISE,Jung Eunji,dilnoza73@inha.edu,1037521940,20020726,F,"54 CheongunRo, NamdongGu, Incheon 124851",8,100,Debate Team,"JXv@7,!4+(",India
+12210101,Dilnoza,ISE,Kim Seokjin,dilnoza79@inha.edu,1079426517,20000928,F,"55 CheongunRo, YeonsuGu, Incheon 121675",8,25,Drama Club,Vs:G/znxO2,Australia
+12210102,Jung Donghyun,IBT,Lee Hana,donghyun39@inha.edu,1072295861,20050520,M,"23 MyeongdongRo, NamdongGu, Incheon 121036",8,0,Kayaking,vmA@X2kY2(,Germany
+12210103,Kim Minho,IBT,Kim Seokjin,minho30@inha.edu,1079834417,20000406,M,"28 MyeongdongRo, GyeyangGu, Incheon 129736",8,0,Game Programming,Dv$o4;?%w3,South Korea
+12210104,Dilnoza,ISE,Lee Hana,dilnoza49@inha.edu,1094012223,20050815,F,"43 CheongunRo, YeonsuGu, Incheon 127101",8,50,0,A]hlW#BAYW,Australia
+12210105,Ziyoda,ISE,Lee Hana,ziyoda13@inha.edu,1031655664,19981109,F,"24 MyeongdongRo, BupyeongGu, Incheon 122105",8,0,0,e)57|_Jh7K,Australia
+12210106,Shohjahon,ISE,Lee Hana,shohjahon79@inha.edu,1083704778,19960327,M,"2 OndangRo, GyeyangGu, Incheon 129866",8,50,Debate Team,"4;g""%E46ev",India
+12210107,Kim Minho,IBT,Kim Seokjin,minho77@inha.edu,1085833404,19970520,M,"22 JungangRo, GyeyangGu, Incheon 120995",8,0,Rock Climbing,T2R9qD#sd/,South Korea
+12210108,Aibek Temir,KLC,Jung Eunji,temir10@inha.edu,1082213787,20040403,M,"20 OndangRo, SeoGu, Incheon 128923",8,0,0,`gyrQ&ZB{6,India
+12210109,Ziyoda,ISE,Jung Hoseok,ziyoda94@inha.edu,1072826048,20030413,F,"2 JungangRo, NamdongGu, Incheon 127168",8,0,Skating,L12?C[#>5b,India
+12210110,Aibek Temir,KLC,Lee Hana,temir53@inha.edu,1043944299,19950703,M,"39 GeumgangRo, NamdongGu, Incheon 127307",8,100,Kayaking,BR_S[6c%iv,United States
+12210111,Madina,ISE,Park Jimin,madina43@inha.edu,1016886202,19971112,F,"15 MyeongdongRo, SeoGu, Incheon 122626",8,0,Skating,b*Q^mGS|cG,Uzbekistan
+12210112,Lee Jisoo,IBT,Choi Minseo,jisoo79@inha.edu,1013075056,19970807,F,"86 CheongunRo, YeonsuGu, Incheon 126269",8,0,Music Society,4zn{+[WBuS,South Korea
+12210113,Thuzar Hnin,KLC,Jung Hoseok,hnin35@inha.edu,1050376911,20000420,F,"2 CheongunRo, BupyeongGu, Incheon 126006",8,100,Kayaking,{ysCQ*jH`y,Australia
+12210114,Malika,ISE,Jung Eunji,malika83@inha.edu,1025275218,19980510,F,"80 JungangRo, YeonsuGu, Incheon 122004",8,100,Dance Club,5Kk[Y(oC6,Brazil
+12210115,Kang Seoyeon,IBT,Kang Daehyun,seoyeon58@inha.edu,1070323803,20000112,F,"53 MyeongdongRo, YeonsuGu, Incheon 125398",8,0,Music Society,",:D9j44YTD",South Korea
+12210116,Kim Minho,IBT,Park Jimin,minho49@inha.edu,1043145992,19980614,M,"56 JungangRo, NamdongGu, Incheon 126952",8,0,Drama Club,62t`k~pXw\,South Korea
+12210117,Aibek Temir,KLC,Lee Hana,temir85@inha.edu,1057676405,20020719,M,"4 CheongunRo, SeoGu, Incheon 129966",8,25,Kayaking,`O\w}t@K$d,India
+12210118,Choi Soojin,IBT,Kim Seokjin,soojin15@inha.edu,1025061045,19981102,F,"51 OndangRo, SeoGu, Incheon 123635",8,100,0,9>X]I_;&zK,Germany
+12210119,Kang Seoyeon,IBT,Kang Daehyun,seoyeon2@inha.edu,1064348099,19981123,F,"39 OndangRo, SeoGu, Incheon 127988",8,0,Kayaking,.f5qoL$tRg,South Korea
+12210120,Park Hyunjin,IBT,Kang Daehyun,hyunjin63@inha.edu,1056874567,19980719,M,"86 GeumgangRo, GyeyangGu, Incheon 125452",8,0,Game Programming,"K),Uiz#thl",South Korea
+12210121,Park Hyunjin,IBT,Jung Hoseok,hyunjin77@inha.edu,1015833713,19951007,M,"4 OndangRo, GyeyangGu, Incheon 123600",8,0,0,U:%Z:/6C9y,South Korea
+12210122,Choi Soojin,IBT,Kim Seokjin,soojin46@inha.edu,1062694112,20050404,F,"56 CheongunRo, YeonsuGu, Incheon 120854",8,100,Debate Team,^?qt]c7n;$,Brazil
+12210123,Adi Putri,KLC,Park Jimin,putri5@inha.edu,1086086887,20020621,F,"66 MyeongdongRo, YeonsuGu, Incheon 127603",8,0,Kayaking,"i:nx^Sg1,:",Australia
+12210124,Shohjahon,ISE,Jung Hoseok,shohjahon1@inha.edu,1071556192,20030214,M,"42 MyeongdongRo, YeonsuGu, Incheon 127065",8,0,Dance Club,M}gW7cT~r,Brazil
+12210125,Shohjahon,ISE,Jung Hoseok,shohjahon82@inha.edu,1098568681,19990419,M,"27 OndangRo, NamdongGu, Incheon 122887",8,0,0,rHC^H:Jr;5,United States
+12210126,Park Hyunjin,IBT,Lee Hana,hyunjin46@inha.edu,1047414043,19950605,M,"69 GeumgangRo, NamdongGu, Incheon 120451",8,25,Debate Team,l!.\{~_qVB,South Korea
+12210127,Jung Donghyun,IBT,Jung Hoseok,donghyun70@inha.edu,1012822339,20000802,M,"81 MyeongdongRo, GyeyangGu, Incheon 120940",8,100,Kayaking,fLV:!Nz8(L,United States
+12210128,Kim Minho,IBT,Kim Seokjin,minho15@inha.edu,1050848589,20010301,M,"86 JungangRo, GyeyangGu, Incheon 125707",8,0,Drama Club,v)nDD[)E,South Korea
+12210129,Jahongir,ISE,Jung Hoseok,jahongir54@inha.edu,1034784134,20050609,M,"55 OndangRo, BupyeongGu, Incheon 121848",8,0,Rock Climbing,U!<Hj{ovE=,Uzbekistan
+12210130,Park Hyunjin,IBT,Park Jimin,hyunjin73@inha.edu,1034269624,20050502,M,"51 GeumgangRo, SeoGu, Incheon 126054",8,100,Rock Climbing,9k4ynipn`,South Korea
+12210131,Malika,ISE,Kang Daehyun,malika96@inha.edu,1067162363,19970427,F,"16 GeumgangRo, BupyeongGu, Incheon 127796",8,25,Skating,4_;9P0R*bL,Brazil
+12210132,Park Hyunjin,IBT,Kim Seokjin,hyunjin41@inha.edu,1020703016,20030217,M,"45 GeumgangRo, GyeyangGu, Incheon 121370",8,0,Dance Club,D?kdntgy8',South Korea
+12210133,Gulnoza,ISE,Park Jimin,gulnoza57@inha.edu,1022035207,19980314,F,"30 MyeongdongRo, BupyeongGu, Incheon 121593",8,0,Kayaking,|`:.XR+IZL,Brazil
+12210134,Kim Minho,IBT,Choi Minseo,minho37@inha.edu,1063336728,20000728,M,"30 GeumgangRo, NamdongGu, Incheon 129067",8,0,Rock Climbing,{4@Qr/)y&',South Korea
+12210000,Islom,ISE,Jung Hoseok,islom92@inha.edu,1044031910,19971215,M,"68 CheongunRo, YeonsuGu, Incheon 125904",7,25,Debate Team,I/Y(M:xZ<~,Brazil
+12210001,Jung Donghyun,IBT,Jung Eunji,donghyun82@inha.edu,1096285749,20001225,M,"89 OndangRo, NamdongGu, Incheon 123276",7,50,Debate Team,%;)Kz=]>0A,Australia
+12210002,Aizada Nurlan,KLC,Kang Daehyun,nurlan34@inha.edu,1030927923,19980808,F,"34 CheongunRo, BupyeongGu, Incheon 125558",7,0,Kayaking,"&7""euSK""GL",Brazil
+12210003,Malika,ISE,Jung Hoseok,malika88@inha.edu,1070667273,20010821,F,"93 OndangRo, YeonsuGu, Incheon 125474",7,100,Debate Team,V21wLZj@Pu,Australia
+12210004,Kang Seoyeon,IBT,Lee Hana,seoyeon85@inha.edu,1059496601,20031216,F,"81 GeumgangRo, NamdongGu, Incheon 121521",7,0,Debate Team,6b+@_ZTMrc,South Korea
+12210005,Madina,ISE,Park Jimin,madina44@inha.edu,1023838560,19950719,F,"96 OndangRo, BupyeongGu, Incheon 123613",7,25,Rock Climbing,"BPqZ?RMe""/",Uzbekistan
+12210006,Choi Soojin,IBT,Jung Hoseok,soojin67@inha.edu,1048015610,19960101,F,"70 GeumgangRo, NamdongGu, Incheon 123781",7,50,0,@?@MwX]SS0,United States
+12210007,Jung Donghyun,IBT,Lee Hana,donghyun45@inha.edu,1042733963,19990307,M,"87 MyeongdongRo, YeonsuGu, Incheon 129223",7,50,Drama Club,xWyCf76T)Z,India
+12210008,Lee Jisoo,IBT,Jung Hoseok,jisoo5@inha.edu,1062638841,20000827,F,"70 OndangRo, SeoGu, Incheon 127643",7,0,Debate Team,v[g$.']AZX,South Korea
+12210009,Yamada Taro,KLC,Jung Hoseok,taro26@inha.edu,1012032495,19960625,M,"63 CheongunRo, BupyeongGu, Incheon 121330",7,50,0,vEei9nzvu<,India
+12210010,Madina,ISE,Park Jimin,madina85@inha.edu,1032068710,19980515,F,"96 GeumgangRo, YeonsuGu, Incheon 124860",7,100,Dance Club,*pCS?Q'AYO,Uzbekistan
+12210011,Jahongir,ISE,Jung Hoseok,jahongir44@inha.edu,1016205289,19960512,M,"31 MyeongdongRo, GyeyangGu, Incheon 121512",7,0,0,g5zLUp+q>~,Uzbekistan
+12210012,Jung Donghyun,IBT,Park Jimin,donghyun27@inha.edu,1011636812,19980322,M,"70 JungangRo, SeoGu, Incheon 121558",7,25,Game Programming,YY}|[XVXNE,United States
+12210013,Madina,ISE,Jung Hoseok,madina3@inha.edu,1063744999,20040311,F,"97 MyeongdongRo, BupyeongGu, Incheon 120157",7,0,Rock Climbing,_]C)~v?PyV,Uzbekistan
+12210014,Kang Seoyeon,IBT,Choi Minseo,seoyeon53@inha.edu,1029832457,19960220,F,"49 JungangRo, GyeyangGu, Incheon 126702",7,25,Rock Climbing,/4$C'Jpa4),South Korea
+12210015,Dilnoza,ISE,Park Jimin,dilnoza9@inha.edu,1050567154,19980819,F,"76 OndangRo, YeonsuGu, Incheon 124646",7,0,0,<]5Y4is)T,Germany
+12210016,Islom,ISE,Lee Hana,islom38@inha.edu,1068554605,20000311,M,"14 GeumgangRo, BupyeongGu, Incheon 128382",7,50,Music Society,6@RjC.}3K\,India
+12210017,Dilnoza,ISE,Jung Eunji,dilnoza1@inha.edu,1022954493,19990727,F,"36 MyeongdongRo, BupyeongGu, Incheon 123129",7,25,Dance Club,"o!B""I1V}`",United States
+12210018,Kim Minho,IBT,Lee Hana,minho6@inha.edu,1029838387,20000913,M,"12 GeumgangRo, NamdongGu, Incheon 121298",7,0,0,~+A`i^wwXn,South Korea
+12210019,Shohjahon,ISE,Jung Eunji,shohjahon50@inha.edu,1038812509,19960602,M,"63 JungangRo, SeoGu, Incheon 128145",7,100,Drama Club,h>Fsc]k?G[,Germany
+12210020,Gulnoza,ISE,Lee Hana,gulnoza74@inha.edu,1010563635,19960404,F,"60 MyeongdongRo, YeonsuGu, Incheon 120919",7,50,Game Programming,E013~*1@V~,India
+12210021,Madina,ISE,Lee Hana,madina8@inha.edu,1090847738,20041018,F,"19 CheongunRo, YeonsuGu, Incheon 121030",7,0,Game Programming,1wuknlMhjm,Uzbekistan
+12210022,Azizbek,ISE,Jung Hoseok,azizbek96@inha.edu,1073879472,19991111,M,"91 GeumgangRo, GyeyangGu, Incheon 120260",7,50,0,"7cC3)xA""Pf",Australia
+12210023,Dilnoza,ISE,Park Jimin,dilnoza83@inha.edu,1084385157,20020127,F,"90 CheongunRo, GyeyangGu, Incheon 122488",7,0,Rock Climbing,KQeId#Scyh,Australia
+12210024,Choi Soojin,IBT,Choi Minseo,soojin77@inha.edu,1020955847,20010414,F,"35 OndangRo, GyeyangGu, Incheon 121726",7,100,Rock Climbing,PTRP+i_5=$,Germany
+12210025,Takahashi Mei,KLC,Jung Hoseok,mei12@inha.edu,1022551623,20041126,F,"47 OndangRo, SeoGu, Incheon 125106",7,50,Game Programming,3U#AQ`<e0M,Germany
+12210026,Choi Soojin,IBT,Choi Minseo,soojin93@inha.edu,1069169418,19960909,F,"23 JungangRo, YeonsuGu, Incheon 129258",7,0,Rock Climbing,\kr*^w]3?c,Brazil
+12210027,Choi Soojin,IBT,Jung Hoseok,soojin12@inha.edu,1068378212,19990325,F,"18 CheongunRo, NamdongGu, Incheon 128585",7,25,Dance Club,DRuhG0N|C;,Germany
+12210028,Aibek Temir,KLC,Park Jimin,temir23@inha.edu,1057351289,19960821,M,"63 OndangRo, GyeyangGu, Incheon 123402",7,0,Kayaking,Xdn1oAl$kG,Australia
+12210029,Ruslan Bakyt,KLC,Park Jimin,bakyt45@inha.edu,1027041188,19970803,M,"21 GeumgangRo, GyeyangGu, Incheon 129627",7,50,Skating,.cRz^>cQZ0,Australia
+12210030,Islom,ISE,Park Jimin,islom88@inha.edu,1024822426,20031028,M,"38 CheongunRo, SeoGu, Incheon 128498",7,100,Music Society,s<7M*0FqEl,United States
+12210031,Kang Seoyeon,IBT,Jung Eunji,seoyeon31@inha.edu,1048582978,19980703,F,"59 JungangRo, YeonsuGu, Incheon 129972",7,25,Game Programming,h\6fsnY>^W,South Korea
+12210032,Sarvar,ISE,Lee Hana,sarvar53@inha.edu,1063898153,19990612,M,"89 GeumgangRo, BupyeongGu, Incheon 129362",7,0,Rock Climbing,lx:Kcj3`e),Germany
+12210033,Lee Jisoo,IBT,Kang Daehyun,jisoo38@inha.edu,1055379312,19990809,F,"13 CheongunRo, YeonsuGu, Incheon 123037",7,0,0,SI<~8G?So',South Korea
+12210034,Choi Soojin,IBT,Choi Minseo,soojin31@inha.edu,1054018580,20000307,F,"58 GeumgangRo, SeoGu, Incheon 121923",7,0,Game Programming,.6U`hnKVGZ,Brazil
+12210035,Min Win,KLC,Kang Daehyun,win61@inha.edu,1046933879,19950813,M,"40 OndangRo, YeonsuGu, Incheon 125408",7,50,0,"=e;NZ,_?I(",Australia
+12210036,Thuzar Hnin,KLC,Lee Hana,hnin54@inha.edu,1087183121,19970710,F,"10 CheongunRo, YeonsuGu, Incheon 127816",7,25,Debate Team,5E):4y*$7$,India
+12210037,Aizada Nurlan,KLC,Choi Minseo,nurlan73@inha.edu,1093735486,19991016,F,"36 OndangRo, YeonsuGu, Incheon 125665",7,0,0,d``t{\{]4,Australia
+12210038,Choi Soojin,IBT,Choi Minseo,soojin2@inha.edu,1097307290,19961014,F,"53 CheongunRo, YeonsuGu, Incheon 124334",7,100,0,Z0$GqB*#?.,Brazil
+12210039,Kim Minho,IBT,Kim Seokjin,minho67@inha.edu,1018181975,19960115,M,"54 MyeongdongRo, SeoGu, Incheon 126125",7,0,Rock Climbing,"L\e@@^@P=""",South Korea
+12210040,Jung Donghyun,IBT,Jung Eunji,donghyun29@inha.edu,1091022302,19980109,M,"77 JungangRo, GyeyangGu, Incheon 126052",7,50,Dance Club,<4wD694Vmc,Brazil
+12210041,Kang Seoyeon,IBT,Lee Hana,seoyeon58@inha.edu,1019367478,20010607,F,"57 MyeongdongRo, GyeyangGu, Incheon 121676",7,0,Kayaking,%{u4BJkHps,South Korea
+12210042,Choi Soojin,IBT,Kim Seokjin,soojin21@inha.edu,1023503354,19971014,F,"38 MyeongdongRo, YeonsuGu, Incheon 123806",7,0,Dance Club,vY2j5Cq^X%,Germany
+12210043,Park Hyunjin,IBT,Jung Eunji,hyunjin45@inha.edu,1061177811,20010206,M,"34 GeumgangRo, BupyeongGu, Incheon 129423",7,100,Kayaking,l<f8HVfR9,South Korea
+12210044,Jahongir,ISE,Kim Seokjin,jahongir79@inha.edu,1058435349,20041120,M,"12 OndangRo, BupyeongGu, Incheon 124735",7,100,Dance Club,n+1FreXR~,Uzbekistan
+12210045,Kim Minho,IBT,Lee Hana,minho76@inha.edu,1075597396,20000819,M,"15 OndangRo, NamdongGu, Incheon 122530",7,100,Rock Climbing,;V+NmCDc\;,South Korea
+12210046,Gulnoza,ISE,Kang Daehyun,gulnoza13@inha.edu,1059132751,20010110,F,"60 MyeongdongRo, NamdongGu, Incheon 128797",7,100,Skating,py):~3veyu,United States
+12210047,Ziyoda,ISE,Park Jimin,ziyoda14@inha.edu,1063947044,19950213,F,"80 GeumgangRo, YeonsuGu, Incheon 123969",7,0,0,z>Y)Ev/]z+,Brazil
+12210048,Sarvar,ISE,Choi Minseo,sarvar84@inha.edu,1020285396,20020626,M,"35 MyeongdongRo, YeonsuGu, Incheon 129163",7,0,Rock Climbing,peb}%7F#qy,Germany
+12210049,Ziyoda,ISE,Choi Minseo,ziyoda31@inha.edu,1092015667,19970210,F,"28 CheongunRo, BupyeongGu, Incheon 125687",7,25,Game Programming,Mx.9Ls~n=[,Germany
+12210050,Azizbek,ISE,Kang Daehyun,azizbek80@inha.edu,1016104752,20041127,M,"46 CheongunRo, BupyeongGu, Incheon 128278",7,0,Rock Climbing,"Zo,H6Xcit2",Australia
+12210051,Sarvar,ISE,Park Jimin,sarvar84@inha.edu,1054016622,19980406,M,"10 GeumgangRo, SeoGu, Incheon 121729",7,0,0,3FVkuFZd3],United States
+12210052,Madina,ISE,Park Jimin,madina21@inha.edu,1026136164,20030514,F,"2 JungangRo, SeoGu, Incheon 123748",7,50,Rock Climbing,HSWKOUlC_T,Uzbekistan
+12210053,Kang Seoyeon,IBT,Kim Seokjin,seoyeon22@inha.edu,1098517188,19950717,F,"69 OndangRo, GyeyangGu, Incheon 127483",7,0,0,K}RC1=K1$<,South Korea
+12210054,Shohjahon,ISE,Park Jimin,shohjahon36@inha.edu,1019642987,19971007,M,"51 CheongunRo, BupyeongGu, Incheon 122508",7,50,Game Programming,4tQ$rVp<V:,Germany
+12210055,Thuzar Hnin,KLC,Lee Hana,hnin50@inha.edu,1015877608,19960326,F,"59 MyeongdongRo, YeonsuGu, Incheon 120984",7,0,Debate Team,6[{'R@!)YB,India
+12210056,Min Win,KLC,Park Jimin,win80@inha.edu,1022329461,20030714,M,"2 GeumgangRo, GyeyangGu, Incheon 128823",7,0,0,>k{oCmy882,Brazil
+12210057,Islom,ISE,Kim Seokjin,islom71@inha.edu,1025741087,20030916,M,"50 CheongunRo, GyeyangGu, Incheon 126085",7,50,0,y4U]YB40nV,Australia
+12210058,Jung Donghyun,IBT,Kim Seokjin,donghyun70@inha.edu,1014775658,19950407,M,"18 OndangRo, BupyeongGu, Incheon 122532",7,0,0,rTUArN`2=~,Australia
+12210059,Kim Minho,IBT,Kang Daehyun,minho79@inha.edu,1060276787,20040526,M,"58 MyeongdongRo, SeoGu, Incheon 129539",7,0,Dance Club,OtAP@EM+8&,South Korea
+12210060,Kang Seoyeon,IBT,Jung Eunji,seoyeon41@inha.edu,1096798580,19991204,F,"87 JungangRo, GyeyangGu, Incheon 120155",7,0,0,s=3n4LB1$,South Korea
+12210061,Lee Jisoo,IBT,Lee Hana,jisoo87@inha.edu,1074252425,20051009,F,"13 GeumgangRo, GyeyangGu, Incheon 122905",7,100,Game Programming,"KJ#pn`YZ,S",South Korea
+12210062,Jung Donghyun,IBT,Jung Eunji,donghyun99@inha.edu,1096915623,20050106,M,"21 GeumgangRo, SeoGu, Incheon 126727",7,0,Rock Climbing,AuyBy(.&]V,Australia
+12210063,Azizbek,ISE,Park Jimin,azizbek39@inha.edu,1089794219,20031127,M,"99 MyeongdongRo, GyeyangGu, Incheon 126604",7,50,Skating,^/yVX$*F2,Brazil
+12210064,Park Hyunjin,IBT,Choi Minseo,hyunjin56@inha.edu,1064906307,20031216,M,"78 JungangRo, SeoGu, Incheon 128403",7,0,0,N}qm1JJQX@,South Korea
+12210065,Islom,ISE,Choi Minseo,islom71@inha.edu,1036498237,20020520,M,"99 GeumgangRo, NamdongGu, Incheon 129628",7,25,Rock Climbing,?hb6axXcW9,India
+12210066,Azizbek,ISE,Choi Minseo,azizbek94@inha.edu,1026453295,20040610,M,"23 GeumgangRo, SeoGu, Incheon 129864",7,0,Kayaking,Q3z[}6UzJK,Germany
+12210067,Jahongir,ISE,Jung Hoseok,jahongir55@inha.edu,1035253142,20050515,M,"93 OndangRo, NamdongGu, Incheon 126961",7,0,Dance Club,jyet)o74Ag,Uzbekistan
+12210068,Park Hyunjin,IBT,Jung Eunji,hyunjin81@inha.edu,1014443081,20021015,M,"36 CheongunRo, YeonsuGu, Incheon 126804",7,0,0,^J0XZx1.?.,South Korea
+12210069,Kang Seoyeon,IBT,Choi Minseo,seoyeon38@inha.edu,1053638364,20020512,F,"99 OndangRo, NamdongGu, Incheon 125114",7,0,Kayaking,NP1A6|e1rB,South Korea
+12210070,Jahongir,ISE,Choi Minseo,jahongir74@inha.edu,1037801377,20050716,M,"91 MyeongdongRo, GyeyangGu, Incheon 128752",7,0,Drama Club,"FD$q~Ri#*,",Uzbekistan
+12210071,Jahongir,ISE,Jung Hoseok,jahongir27@inha.edu,1090562859,19950313,M,"67 JungangRo, YeonsuGu, Incheon 126894",7,100,Rock Climbing,FGBOq=L=k,Uzbekistan
+12210072,Choi Soojin,IBT,Choi Minseo,soojin3@inha.edu,1015822906,20051224,F,"45 CheongunRo, SeoGu, Incheon 126274",7,25,Kayaking,0:z7(!jyP},India
+12210073,Aibek Temir,KLC,Kim Seokjin,temir77@inha.edu,1029814430,20020626,M,"65 GeumgangRo, GyeyangGu, Incheon 129193",7,50,Kayaking,y}r)M0|RCh,Germany
+12210074,Adi Putri,KLC,Jung Eunji,putri91@inha.edu,1050938985,20020918,F,"49 JungangRo, BupyeongGu, Incheon 125287",7,50,Kayaking,"vB^S""j4u]",Brazil
+12210075,Jung Donghyun,IBT,Kim Seokjin,donghyun77@inha.edu,1092707142,19960624,M,"86 CheongunRo, SeoGu, Incheon 128402",7,50,Music Society,~D+4`'(r59,Australia
+12210076,Dilnoza,ISE,Kim Seokjin,dilnoza4@inha.edu,1091094395,19970514,F,"84 MyeongdongRo, NamdongGu, Incheon 121240",7,100,Rock Climbing,"{AvkvWU""R1",Brazil
+12210077,Islom,ISE,Kim Seokjin,islom79@inha.edu,1055626506,20040524,M,"40 JungangRo, BupyeongGu, Incheon 122250",7,25,Skating,%#pb*PQ+Y,India
+12210078,Sarvar,ISE,Park Jimin,sarvar73@inha.edu,1018805789,19970117,M,"35 OndangRo, NamdongGu, Incheon 121439",7,100,Dance Club,?BNX03~@l:,Germany
+12210079,Bekbolot Akyl,KLC,Lee Hana,akyl77@inha.edu,1028296280,20021124,M,"64 JungangRo, YeonsuGu, Incheon 128270",7,0,Rock Climbing,v>'y]V8?wl,Germany
+12210080,Jung Donghyun,IBT,Jung Eunji,donghyun45@inha.edu,1081347485,20000720,M,"90 OndangRo, YeonsuGu, Incheon 127318",7,0,0,+q^xo`}3&:,Brazil
+12210081,Azizbek,ISE,Jung Eunji,azizbek69@inha.edu,1021643334,19990616,M,"11 JungangRo, SeoGu, Incheon 128486",7,0,0,H[QJQyTUrV,Australia
+12210082,Kang Seoyeon,IBT,Jung Eunji,seoyeon56@inha.edu,1011282313,20020504,F,"30 MyeongdongRo, BupyeongGu, Incheon 129949",7,25,Debate Team,"""6iGvT,G)P",South Korea
+12210083,Park Hyunjin,IBT,Jung Eunji,hyunjin44@inha.edu,1047396918,20050702,M,"6 MyeongdongRo, BupyeongGu, Incheon 124968",7,0,Debate Team,"/qywh""<`$?",South Korea
+12210084,Lee Jisoo,IBT,Kang Daehyun,jisoo13@inha.edu,1088223728,19970517,F,"66 GeumgangRo, BupyeongGu, Incheon 122169",7,25,Skating,=k'T1|zhv,South Korea
+12210085,Choi Soojin,IBT,Choi Minseo,soojin47@inha.edu,1016536390,19960421,F,"9 MyeongdongRo, NamdongGu, Incheon 127535",7,100,Music Society,_5Ga@v]2`s,Germany
+12210086,Malika,ISE,Choi Minseo,malika17@inha.edu,1044159991,20010415,F,"20 GeumgangRo, GyeyangGu, Incheon 121269",7,0,0,sdXM)XPn{*,India
+12210087,Madina,ISE,Lee Hana,madina25@inha.edu,1041858275,19960320,F,"79 MyeongdongRo, NamdongGu, Incheon 127177",7,25,Game Programming,%uRID/I>80,Uzbekistan
+12210088,Dilnoza,ISE,Jung Eunji,dilnoza76@inha.edu,1097695893,19980312,F,"35 CheongunRo, BupyeongGu, Incheon 129315",7,25,Drama Club,NU;DJuLaXH,United States
+12210089,Shohjahon,ISE,Lee Hana,shohjahon75@inha.edu,1068276793,20021012,M,"9 GeumgangRo, SeoGu, Incheon 127626",7,100,0,X*.S<Y*_w\,Brazil
+12210090,Azizbek,ISE,Jung Hoseok,azizbek62@inha.edu,1050539327,19991012,M,"6 GeumgangRo, NamdongGu, Incheon 122082",7,100,Dance Club,OH9qA?]],Brazil
+12210091,Kim Minho,IBT,Choi Minseo,minho75@inha.edu,1071912330,20050807,M,"20 CheongunRo, YeonsuGu, Incheon 128658",7,25,0,HwH{e&}X%,South Korea
+12210092,Kim Minho,IBT,Kim Seokjin,minho32@inha.edu,1070233975,20010507,M,"37 OndangRo, GyeyangGu, Incheon 127135",7,50,Dance Club,mrherCkOa|,South Korea
+12210093,Islom,ISE,Kim Seokjin,islom55@inha.edu,1065613543,19980514,M,"6 CheongunRo, NamdongGu, Incheon 123144",7,100,Dance Club,G?0YNVZbE{,India
+12210094,Malika,ISE,Choi Minseo,malika37@inha.edu,1046395865,19980507,F,"16 JungangRo, SeoGu, Incheon 125400",7,100,Game Programming,O@kKhne=Vi,Australia
+12210095,Kim Minho,IBT,Park Jimin,minho74@inha.edu,1014893249,20050705,M,"63 CheongunRo, GyeyangGu, Incheon 126483",7,25,Game Programming,{Ys$R[~msX,South Korea
+12210096,Dilnoza,ISE,Park Jimin,dilnoza34@inha.edu,1017247518,19990303,F,"26 MyeongdongRo, NamdongGu, Incheon 125332",7,0,Drama Club,"fjQ\E,wH48",United States
+12210097,Kang Seoyeon,IBT,Lee Hana,seoyeon34@inha.edu,1033554608,19990416,F,"92 JungangRo, GyeyangGu, Incheon 126835",7,0,Game Programming,uC2|o7+uIC,South Korea
+12210098,Islom,ISE,Kang Daehyun,islom78@inha.edu,1080431132,19970411,M,"95 OndangRo, NamdongGu, Incheon 124782",7,25,Skating,"z{RpH~m2k""",Australia
+12210099,Jung Donghyun,IBT,Choi Minseo,donghyun33@inha.edu,1016873078,19951117,M,"41 OndangRo, SeoGu, Incheon 126247",7,0,Skating,[SWWBgYE[,Germany
+12210100,Jung Donghyun,IBT,Kim Seokjin,donghyun7@inha.edu,1092591376,19951125,M,"85 OndangRo, NamdongGu, Incheon 120410",7,25,Game Programming,8h;w0@#_FX,Germany
+12210101,Kim Minho,IBT,Jung Hoseok,minho50@inha.edu,1081846668,20031120,M,"11 CheongunRo, YeonsuGu, Incheon 126757",7,0,0,)WTor.\y@p,South Korea
+12210102,Yamada Taro,KLC,Choi Minseo,taro55@inha.edu,1082601770,19980717,M,"26 GeumgangRo, SeoGu, Incheon 126230",7,0,Music Society,MH{7Vv[JiS,India
+12210103,Kim Minho,IBT,Lee Hana,minho63@inha.edu,1055668868,20040811,M,"88 GeumgangRo, NamdongGu, Incheon 129144",7,25,0,qK|!T5tH^^,South Korea
+12210104,Kang Seoyeon,IBT,Lee Hana,seoyeon58@inha.edu,1030986563,20010204,F,"75 GeumgangRo, SeoGu, Incheon 126460",7,0,Skating,waVsHA?ji%,South Korea
+12210105,Nazira Erkin,KLC,Jung Hoseok,erkin86@inha.edu,1068528246,20050719,F,"76 GeumgangRo, BupyeongGu, Incheon 120347",7,100,Drama Club,S'LXejj)Eh,Uzbekistan
+12210106,Azizbek,ISE,Kim Seokjin,azizbek74@inha.edu,1060455367,19970209,M,"37 OndangRo, YeonsuGu, Incheon 123966",7,0,Music Society,OM%]4FWRw,India
+12210107,Kang Seoyeon,IBT,Kim Seokjin,seoyeon84@inha.edu,1075207940,20000309,F,"33 MyeongdongRo, GyeyangGu, Incheon 127689",7,100,Dance Club,$|h'c'V1/A,South Korea
+12210108,Sarvar,ISE,Choi Minseo,sarvar21@inha.edu,1095587037,20041125,M,"12 OndangRo, YeonsuGu, Incheon 128752",7,100,Drama Club,m@8Vs}L\/%,Brazil
+12210109,Choi Soojin,IBT,Choi Minseo,soojin14@inha.edu,1047688588,19950320,F,"10 CheongunRo, BupyeongGu, Incheon 129737",7,100,0,C9y2CV}~;b,Brazil
+12210110,Nguyen Hoa,KLC,Kim Seokjin,hoa68@inha.edu,1029216781,19950110,F,"45 MyeongdongRo, GyeyangGu, Incheon 127386",7,0,Kayaking,7ZypvIags,United States
+12210111,Nguyen Hoa,KLC,Lee Hana,hoa66@inha.edu,1023842065,19961019,F,"16 CheongunRo, SeoGu, Incheon 127666",7,50,0,U;+luCXeS;,Germany
+12210112,Azizbek,ISE,Kang Daehyun,azizbek63@inha.edu,1096013410,20030820,M,"69 JungangRo, YeonsuGu, Incheon 122642",7,0,Dance Club,"g[H[TjRtr""",India
+12210113,Kang Seoyeon,IBT,Choi Minseo,seoyeon87@inha.edu,1092769892,19990908,F,"98 GeumgangRo, BupyeongGu, Incheon 120326",7,100,0,[WUmHSbbO,South Korea
+12210114,Tanaka Haruka,KLC,Kim Seokjin,haruka1@inha.edu,1066191469,20030706,F,"95 JungangRo, GyeyangGu, Incheon 125425",7,0,Debate Team,WhD6`LVk/:,Germany
+12210115,Malika,ISE,Kang Daehyun,malika39@inha.edu,1083865862,20030319,F,"7 CheongunRo, BupyeongGu, Incheon 123790",7,0,0,"E,D]vc8`{o",United States
+12210116,Azizbek,ISE,Choi Minseo,azizbek32@inha.edu,1092848379,19980211,M,"55 MyeongdongRo, SeoGu, Incheon 122722",7,0,Dance Club,pq>SRXClTz,India
+12210117,Bekbolot Akyl,KLC,Kang Daehyun,akyl71@inha.edu,1080286826,20010127,M,"35 CheongunRo, SeoGu, Incheon 122592",7,0,Kayaking,"DJ,IyZE_od",Germany
+12210118,Hadi Budi,KLC,Lee Hana,budi27@inha.edu,1058148179,20010906,M,"81 MyeongdongRo, SeoGu, Incheon 122409",7,50,Dance Club,e+Dq&q~G[n,India
+12210119,Gulnoza,ISE,Choi Minseo,gulnoza51@inha.edu,1052763622,20010816,F,"35 CheongunRo, BupyeongGu, Incheon 121643",7,25,Kayaking,(ZbuijH?y8,United States
+12210120,Adi Putri,KLC,Kang Daehyun,putri30@inha.edu,1076255723,20010309,F,"38 OndangRo, SeoGu, Incheon 129059",7,0,0,@g+`0.'@k,Australia
+12210121,Malika,ISE,Jung Eunji,malika98@inha.edu,1031044827,20010706,F,"54 GeumgangRo, BupyeongGu, Incheon 128710",7,0,Dance Club,l'MI/2<2?Z,Germany
+12210122,Ziyoda,ISE,Jung Eunji,ziyoda52@inha.edu,1048976832,20021213,F,"24 MyeongdongRo, BupyeongGu, Incheon 121340",7,0,Music Society,Y'dI.e9#d],India
+12210123,Jahongir,ISE,Choi Minseo,jahongir28@inha.edu,1043965734,19961109,M,"12 GeumgangRo, BupyeongGu, Incheon 123680",7,0,Game Programming,<pW>Pp89&|,Uzbekistan
+12210124,Lee Jisoo,IBT,Kang Daehyun,jisoo81@inha.edu,1048276667,19990908,F,"27 CheongunRo, YeonsuGu, Incheon 122536",7,25,Game Programming,lPMxGd[=?a,South Korea
+12210125,Ziyoda,ISE,Jung Hoseok,ziyoda1@inha.edu,1035528638,19990507,F,"51 CheongunRo, SeoGu, Incheon 124816",7,0,Skating,0XRR]r)]@W,United States
+12210126,Kang Seoyeon,IBT,Jung Hoseok,seoyeon55@inha.edu,1075085797,20050205,F,"90 OndangRo, BupyeongGu, Incheon 128478",7,0,Game Programming,".'J,5p_~q*",South Korea
+12210127,Choi Soojin,IBT,Kang Daehyun,soojin33@inha.edu,1015004630,19980326,F,"24 GeumgangRo, NamdongGu, Incheon 126314",7,0,Music Society,M<!Ey^}7!N,United States
+12210128,Ziyoda,ISE,Kim Seokjin,ziyoda97@inha.edu,1031719852,20041017,F,"37 CheongunRo, YeonsuGu, Incheon 125391",7,0,Drama Club,"MPx1z7Ky,i",India
+12210129,Lee Jisoo,IBT,Jung Eunji,jisoo91@inha.edu,1072431271,19980416,F,"41 OndangRo, BupyeongGu, Incheon 127745",7,100,Game Programming,!eJt&A#VK4,South Korea
+12210130,Ruslan Bakyt,KLC,Lee Hana,bakyt98@inha.edu,1011018043,20010828,M,"63 OndangRo, BupyeongGu, Incheon 122972",7,100,Rock Climbing,P84<]29iP$,Germany
+12210131,Lee Jisoo,IBT,Choi Minseo,jisoo40@inha.edu,1069079157,20011022,F,"82 JungangRo, SeoGu, Incheon 129429",7,50,Skating,"GV.%A%,*o",South Korea
+12210132,Choi Soojin,IBT,Jung Hoseok,soojin80@inha.edu,1095701562,20031122,F,"53 JungangRo, NamdongGu, Incheon 128575",7,100,Kayaking,M#oOqng(8j,Brazil
+12210133,Islom,ISE,Choi Minseo,islom21@inha.edu,1066105714,20000207,M,"78 OndangRo, SeoGu, Incheon 120228",7,0,Skating,(>L+nbuoE4,Germany
+12210134,Gulnoza,ISE,Choi Minseo,gulnoza58@inha.edu,1027531693,19990113,F,"63 OndangRo, YeonsuGu, Incheon 123366",7,25,0,fbR&rI8Ktx,Germany
+12220000,Kim Minho,IBT,Jung Hoseok,minho78@inha.edu,1037573596,19950814,M,"32 CheongunRo, YeonsuGu, Incheon 124235",6,25,0,@doB{dSK6O,South Korea
+12220001,Jung Donghyun,IBT,Choi Minseo,donghyun98@inha.edu,1051079601,19971117,M,"71 CheongunRo, GyeyangGu, Incheon 129811",6,100,0,<6W|`;Gg|%,United States
+12220002,Jung Donghyun,IBT,Lee Hana,donghyun40@inha.edu,1030774577,20030411,M,"28 OndangRo, GyeyangGu, Incheon 122211",6,0,Skating,&nITb5*R:j,Germany
+12220003,Gulnoza,ISE,Choi Minseo,gulnoza73@inha.edu,1053422334,20050801,F,"68 JungangRo, GyeyangGu, Incheon 127638",6,50,Music Society,{mrgM'\Uji,Australia
+12220004,Dilnoza,ISE,Lee Hana,dilnoza26@inha.edu,1079005139,20031217,F,"67 OndangRo, SeoGu, Incheon 124647",6,0,Music Society,"Jk^""/\N9An",India
+12220005,Lee Jisoo,IBT,Lee Hana,jisoo94@inha.edu,1036919105,20011219,F,"75 JungangRo, GyeyangGu, Incheon 122636",6,0,Music Society,m*:IMt+Ii*,South Korea
+12220006,Islom,ISE,Park Jimin,islom10@inha.edu,1037039221,20050323,M,"97 JungangRo, NamdongGu, Incheon 124718",6,50,Dance Club,j=*fF+&_o,Germany
+12220007,Kang Seoyeon,IBT,Lee Hana,seoyeon28@inha.edu,1073585040,19980723,F,"73 OndangRo, BupyeongGu, Incheon 127510",6,0,0,eNH(]LPzQ},South Korea
+12220008,Jahongir,ISE,Kang Daehyun,jahongir64@inha.edu,1089493255,19980323,M,"37 JungangRo, NamdongGu, Incheon 126136",6,100,Rock Climbing,1#xr~Ww_uz,Uzbekistan
+12220009,Shohjahon,ISE,Kang Daehyun,shohjahon1@inha.edu,1026019186,20050612,M,"9 JungangRo, NamdongGu, Incheon 121882",6,0,Dance Club,"HWj#M)Di""",Australia
+12220010,Nazira Erkin,KLC,Choi Minseo,erkin43@inha.edu,1096605443,19950825,F,"99 OndangRo, GyeyangGu, Incheon 125760",6,0,Skating,V83oge4$B^,Uzbekistan
+12220011,Park Hyunjin,IBT,Park Jimin,hyunjin75@inha.edu,1048099207,20041225,M,"7 GeumgangRo, SeoGu, Incheon 129687",6,0,Dance Club,@cr=O:w*H8,South Korea
+12220012,Min Win,KLC,Kang Daehyun,win57@inha.edu,1020035450,19971122,M,"31 GeumgangRo, BupyeongGu, Incheon 123484",6,50,Debate Team,"M""]g@jT#m1",Australia
+12220013,Thuzar Hnin,KLC,Choi Minseo,hnin96@inha.edu,1072777284,20050420,F,"29 GeumgangRo, NamdongGu, Incheon 126960",6,0,0,%#es$}f5QM,United States
+12220014,Lee Jisoo,IBT,Choi Minseo,jisoo83@inha.edu,1077986543,20040715,F,"57 GeumgangRo, NamdongGu, Incheon 124142",6,50,Dance Club,{=[;TNy$Xm,South Korea
+12220015,Tanaka Haruka,KLC,Kang Daehyun,haruka14@inha.edu,1096895269,19980608,F,"96 OndangRo, GyeyangGu, Incheon 129528",6,0,Drama Club,(eFj9.Z]75,United States
+12220016,Ziyoda,ISE,Jung Hoseok,ziyoda48@inha.edu,1052487601,20001222,F,"58 CheongunRo, YeonsuGu, Incheon 124030",6,100,Dance Club,ZU|e}]1]4<,India
+12220017,Park Hyunjin,IBT,Jung Hoseok,hyunjin15@inha.edu,1060057120,19951011,M,"81 OndangRo, GyeyangGu, Incheon 123728",6,25,Kayaking,2TBL|3.mxa,South Korea
+12220018,Gulnoza,ISE,Jung Hoseok,gulnoza26@inha.edu,1048722616,19981108,F,"41 CheongunRo, SeoGu, Incheon 124016",6,100,Drama Club,KhQV7O1+<H,India
+12220019,Choi Soojin,IBT,Jung Eunji,soojin11@inha.edu,1027484657,20030521,F,"57 JungangRo, BupyeongGu, Incheon 121730",6,0,Skating,"3cRfQ,R9$.",Germany
+12220020,Jung Donghyun,IBT,Lee Hana,donghyun13@inha.edu,1044112339,20010318,M,"30 JungangRo, SeoGu, Incheon 120152",6,50,Debate Team,_e?|'}qwvj,Germany
+12220021,Jung Donghyun,IBT,Lee Hana,donghyun46@inha.edu,1033118945,20001210,M,"18 MyeongdongRo, BupyeongGu, Incheon 123558",6,25,Drama Club,ptTQTsK8],India
+12220022,Choi Soojin,IBT,Choi Minseo,soojin61@inha.edu,1075008858,19960617,F,"84 CheongunRo, YeonsuGu, Incheon 129400",6,0,0,41w+B*f#p],Germany
+12220023,Jung Donghyun,IBT,Park Jimin,donghyun83@inha.edu,1051325351,20020404,M,"12 GeumgangRo, BupyeongGu, Incheon 120673",6,25,Skating,)dSn!p}KMS,Brazil
+12220024,Jahongir,ISE,Jung Hoseok,jahongir56@inha.edu,1060964084,20031012,M,"82 JungangRo, BupyeongGu, Incheon 124979",6,100,Music Society,tG8>!L4`\C,Uzbekistan
+12220025,Jahongir,ISE,Kang Daehyun,jahongir82@inha.edu,1039602531,20020618,M,"87 JungangRo, SeoGu, Incheon 128945",6,50,Drama Club,=o(DK[L]GV,Uzbekistan
+12220026,Bekbolot Akyl,KLC,Park Jimin,akyl37@inha.edu,1052389013,19990804,M,"44 MyeongdongRo, SeoGu, Incheon 121155",6,0,Music Society,MM'Dx9fSi,Australia
+12220027,Gulnoza,ISE,Kang Daehyun,gulnoza68@inha.edu,1072547193,19950404,F,"15 MyeongdongRo, GyeyangGu, Incheon 124240",6,0,0,GaB7LW<a}J,India
+12220028,Kang Seoyeon,IBT,Jung Hoseok,seoyeon5@inha.edu,1036095182,19970503,F,"31 GeumgangRo, NamdongGu, Incheon 121752",6,25,Skating,p]z7iQ|z=+,South Korea
+12220029,Kim Minho,IBT,Jung Hoseok,minho85@inha.edu,1015212565,19960214,M,"51 CheongunRo, YeonsuGu, Incheon 122808",6,0,Drama Club,RO^Dz<%35,South Korea
+12220030,Ziyoda,ISE,Kang Daehyun,ziyoda9@inha.edu,1042596702,20040423,F,"63 CheongunRo, SeoGu, Incheon 127162",6,50,Dance Club,E0<.28$.&,Brazil
+12220031,Jung Donghyun,IBT,Kang Daehyun,donghyun34@inha.edu,1062445440,19990515,M,"21 GeumgangRo, SeoGu, Incheon 127808",6,100,Skating,%]OLvBa;/p,United States
+12220032,Choi Soojin,IBT,Park Jimin,soojin67@inha.edu,1050941845,19991103,F,"74 GeumgangRo, NamdongGu, Incheon 124656",6,100,Drama Club,+d13f%*uz`,India
+12220033,Thuzar Hnin,KLC,Kang Daehyun,hnin16@inha.edu,1065079947,20020718,F,"73 JungangRo, YeonsuGu, Incheon 122146",6,25,Kayaking,WHj`(GPl@],United States
+12220034,Madina,ISE,Kang Daehyun,madina61@inha.edu,1012027163,20020104,F,"92 OndangRo, SeoGu, Incheon 128614",6,100,Kayaking,>*w{*[mH6},Uzbekistan
+12220035,Choi Soojin,IBT,Choi Minseo,soojin58@inha.edu,1016094388,20040820,F,"6 JungangRo, SeoGu, Incheon 128560",6,0,Game Programming,d6{r<^X|8C,Australia
+12220036,Azizbek,ISE,Park Jimin,azizbek14@inha.edu,1011638094,19991212,M,"90 MyeongdongRo, GyeyangGu, Incheon 126719",6,0,Rock Climbing,Hwnt*u|.Z,India
+12220037,Kang Seoyeon,IBT,Jung Hoseok,seoyeon31@inha.edu,1092098298,19980525,F,"92 CheongunRo, GyeyangGu, Incheon 126862",6,0,0,7.Y:B/PcOJ,South Korea
+12220038,Jung Donghyun,IBT,Lee Hana,donghyun1@inha.edu,1017505027,19970102,M,"39 MyeongdongRo, NamdongGu, Incheon 128465",6,25,Debate Team,.u\70)x=il,India
+12220039,Gulnoza,ISE,Choi Minseo,gulnoza48@inha.edu,1049156222,19950922,F,"18 JungangRo, YeonsuGu, Incheon 123972",6,25,Music Society,;Onn}+g9XX,India
+12220040,Choi Soojin,IBT,Jung Eunji,soojin95@inha.edu,1047433495,20021211,F,"92 CheongunRo, SeoGu, Incheon 126530",6,25,0,F8|*>UKn+f,India
+12220041,Madina,ISE,Kim Seokjin,madina54@inha.edu,1039346009,20020327,F,"48 MyeongdongRo, SeoGu, Incheon 129598",6,100,Skating,"Xu&om9$a_""",Uzbekistan
+12220042,Nguyen Hoa,KLC,Park Jimin,hoa25@inha.edu,1030538074,20011005,F,"19 GeumgangRo, GyeyangGu, Incheon 127852",6,25,0,P<\x{m|JIx,United States
+12220043,Kim Minho,IBT,Kim Seokjin,minho97@inha.edu,1088962620,19980611,M,"32 OndangRo, SeoGu, Incheon 123501",6,0,Dance Club,%.{5O./n+B,South Korea
+12220044,Kim Minho,IBT,Lee Hana,minho9@inha.edu,1063857377,20000204,M,"41 GeumgangRo, GyeyangGu, Incheon 124680",6,0,Rock Climbing,SbQ%OuwB|`,South Korea
+12220045,Jung Donghyun,IBT,Jung Hoseok,donghyun87@inha.edu,1061322139,20000509,M,"85 GeumgangRo, SeoGu, Incheon 120654",6,25,Rock Climbing,hrO\Kt_o^P,United States
+12220046,Kim Minho,IBT,Lee Hana,minho7@inha.edu,1018274061,19991214,M,"1 GeumgangRo, SeoGu, Incheon 121774",6,0,Kayaking,"GwUt""alMat",South Korea
+12220047,Ruslan Bakyt,KLC,Park Jimin,bakyt9@inha.edu,1055228696,19960727,M,"92 JungangRo, SeoGu, Incheon 122434",6,0,Drama Club,"0<;Om^n""Yg",India
+12220048,Kim Minho,IBT,Kang Daehyun,minho5@inha.edu,1086298772,20000409,M,"2 MyeongdongRo, BupyeongGu, Incheon 125438",6,0,0,"v:{""R%bKy]",South Korea
+12220049,Gulnoza,ISE,Kang Daehyun,gulnoza50@inha.edu,1074259672,19970117,F,"4 MyeongdongRo, BupyeongGu, Incheon 127892",6,0,Skating,VGeYdhR{74,Australia
+12220050,Dilnoza,ISE,Kang Daehyun,dilnoza62@inha.edu,1068836099,19981212,F,"13 CheongunRo, NamdongGu, Incheon 129820",6,0,Drama Club,5Tpf79&<B,Germany
+12220051,Adi Putri,KLC,Jung Hoseok,putri49@inha.edu,1016926623,19970203,F,"95 MyeongdongRo, BupyeongGu, Incheon 129912",6,25,Music Society,"8Fm0""lvL5>",Germany
+12220052,Kim Minho,IBT,Kang Daehyun,minho15@inha.edu,1060481981,20050220,M,"41 OndangRo, NamdongGu, Incheon 126995",6,0,Music Society,':u6cz:KNw,South Korea
+12220053,Kim Minho,IBT,Kim Seokjin,minho13@inha.edu,1096813336,19960213,M,"67 MyeongdongRo, BupyeongGu, Incheon 124045",6,0,Game Programming,C#QrnL@]S=,South Korea
+12220054,Kang Seoyeon,IBT,Park Jimin,seoyeon38@inha.edu,1023276934,20030723,F,"25 MyeongdongRo, GyeyangGu, Incheon 124219",6,0,Dance Club,:x7\SXtTY^,South Korea
+12220055,Islom,ISE,Jung Eunji,islom29@inha.edu,1049988093,20021115,M,"61 MyeongdongRo, GyeyangGu, Incheon 124880",6,0,0,S4[XE03Cn{,Australia
+12220056,Aibek Temir,KLC,Lee Hana,temir65@inha.edu,1089859689,20000221,M,"78 JungangRo, NamdongGu, Incheon 122478",6,100,0,"Bas9uy5G,y",United States
+12220057,Park Hyunjin,IBT,Kim Seokjin,hyunjin38@inha.edu,1090876826,19971212,M,"23 MyeongdongRo, BupyeongGu, Incheon 126867",6,25,0,.TW0dcTupT,South Korea
+12220058,Madina,ISE,Kim Seokjin,madina39@inha.edu,1021766258,19990119,F,"58 CheongunRo, YeonsuGu, Incheon 120535",6,0,Dance Club,Qg6$`hdExU,Uzbekistan
+12220059,Dilnoza,ISE,Park Jimin,dilnoza60@inha.edu,1077583843,20010603,F,"80 CheongunRo, GyeyangGu, Incheon 126111",6,0,Game Programming,"W2szu""$E~%",India
+12220060,Malika,ISE,Lee Hana,malika83@inha.edu,1013599318,19990219,F,"18 JungangRo, GyeyangGu, Incheon 128102",6,0,0,>OMON[&D~C,Germany
+12220061,Park Hyunjin,IBT,Kim Seokjin,hyunjin93@inha.edu,1061613893,20050103,M,"28 OndangRo, BupyeongGu, Incheon 121126",6,50,Music Society,uj|j!r<mX4,South Korea
+12220062,Jung Donghyun,IBT,Jung Hoseok,donghyun41@inha.edu,1063291114,20051012,M,"95 JungangRo, SeoGu, Incheon 124116",6,0,0,a9ht}Z/+0X,Germany
+12220063,Ziyoda,ISE,Kang Daehyun,ziyoda20@inha.edu,1044902602,19950917,F,"84 GeumgangRo, SeoGu, Incheon 122837",6,0,0,Yn{[q:xxl?,India
+12220064,Islom,ISE,Kim Seokjin,islom55@inha.edu,1039612449,19981206,M,"49 GeumgangRo, GyeyangGu, Incheon 120009",6,0,0,ahF1fs&hI?,Germany
+12220065,Park Hyunjin,IBT,Choi Minseo,hyunjin3@inha.edu,1084134422,20050928,M,"33 JungangRo, NamdongGu, Incheon 129937",6,0,0,"1V<rYld""eX",South Korea
+12220066,Madina,ISE,Lee Hana,madina34@inha.edu,1072046415,20050722,F,"93 GeumgangRo, YeonsuGu, Incheon 123814",6,0,Kayaking,`R'|31`8?(,Uzbekistan
+12220067,Park Hyunjin,IBT,Choi Minseo,hyunjin58@inha.edu,1013746195,20000705,M,"79 MyeongdongRo, BupyeongGu, Incheon 124128",6,0,Debate Team,\iBsYl><Eu,South Korea
+12220068,Malika,ISE,Park Jimin,malika97@inha.edu,1069782680,19980608,F,"11 JungangRo, NamdongGu, Incheon 128027",6,0,0,ic0C:iiRq,Australia
+12220069,Park Hyunjin,IBT,Park Jimin,hyunjin61@inha.edu,1088521020,20040807,M,"77 JungangRo, GyeyangGu, Incheon 123242",6,0,Rock Climbing,"=.!Ph""|uN$",South Korea
+12220070,Nguyen Hoa,KLC,Kim Seokjin,hoa37@inha.edu,1057182029,19971009,F,"37 GeumgangRo, BupyeongGu, Incheon 125709",6,25,Drama Club,"|7""L|8,5)",Australia
+12220071,Madina,ISE,Choi Minseo,madina13@inha.edu,1069745084,20040225,F,"32 OndangRo, NamdongGu, Incheon 121773",6,0,Drama Club,O1Zq;<Ep5N,Uzbekistan
+12220072,Yamada Taro,KLC,Jung Hoseok,taro38@inha.edu,1063855920,19950226,M,"14 OndangRo, GyeyangGu, Incheon 123622",6,100,Rock Climbing,)<?l<zK&$+,India
+12220073,Nguyen Hoa,KLC,Choi Minseo,hoa93@inha.edu,1063452711,19970421,F,"17 GeumgangRo, YeonsuGu, Incheon 122482",6,25,Rock Climbing,;%}D;WR(^z,Australia
+12220074,Lee Jisoo,IBT,Kim Seokjin,jisoo81@inha.edu,1067085529,20020727,F,"86 MyeongdongRo, NamdongGu, Incheon 126878",6,0,Debate Team,VPY{kxBJd<,South Korea
+12220075,Islom,ISE,Jung Hoseok,islom99@inha.edu,1076686091,20011227,M,"27 JungangRo, GyeyangGu, Incheon 122435",6,25,Kayaking,^~r6uCGHM2,Germany
+12220076,Aibek Temir,KLC,Choi Minseo,temir53@inha.edu,1081959443,20021215,M,"68 CheongunRo, YeonsuGu, Incheon 129394",6,0,Skating,$;<2dJRHUR,Brazil
+12220077,Madina,ISE,Kim Seokjin,madina25@inha.edu,1074028740,19970526,F,"53 OndangRo, NamdongGu, Incheon 128438",6,50,Kayaking,bP04Pe@J7W,Uzbekistan
+12220078,Choi Soojin,IBT,Jung Eunji,soojin17@inha.edu,1024469726,20031108,F,"2 GeumgangRo, SeoGu, Incheon 120858",6,25,Kayaking,2L.Z~;h6Sy,United States
+12220079,Park Hyunjin,IBT,Jung Eunji,hyunjin32@inha.edu,1015123768,19951214,M,"49 GeumgangRo, BupyeongGu, Incheon 124020",6,100,Music Society,"}dU,MSC=P""",South Korea
+12220080,Kang Seoyeon,IBT,Park Jimin,seoyeon34@inha.edu,1081943961,20031223,F,"14 JungangRo, NamdongGu, Incheon 128682",6,25,Kayaking,!p(2:uYyqq,South Korea
+12220081,Shohjahon,ISE,Jung Hoseok,shohjahon7@inha.edu,1020744188,19980116,M,"22 MyeongdongRo, YeonsuGu, Incheon 129106",6,0,Dance Club,;1>O?`Z|hg,Australia
+12220082,Kim Minho,IBT,Choi Minseo,minho3@inha.edu,1057118898,20000404,M,"29 OndangRo, SeoGu, Incheon 129737",6,0,Game Programming,_f;$I02/z8,South Korea
+12220083,Sarvar,ISE,Jung Eunji,sarvar25@inha.edu,1071446365,20031110,M,"25 MyeongdongRo, YeonsuGu, Incheon 129833",6,25,Skating,yBIMk@|/+f,United States
+12220084,Azizbek,ISE,Kang Daehyun,azizbek66@inha.edu,1084879305,20001114,M,"29 CheongunRo, NamdongGu, Incheon 120472",6,0,Dance Club,v]BPO3bH[},Germany
+12220085,Jahongir,ISE,Jung Hoseok,jahongir57@inha.edu,1078074327,19971028,M,"58 JungangRo, BupyeongGu, Incheon 124229",6,50,Dance Club,k&l+.#T}i.,Uzbekistan
+12220086,Kang Seoyeon,IBT,Park Jimin,seoyeon40@inha.edu,1075565666,19970625,F,"81 GeumgangRo, BupyeongGu, Incheon 127088",6,25,Drama Club,93^/Z\J2H7,South Korea
+12220087,Ruslan Bakyt,KLC,Jung Hoseok,bakyt55@inha.edu,1029182943,19960614,M,"90 MyeongdongRo, GyeyangGu, Incheon 129995",6,0,0,}4P!zol*T],Germany
+12220088,Sarvar,ISE,Lee Hana,sarvar5@inha.edu,1046801065,19960409,M,"69 CheongunRo, NamdongGu, Incheon 122064",6,50,Debate Team,"uh7\,*o>8:",Germany
+12220089,Kang Seoyeon,IBT,Jung Hoseok,seoyeon25@inha.edu,1065109422,19990317,F,"50 GeumgangRo, SeoGu, Incheon 120778",6,50,Drama Club,O1^}1dPFDk,South Korea
+12220090,Shohjahon,ISE,Lee Hana,shohjahon77@inha.edu,1099607468,19990625,M,"35 MyeongdongRo, YeonsuGu, Incheon 127751",6,25,Rock Climbing,}n3!\?D*m&,Brazil
+12220091,Shohjahon,ISE,Kang Daehyun,shohjahon79@inha.edu,1041067068,20011106,M,"12 CheongunRo, NamdongGu, Incheon 123072",6,0,0,@cuarv$kKi,Germany
+12220092,Aibek Temir,KLC,Kim Seokjin,temir55@inha.edu,1016592764,19991004,M,"18 MyeongdongRo, YeonsuGu, Incheon 126606",6,100,0,"mX;4u$'""g",Germany
+12220093,Madina,ISE,Choi Minseo,madina54@inha.edu,1059989582,20010617,F,"21 JungangRo, GyeyangGu, Incheon 123641",6,50,Skating,yk#J)QgpI,Uzbekistan
+12220094,Hadi Budi,KLC,Jung Hoseok,budi18@inha.edu,1042609449,20031006,M,"35 CheongunRo, YeonsuGu, Incheon 125803",6,50,Debate Team,"'P:ylgt""}'",India
+12220095,Kobayashi Riku,KLC,Kang Daehyun,riku62@inha.edu,1032218358,19990715,M,"18 GeumgangRo, GyeyangGu, Incheon 126013",6,50,Skating,>Z&Y_]\l{N,Australia
+12220096,Madina,ISE,Jung Eunji,madina53@inha.edu,1037355426,20020903,F,"2 OndangRo, SeoGu, Incheon 129966",6,0,Dance Club,q8X[<+%;n\,Uzbekistan
+12220097,Kobayashi Riku,KLC,Choi Minseo,riku38@inha.edu,1098409003,20000801,M,"5 MyeongdongRo, GyeyangGu, Incheon 129248",6,25,Kayaking,"x~AKD,_94*",Australia
+12220098,Choi Soojin,IBT,Lee Hana,soojin42@inha.edu,1029735801,19960315,F,"3 GeumgangRo, GyeyangGu, Incheon 120910",6,0,Debate Team,E(Px(s[O)k,India
+12220099,Islom,ISE,Park Jimin,islom69@inha.edu,1013378438,20050726,M,"12 OndangRo, NamdongGu, Incheon 120449",6,50,Game Programming,MK&?>_@BhQ,Australia
+12220100,Nguyen Hoa,KLC,Kang Daehyun,hoa45@inha.edu,1085888302,20000709,F,"29 MyeongdongRo, SeoGu, Incheon 124277",6,0,Dance Club,"m3!ueY,:.d",United States
+12220101,Park Hyunjin,IBT,Kang Daehyun,hyunjin23@inha.edu,1032753925,20010909,M,"67 MyeongdongRo, BupyeongGu, Incheon 129751",6,50,Kayaking,"+^Up!W4"".}",South Korea
+12220102,Madina,ISE,Jung Eunji,madina57@inha.edu,1092618421,19981203,F,"55 JungangRo, SeoGu, Incheon 120473",6,100,Music Society,#I*yAeiWGi,Uzbekistan
+12220103,Azizbek,ISE,Lee Hana,azizbek36@inha.edu,1043358085,20021202,M,"88 CheongunRo, NamdongGu, Incheon 120966",6,0,Drama Club,8+6//6AR|w,India
+12220104,Kim Minho,IBT,Choi Minseo,minho15@inha.edu,1044085687,19970516,M,"19 OndangRo, GyeyangGu, Incheon 122471",6,50,Music Society,f%tI*B;/2,South Korea
+12220105,Malika,ISE,Jung Eunji,malika91@inha.edu,1058866738,19980607,F,"97 OndangRo, YeonsuGu, Incheon 127236",6,50,Music Society,i#BKJs4(*),Brazil
+12220106,Gulnoza,ISE,Lee Hana,gulnoza67@inha.edu,1019297997,19961002,F,"7 MyeongdongRo, GyeyangGu, Incheon 128557",6,100,0,b57*sdVckc,Germany
+12220107,Jahongir,ISE,Jung Eunji,jahongir7@inha.edu,1068724312,19970303,M,"33 OndangRo, SeoGu, Incheon 123374",6,25,Drama Club,sE!8e9s^l6,Uzbekistan
+12220108,Jung Donghyun,IBT,Jung Hoseok,donghyun18@inha.edu,1014731631,20040719,M,"61 JungangRo, SeoGu, Incheon 122806",6,50,Music Society,}gJ'.FN`C~,United States
+12220109,Kang Seoyeon,IBT,Jung Eunji,seoyeon34@inha.edu,1032028604,20010125,F,"12 JungangRo, SeoGu, Incheon 129605",6,0,Skating,$>4m<:Ib<,South Korea
+12220110,Jung Donghyun,IBT,Kim Seokjin,donghyun72@inha.edu,1044393856,19951218,M,"54 MyeongdongRo, YeonsuGu, Incheon 123507",6,0,Music Society,:sQ3)kuGXJ,United States
+12220111,Shohjahon,ISE,Lee Hana,shohjahon51@inha.edu,1063843009,19960928,M,"44 OndangRo, NamdongGu, Incheon 122699",6,0,Game Programming,JiF*V;B^{R,India
+12220112,Jahongir,ISE,Jung Hoseok,jahongir1@inha.edu,1068461540,19960516,M,"59 GeumgangRo, GyeyangGu, Incheon 124822",6,0,Debate Team,i(VH%UFOx?,Uzbekistan
+12220113,Gulnoza,ISE,Kang Daehyun,gulnoza12@inha.edu,1092776454,20001226,F,"41 OndangRo, SeoGu, Incheon 127554",6,100,0,Q#M&ogT;&=,Brazil
+12220114,Shohjahon,ISE,Park Jimin,shohjahon91@inha.edu,1035387834,19950714,M,"47 CheongunRo, SeoGu, Incheon 125014",6,25,0,Nu#O`:~>n,Brazil
+12220115,Ruslan Bakyt,KLC,Choi Minseo,bakyt10@inha.edu,1062147019,19990601,M,"30 OndangRo, NamdongGu, Incheon 123160",6,0,0,)5<rmwK_i<,Australia
+12220116,Lee Jisoo,IBT,Park Jimin,jisoo72@inha.edu,1067286487,19990104,F,"56 MyeongdongRo, NamdongGu, Incheon 125834",6,0,Game Programming,fCarD74la!,South Korea
+12220117,Shohjahon,ISE,Choi Minseo,shohjahon46@inha.edu,1023387357,19950318,M,"64 MyeongdongRo, GyeyangGu, Incheon 120887",6,0,Dance Club,":5@,`80Y$V",Germany
+12220118,Kang Seoyeon,IBT,Kim Seokjin,seoyeon37@inha.edu,1078798868,20010421,F,"39 JungangRo, SeoGu, Incheon 121203",6,0,Music Society,pqr$4/y=il,South Korea
+12220119,Kim Minho,IBT,Choi Minseo,minho43@inha.edu,1064117338,20040405,M,"81 OndangRo, NamdongGu, Incheon 121257",6,25,Dance Club,Y?iC=L.@P,South Korea
+12220120,Takahashi Mei,KLC,Kim Seokjin,mei91@inha.edu,1013516185,20000825,F,"33 GeumgangRo, BupyeongGu, Incheon 124413",6,0,Debate Team,P'6q}T2q?1,India
+12220121,Adi Putri,KLC,Kang Daehyun,putri40@inha.edu,1066272801,19990121,F,"17 JungangRo, SeoGu, Incheon 127732",6,50,Music Society,ngY%G92+>d,Germany
+12220122,Park Hyunjin,IBT,Lee Hana,hyunjin92@inha.edu,1064779537,20030617,M,"70 JungangRo, NamdongGu, Incheon 120361",6,50,0,"~,=232i=>",South Korea
+12220123,Shohjahon,ISE,Park Jimin,shohjahon19@inha.edu,1069352499,19950721,M,"18 JungangRo, SeoGu, Incheon 127464",6,25,Skating,^8'Sp\.uqa,Australia
+12220124,Aung Kyaw,KLC,Jung Hoseok,kyaw35@inha.edu,1068993141,20050202,M,"39 JungangRo, SeoGu, Incheon 121780",6,100,0,iF<^f/2OoY,Australia
+12220125,Meerim Zhumagul,KLC,Lee Hana,zhumagul88@inha.edu,1031488968,19990713,F,"88 OndangRo, NamdongGu, Incheon 128833",6,100,0,TFYLxky?QU,Australia
+12220126,Choi Soojin,IBT,Kang Daehyun,soojin85@inha.edu,1026565333,20051003,F,"5 OndangRo, SeoGu, Incheon 121681",6,0,Dance Club,"p:pr#Fdn""D",Brazil
+12220127,Choi Soojin,IBT,Jung Hoseok,soojin89@inha.edu,1033508919,20000709,F,"60 OndangRo, YeonsuGu, Incheon 129736",6,100,Skating,?hLJ;sMuq{,Germany
+12220128,Jung Donghyun,IBT,Kang Daehyun,donghyun77@inha.edu,1077314659,20010109,M,"97 OndangRo, YeonsuGu, Incheon 129650",6,0,Rock Climbing,VaZWwcW)Qy,India
+12220129,Shohjahon,ISE,Lee Hana,shohjahon16@inha.edu,1024584010,19991010,M,"9 MyeongdongRo, YeonsuGu, Incheon 126035",6,0,0,.KYV(fU3F1,United States
+12220130,Shohjahon,ISE,Lee Hana,shohjahon9@inha.edu,1066889131,19980426,M,"72 CheongunRo, SeoGu, Incheon 129931",6,0,0,"a&[lG,mk$\",Germany
+12220131,Jahongir,ISE,Jung Hoseok,jahongir34@inha.edu,1011822155,20020103,M,"97 OndangRo, YeonsuGu, Incheon 123451",6,0,Rock Climbing,7fl~q}a~T_,Uzbekistan
+12220132,Gulnoza,ISE,Choi Minseo,gulnoza57@inha.edu,1069868595,20030822,F,"7 OndangRo, BupyeongGu, Incheon 128442",6,0,Drama Club,i!T$RnkGop,Brazil
+12220133,Shohjahon,ISE,Jung Eunji,shohjahon48@inha.edu,1020469729,20040526,M,"47 GeumgangRo, NamdongGu, Incheon 124138",6,0,Skating,=M?7gOy1[j,India
+12220134,Kim Minho,IBT,Kim Seokjin,minho38@inha.edu,1019996926,19981025,M,"27 JungangRo, NamdongGu, Incheon 128376",6,0,0,zX&sm<g3m$,South Korea
+12220000,Shohjahon,ISE,Park Jimin,shohjahon7@inha.edu,1013877364,20041024,M,"44 JungangRo, NamdongGu, Incheon 120487",5,0,Drama Club,ND`93FLWxa,India
+12220001,Ruslan Bakyt,KLC,Lee Hana,bakyt44@inha.edu,1029842734,19961210,M,"74 CheongunRo, SeoGu, Incheon 123978",5,50,Game Programming,OT<|+4*Tt(,Germany
+12220002,Sarvar,ISE,Lee Hana,sarvar35@inha.edu,1015802767,20050522,M,"51 OndangRo, YeonsuGu, Incheon 120270",5,0,0,"3Smm3,#Qs*",United States
+12220003,Park Hyunjin,IBT,Kim Seokjin,hyunjin98@inha.edu,1013797672,19991220,M,"2 OndangRo, GyeyangGu, Incheon 124650",5,0,Dance Club,o#k64?4$za,South Korea
+12220004,Shohjahon,ISE,Kim Seokjin,shohjahon10@inha.edu,1095193381,20010415,M,"25 GeumgangRo, BupyeongGu, Incheon 129264",5,0,Drama Club,kK|#*ja0t,Australia
+12220005,Park Hyunjin,IBT,Kim Seokjin,hyunjin94@inha.edu,1061932093,20000919,M,"92 GeumgangRo, NamdongGu, Incheon 127369",5,0,Rock Climbing,#r*<eJ6t{`,South Korea
+12220006,Dilnoza,ISE,Jung Eunji,dilnoza43@inha.edu,1020371055,20010618,F,"24 JungangRo, GyeyangGu, Incheon 124412",5,50,0,]{lg0aQ.81,Brazil
+12220007,Takahashi Mei,KLC,Kim Seokjin,mei54@inha.edu,1079749912,19981005,F,"6 CheongunRo, NamdongGu, Incheon 121055",5,0,Skating,YK]~'I:;5R,Australia
+12220008,Sarvar,ISE,Park Jimin,sarvar3@inha.edu,1056497384,20020825,M,"52 GeumgangRo, NamdongGu, Incheon 129786",5,25,Drama Club,"lJ3Fj}?,[1",Australia
+12220009,Lee Jisoo,IBT,Kim Seokjin,jisoo70@inha.edu,1016398834,20051201,F,"21 OndangRo, BupyeongGu, Incheon 123349",5,50,Dance Club,?/3r0}mhe',South Korea
+12220010,Jahongir,ISE,Kang Daehyun,jahongir74@inha.edu,1094376851,20031025,M,"28 OndangRo, SeoGu, Incheon 126718",5,0,Skating,",?={OP8if{",Uzbekistan
+12220011,Lee Jisoo,IBT,Jung Eunji,jisoo43@inha.edu,1046754659,19990801,F,"85 OndangRo, NamdongGu, Incheon 120011",5,0,0,"l*YqnK>,e3",South Korea
+12220012,Dilnoza,ISE,Choi Minseo,dilnoza12@inha.edu,1038204151,20020905,F,"44 GeumgangRo, GyeyangGu, Incheon 126378",5,100,Game Programming,%BkYsQ*n4,Australia
+12220013,Aibek Temir,KLC,Jung Eunji,temir55@inha.edu,1012001367,20040904,M,"40 MyeongdongRo, BupyeongGu, Incheon 124433",5,0,0,Pl%ts@VysR,United States
+12220014,Thuzar Hnin,KLC,Kim Seokjin,hnin7@inha.edu,1063951929,20021117,F,"97 JungangRo, NamdongGu, Incheon 123055",5,25,0,Xy$;RINw|Z,Germany
+12220015,Park Hyunjin,IBT,Kang Daehyun,hyunjin70@inha.edu,1043255610,19980303,M,"24 CheongunRo, YeonsuGu, Incheon 124979",5,0,0,k|Fv{6gjwC,South Korea
+12220016,Madina,ISE,Kim Seokjin,madina57@inha.edu,1012869672,19970602,F,"52 GeumgangRo, SeoGu, Incheon 123429",5,0,Music Society,Ga|5nERP',Uzbekistan
+12220017,Kang Seoyeon,IBT,Park Jimin,seoyeon59@inha.edu,1045692769,19981010,F,"50 JungangRo, SeoGu, Incheon 128336",5,0,Music Society,"}`evA*|2""V",South Korea
+12220018,Kang Seoyeon,IBT,Kim Seokjin,seoyeon21@inha.edu,1064543307,19960921,F,"5 CheongunRo, BupyeongGu, Incheon 125138",5,0,Debate Team,mGspAH1o1,South Korea
+12220019,Sarvar,ISE,Kang Daehyun,sarvar94@inha.edu,1090029005,19970224,M,"26 MyeongdongRo, YeonsuGu, Incheon 120407",5,50,Game Programming,QA8`T<9mbi,United States
+12220020,Ziyoda,ISE,Jung Hoseok,ziyoda44@inha.edu,1089307241,20000403,F,"6 GeumgangRo, BupyeongGu, Incheon 125441",5,0,Music Society,"Saom""$fp5",Brazil
+12220021,Kang Seoyeon,IBT,Park Jimin,seoyeon9@inha.edu,1062888330,19980126,F,"32 MyeongdongRo, BupyeongGu, Incheon 129221",5,0,Kayaking,{RP[]x|kmK,South Korea
+12220022,Park Hyunjin,IBT,Kang Daehyun,hyunjin90@inha.edu,1093582209,19950611,M,"23 MyeongdongRo, YeonsuGu, Incheon 125017",5,25,Kayaking,a^\'Zu7T2M,South Korea
+12220023,Shohjahon,ISE,Kang Daehyun,shohjahon74@inha.edu,1065451990,20021123,M,"93 GeumgangRo, NamdongGu, Incheon 122450",5,100,Debate Team,[JMjk\U=%4,Germany
+12220024,Jahongir,ISE,Park Jimin,jahongir32@inha.edu,1068834166,19990617,M,"29 JungangRo, NamdongGu, Incheon 129841",5,50,Dance Club,r*[C?q*Fmv,Uzbekistan
+12220025,Islom,ISE,Choi Minseo,islom26@inha.edu,1079062805,20050422,M,"51 OndangRo, SeoGu, Incheon 127776",5,0,Debate Team,eaE]3QA*l<,United States
+12220026,Ziyoda,ISE,Jung Hoseok,ziyoda29@inha.edu,1091725939,19950702,F,"37 GeumgangRo, BupyeongGu, Incheon 121114",5,0,Dance Club,8'I%HE%v0),Australia
+12220027,Min Win,KLC,Choi Minseo,win34@inha.edu,1030497801,20020521,M,"46 OndangRo, BupyeongGu, Incheon 121504",5,0,Debate Team,l4$_=x?&5w,Australia
+12220028,Kim Minho,IBT,Jung Eunji,minho5@inha.edu,1075526069,20041015,M,"73 JungangRo, BupyeongGu, Incheon 123797",5,100,Kayaking,Qn/mmVRMbH,South Korea
+12220029,Park Hyunjin,IBT,Jung Hoseok,hyunjin53@inha.edu,1066222445,19950427,M,"96 OndangRo, GyeyangGu, Incheon 128108",5,100,0,E~)1\8|;hm,South Korea
+12220030,Yamada Taro,KLC,Kim Seokjin,taro33@inha.edu,1011242116,20010308,M,"86 CheongunRo, BupyeongGu, Incheon 124175",5,25,Dance Club,xF}(ci_oH,Germany
+12220031,Malika,ISE,Choi Minseo,malika1@inha.edu,1034745620,19951107,F,"83 GeumgangRo, SeoGu, Incheon 120722",5,0,Skating,|3%1wvy%g,Brazil
+12220032,Aung Kyaw,KLC,Jung Hoseok,kyaw26@inha.edu,1027403804,19981226,M,"87 JungangRo, YeonsuGu, Incheon 120066",5,0,Skating,XFNkl:/!>r,Australia
+12220033,Thuzar Hnin,KLC,Kang Daehyun,hnin35@inha.edu,1023363302,19950405,F,"89 GeumgangRo, YeonsuGu, Incheon 129705",5,0,Rock Climbing,Nw(u^>Io65,Australia
+12220034,Park Hyunjin,IBT,Jung Hoseok,hyunjin56@inha.edu,1054716175,19970413,M,"91 CheongunRo, GyeyangGu, Incheon 123655",5,100,0,iYz'cWX9P,South Korea
+12220035,Shohjahon,ISE,Choi Minseo,shohjahon43@inha.edu,1087018604,20040913,M,"93 OndangRo, YeonsuGu, Incheon 120811",5,50,Drama Club,NiMbg87wo9,Germany
+12220036,Nazira Erkin,KLC,Lee Hana,erkin71@inha.edu,1096376554,19981210,F,"51 MyeongdongRo, YeonsuGu, Incheon 123108",5,100,Rock Climbing,fiXHJy(%)7,Uzbekistan
+12220037,Park Hyunjin,IBT,Kang Daehyun,hyunjin42@inha.edu,1065197425,20040111,M,"58 MyeongdongRo, BupyeongGu, Incheon 121808",5,50,Debate Team,FIuU=Q4JfW,South Korea
+12220038,Tanaka Haruka,KLC,Jung Eunji,haruka11@inha.edu,1037744947,19960325,F,"22 CheongunRo, NamdongGu, Incheon 127014",5,0,0,"7,URP_*+*L",Germany
+12220039,Choi Soojin,IBT,Jung Eunji,soojin46@inha.edu,1041299240,19970912,F,"99 CheongunRo, YeonsuGu, Incheon 122374",5,25,Game Programming,XX2/IPEZyb,India
+12220040,Choi Soojin,IBT,Jung Hoseok,soojin87@inha.edu,1075606210,20030621,F,"34 MyeongdongRo, YeonsuGu, Incheon 125946",5,50,Drama Club,ErXFbut]I=,Australia
+12220041,Malika,ISE,Kim Seokjin,malika78@inha.edu,1098153255,19981110,F,"7 GeumgangRo, GyeyangGu, Incheon 127864",5,50,Game Programming,I}@RMViux3,Brazil
+12220042,Madina,ISE,Kim Seokjin,madina97@inha.edu,1049185662,19970302,F,"67 GeumgangRo, NamdongGu, Incheon 124153",5,0,0,h]js>q.UBl,Uzbekistan
+12220043,Malika,ISE,Kim Seokjin,malika95@inha.edu,1015758157,20000505,F,"63 OndangRo, YeonsuGu, Incheon 123837",5,0,Kayaking,}^@x%8R6m,Brazil
+12220044,Tanaka Haruka,KLC,Jung Eunji,haruka19@inha.edu,1073738107,19980601,F,"93 JungangRo, GyeyangGu, Incheon 129338",5,100,Rock Climbing,"MPt38URIV,",Germany
+12220045,Kim Minho,IBT,Jung Hoseok,minho84@inha.edu,1010537981,20051025,M,"12 OndangRo, NamdongGu, Incheon 129071",5,0,Skating,gku*;AI\:<,South Korea
+12220046,Choi Soojin,IBT,Lee Hana,soojin88@inha.edu,1071572363,20021225,F,"21 GeumgangRo, SeoGu, Incheon 122524",5,50,Dance Club,ma2s1M}Xrj,Brazil
+12220047,Park Hyunjin,IBT,Kang Daehyun,hyunjin30@inha.edu,1053908868,20050728,M,"76 MyeongdongRo, YeonsuGu, Incheon 126707",5,0,Dance Club,96Odkm]p',South Korea
+12220048,Madina,ISE,Lee Hana,madina21@inha.edu,1071205127,19981121,F,"74 JungangRo, GyeyangGu, Incheon 127544",5,25,Game Programming,ud&+l@\19R,Uzbekistan
+12220049,Takahashi Mei,KLC,Park Jimin,mei36@inha.edu,1084964257,20000907,F,"20 JungangRo, NamdongGu, Incheon 120704",5,50,Debate Team,n(<=JiyyFq,Australia
+12220050,Park Hyunjin,IBT,Jung Eunji,hyunjin14@inha.edu,1018154661,19950626,M,"85 OndangRo, BupyeongGu, Incheon 129241",5,0,Debate Team,[GjcS/~bh<,South Korea
+12220051,Thuzar Hnin,KLC,Choi Minseo,hnin6@inha.edu,1066842700,19980618,F,"61 MyeongdongRo, NamdongGu, Incheon 128791",5,0,0,n|ujF'I4ll,Australia
+12220052,Dilnoza,ISE,Kang Daehyun,dilnoza52@inha.edu,1023971123,20050412,F,"90 OndangRo, YeonsuGu, Incheon 129437",5,100,Skating,&2P_R!T.>p,India
+12220053,Park Hyunjin,IBT,Jung Eunji,hyunjin68@inha.edu,1073341568,20030208,M,"10 CheongunRo, SeoGu, Incheon 126778",5,0,Kayaking,"bP[#,V$h/l",South Korea
+12220054,Choi Soojin,IBT,Kang Daehyun,soojin69@inha.edu,1012361477,20041103,F,"16 OndangRo, SeoGu, Incheon 123555",5,0,Dance Club,lP}_G;1=_,India
+12220055,Lee Jisoo,IBT,Kang Daehyun,jisoo45@inha.edu,1045893696,19990314,F,"6 GeumgangRo, BupyeongGu, Incheon 121085",5,0,Game Programming,T@rm&TzeCL,South Korea
+12220056,Lee Jisoo,IBT,Lee Hana,jisoo26@inha.edu,1080125169,19960317,F,"87 MyeongdongRo, NamdongGu, Incheon 129589",5,50,0,DL(j*(7Sm\,South Korea
+12220057,Islom,ISE,Park Jimin,islom3@inha.edu,1029073527,19990401,M,"94 GeumgangRo, SeoGu, Incheon 124122",5,50,Kayaking,egar#i;PsK,India
+12220058,Yamada Taro,KLC,Park Jimin,taro19@inha.edu,1016052630,19970414,M,"32 OndangRo, YeonsuGu, Incheon 126438",5,0,Kayaking,L8Om~vS:wh,Germany
+12220059,Lee Jisoo,IBT,Choi Minseo,jisoo66@inha.edu,1049517562,19980605,F,"18 JungangRo, YeonsuGu, Incheon 124036",5,0,Kayaking,":Ou#0""^]XB",South Korea
+12220060,Gulnoza,ISE,Kang Daehyun,gulnoza28@inha.edu,1088533810,19960610,F,"2 CheongunRo, SeoGu, Incheon 122517",5,50,Drama Club,Y0L8pn81Y,Brazil
+12220061,Nguyen Hoa,KLC,Jung Eunji,hoa21@inha.edu,1052364142,19980223,F,"93 CheongunRo, YeonsuGu, Incheon 123070",5,0,Rock Climbing,"Ro,:LJ:hJC",Australia
+12220062,Jahongir,ISE,Jung Eunji,jahongir87@inha.edu,1010954561,19970301,M,"34 GeumgangRo, BupyeongGu, Incheon 121867",5,0,Rock Climbing,"W""&xwo/So""",Uzbekistan
+12220063,Aizada Nurlan,KLC,Choi Minseo,nurlan50@inha.edu,1072179935,20010922,F,"52 OndangRo, NamdongGu, Incheon 122518",5,0,Rock Climbing,"@Mtv3`;)""",Brazil
+12220064,Kim Minho,IBT,Jung Hoseok,minho65@inha.edu,1072887270,20011224,M,"59 MyeongdongRo, NamdongGu, Incheon 125331",5,50,Skating,PNZeNIoY!,South Korea
+12220065,Lee Jisoo,IBT,Choi Minseo,jisoo49@inha.edu,1091146670,19980816,F,"61 JungangRo, BupyeongGu, Incheon 122216",5,25,Rock Climbing,kLLdm?g4CU,South Korea
+12220066,Kang Seoyeon,IBT,Jung Hoseok,seoyeon98@inha.edu,1070362767,19980311,F,"90 CheongunRo, NamdongGu, Incheon 128539",5,100,Music Society,zqz6F9N4~X,South Korea
+12220067,Choi Soojin,IBT,Kang Daehyun,soojin78@inha.edu,1065751613,20031111,F,"28 OndangRo, BupyeongGu, Incheon 124011",5,0,Kayaking,L^P'vXK.sS,Germany
+12220068,Kobayashi Riku,KLC,Jung Eunji,riku84@inha.edu,1062583527,20001110,M,"94 JungangRo, NamdongGu, Incheon 127587",5,0,Music Society,ob^dOL!eXR,Germany
+12220069,Islom,ISE,Jung Eunji,islom62@inha.edu,1055223013,19960603,M,"64 CheongunRo, BupyeongGu, Incheon 120283",5,50,Rock Climbing,uOX9(rEbk>,United States
+12220070,Kim Minho,IBT,Choi Minseo,minho19@inha.edu,1054534420,19990825,M,"82 GeumgangRo, BupyeongGu, Incheon 121700",5,0,Debate Team,k|#YlW=/Vg,South Korea
+12220071,Jung Donghyun,IBT,Lee Hana,donghyun19@inha.edu,1036039566,20030417,M,"87 JungangRo, GyeyangGu, Incheon 124298",5,100,Skating,hkEe`\`9bD,Germany
+12220072,Thuzar Hnin,KLC,Kim Seokjin,hnin54@inha.edu,1034134124,19981110,F,"63 OndangRo, YeonsuGu, Incheon 122485",5,0,0,"yj""2am{k'N",United States
+12220073,Kang Seoyeon,IBT,Jung Eunji,seoyeon13@inha.edu,1093758517,20000426,F,"5 OndangRo, GyeyangGu, Incheon 129612",5,50,0,4G@YLpy7N9,South Korea
+12220074,Gulnoza,ISE,Jung Hoseok,gulnoza43@inha.edu,1020743303,19960422,F,"19 MyeongdongRo, GyeyangGu, Incheon 126756",5,100,Kayaking,",CcN;1A#u/",Germany
+12220075,Jahongir,ISE,Choi Minseo,jahongir12@inha.edu,1021018109,20010812,M,"96 OndangRo, YeonsuGu, Incheon 120042",5,100,0,"""4Y8oB#xOY",Uzbekistan
+12220076,Jung Donghyun,IBT,Park Jimin,donghyun23@inha.edu,1033571167,20050626,M,"93 MyeongdongRo, SeoGu, Incheon 120725",5,0,Game Programming,4J[_HidC>V,Australia
+12220077,Jahongir,ISE,Lee Hana,jahongir66@inha.edu,1025492559,20040824,M,"41 GeumgangRo, GyeyangGu, Incheon 124861",5,0,Music Society,<BiVJouG(X,Uzbekistan
+12220078,Park Hyunjin,IBT,Choi Minseo,hyunjin90@inha.edu,1014604917,19990324,M,"69 GeumgangRo, NamdongGu, Incheon 125031",5,0,Game Programming,I1ihe$(7h$,South Korea
+12220079,Park Hyunjin,IBT,Lee Hana,hyunjin25@inha.edu,1061545847,20020619,M,"91 JungangRo, BupyeongGu, Incheon 124208",5,100,Rock Climbing,0{0~~Q@?T~,South Korea
+12220080,Gulnoza,ISE,Kim Seokjin,gulnoza91@inha.edu,1020062387,19970906,F,"98 CheongunRo, NamdongGu, Incheon 127313",5,0,Game Programming,Si<d?sw^cC,India
+12220081,Azizbek,ISE,Jung Hoseok,azizbek5@inha.edu,1095329045,19970226,M,"38 JungangRo, YeonsuGu, Incheon 120938",5,100,Dance Club,#Xt@kP6aRV,Australia
+12220082,Islom,ISE,Jung Eunji,islom25@inha.edu,1055905133,20030616,M,"9 MyeongdongRo, GyeyangGu, Incheon 129560",5,100,Drama Club,"u?b#\e<z,W",Brazil
+12220083,Meerim Zhumagul,KLC,Jung Eunji,zhumagul81@inha.edu,1019574999,20011220,F,"41 JungangRo, GyeyangGu, Incheon 122037",5,0,Game Programming,;>$9'Fe:{;,Brazil
+12220084,Dilnoza,ISE,Jung Eunji,dilnoza99@inha.edu,1060534458,20030609,F,"82 JungangRo, YeonsuGu, Incheon 122496",5,50,Debate Team,&0)`i4:f$`,Germany
+12220085,Sarvar,ISE,Lee Hana,sarvar26@inha.edu,1043723659,20050402,M,"29 MyeongdongRo, BupyeongGu, Incheon 129663",5,50,Game Programming,MAd2:<#|g(,India
+12220086,Adi Putri,KLC,Jung Hoseok,putri83@inha.edu,1040894249,19950904,F,"74 CheongunRo, YeonsuGu, Incheon 124313",5,0,Rock Climbing,11#Sln\UJe,Brazil
+12220087,Gulnoza,ISE,Jung Hoseok,gulnoza92@inha.edu,1026902643,20030815,F,"51 JungangRo, NamdongGu, Incheon 126643",5,100,Drama Club,A.n>B>ap%T,Germany
+12220088,Aung Kyaw,KLC,Jung Eunji,kyaw58@inha.edu,1055226809,19990714,M,"6 MyeongdongRo, YeonsuGu, Incheon 124890",5,100,0,"YNXr},Bqd!",Australia
+12220089,Park Hyunjin,IBT,Park Jimin,hyunjin14@inha.edu,1079441718,20000707,M,"27 MyeongdongRo, YeonsuGu, Incheon 123044",5,25,Game Programming,"#KmQajX,h",South Korea
+12220090,Azizbek,ISE,Lee Hana,azizbek23@inha.edu,1019879723,20050710,M,"66 CheongunRo, SeoGu, Incheon 121156",5,0,Debate Team,)tzNR?u3#t,India
+12220091,Shohjahon,ISE,Kim Seokjin,shohjahon64@inha.edu,1068105886,20000814,M,"91 GeumgangRo, BupyeongGu, Incheon 124212",5,0,Skating,.V;rALgX;g,Australia
+12220092,Kang Seoyeon,IBT,Jung Hoseok,seoyeon13@inha.edu,1044127372,20040704,F,"97 CheongunRo, YeonsuGu, Incheon 121231",5,0,Game Programming,7+m+%d(^m_,South Korea
+12220093,Islom,ISE,Jung Eunji,islom78@inha.edu,1043267673,19970214,M,"58 GeumgangRo, GyeyangGu, Incheon 128771",5,0,Drama Club,HLY!a/qvlt,Brazil
+12220094,Sarvar,ISE,Lee Hana,sarvar34@inha.edu,1035466897,19950918,M,"10 OndangRo, SeoGu, Incheon 122999",5,25,Dance Club,CLE^VBX+.b,Brazil
+12220095,Jahongir,ISE,Park Jimin,jahongir33@inha.edu,1050705465,20040924,M,"17 MyeongdongRo, GyeyangGu, Incheon 124999",5,25,Drama Club,\[X1\Zcp}?,Uzbekistan
+12220096,Choi Soojin,IBT,Kim Seokjin,soojin41@inha.edu,1080756172,20021004,F,"54 JungangRo, YeonsuGu, Incheon 129530",5,0,Drama Club,p?Mq0C\V$&,Brazil
+12220097,Kang Seoyeon,IBT,Jung Hoseok,seoyeon30@inha.edu,1086587328,20011005,F,"63 OndangRo, GyeyangGu, Incheon 125083",5,0,Rock Climbing,aGCP*$_lxK,South Korea
+12220098,Lee Jisoo,IBT,Kim Seokjin,jisoo58@inha.edu,1082623710,20000311,F,"12 GeumgangRo, GyeyangGu, Incheon 124052",5,100,Game Programming,"TD,8ST0{gR",South Korea
+12220099,Ziyoda,ISE,Jung Hoseok,ziyoda33@inha.edu,1033288510,20051107,F,"90 CheongunRo, NamdongGu, Incheon 128469",5,50,Rock Climbing,"""bw5x)S&7+",United States
+12220100,Kim Minho,IBT,Park Jimin,minho46@inha.edu,1046633903,19980127,M,"22 MyeongdongRo, BupyeongGu, Incheon 120429",5,0,Music Society,zKL[d/(r<&,South Korea
+12220101,Meerim Zhumagul,KLC,Jung Eunji,zhumagul60@inha.edu,1075019273,19991226,F,"60 OndangRo, SeoGu, Incheon 124121",5,25,0,"aouCDTfc"".",India
+12220102,Jahongir,ISE,Park Jimin,jahongir71@inha.edu,1077941549,19970626,M,"75 MyeongdongRo, GyeyangGu, Incheon 124612",5,0,Skating,8D%%PY\r){,Uzbekistan
+12220103,Kim Minho,IBT,Park Jimin,minho61@inha.edu,1015073062,19980601,M,"67 OndangRo, BupyeongGu, Incheon 124612",5,0,0,k9L}KqQs3H,South Korea
+12220104,Jung Donghyun,IBT,Jung Hoseok,donghyun10@inha.edu,1060192195,20010521,M,"62 JungangRo, NamdongGu, Incheon 128730",5,0,Skating,xNCu4HSV@3,United States
+12220105,Lee Jisoo,IBT,Jung Hoseok,jisoo33@inha.edu,1026552603,20010327,F,"40 GeumgangRo, BupyeongGu, Incheon 122404",5,50,Kayaking,ORL|\P;OX,South Korea
+12220106,Aibek Temir,KLC,Jung Eunji,temir98@inha.edu,1011392711,20000814,M,"26 MyeongdongRo, BupyeongGu, Incheon 127572",5,0,Debate Team,}eJ_GQtg,United States
+12220107,Kim Minho,IBT,Jung Eunji,minho66@inha.edu,1023208050,19961102,M,"79 OndangRo, YeonsuGu, Incheon 128198",5,50,Debate Team,4b\uIe2vz{,South Korea
+12220108,Park Hyunjin,IBT,Kim Seokjin,hyunjin76@inha.edu,1043061332,20040516,M,"27 JungangRo, GyeyangGu, Incheon 126299",5,0,Debate Team,mObp}Hsn+,South Korea
+12220109,Azizbek,ISE,Kang Daehyun,azizbek81@inha.edu,1025762463,19990607,M,"82 MyeongdongRo, NamdongGu, Incheon 127062",5,100,Debate Team,03%^YpTrp?,United States
+12220110,Lee Jisoo,IBT,Choi Minseo,jisoo3@inha.edu,1069288110,20050503,F,"73 CheongunRo, GyeyangGu, Incheon 129125",5,0,Drama Club,8YCc0:Cuj,South Korea
+12220111,Thuzar Hnin,KLC,Kim Seokjin,hnin48@inha.edu,1078991526,19991116,F,"96 OndangRo, GyeyangGu, Incheon 124721",5,100,Kayaking,I3$p%t8\&?,Brazil
+12220112,Park Hyunjin,IBT,Jung Eunji,hyunjin37@inha.edu,1045923952,20000607,M,"47 JungangRo, NamdongGu, Incheon 121735",5,0,Debate Team,"f,eXistd0""",South Korea
+12220113,Kang Seoyeon,IBT,Jung Hoseok,seoyeon22@inha.edu,1041891223,19980127,F,"12 OndangRo, SeoGu, Incheon 123142",5,0,0,&9'.!v(Xz.,South Korea
+12220114,Jahongir,ISE,Kim Seokjin,jahongir92@inha.edu,1052654237,20021203,M,"20 JungangRo, GyeyangGu, Incheon 127390",5,100,0,"HyW`P""j;p7",Uzbekistan
+12220115,Shohjahon,ISE,Jung Eunji,shohjahon7@inha.edu,1021448345,19980911,M,"58 JungangRo, YeonsuGu, Incheon 127547",5,50,Music Society,F;P/7lN9(T,India
+12220116,Jung Donghyun,IBT,Choi Minseo,donghyun42@inha.edu,1065937781,20030302,M,"36 MyeongdongRo, SeoGu, Incheon 125058",5,50,0,"4,;MZxXK{b",India
+12220117,Hadi Budi,KLC,Park Jimin,budi80@inha.edu,1076221226,19970204,M,"23 JungangRo, NamdongGu, Incheon 121934",5,0,Drama Club,KNXJU`M>A|,United States
+12220118,Bekbolot Akyl,KLC,Kim Seokjin,akyl88@inha.edu,1092586336,20030509,M,"95 OndangRo, BupyeongGu, Incheon 125370",5,0,Skating,fw'=M{^=Aq,United States
+12220119,Park Hyunjin,IBT,Jung Eunji,hyunjin91@inha.edu,1060605354,19970420,M,"11 OndangRo, BupyeongGu, Incheon 128222",5,25,Game Programming,Rqk7@_*Z)>,South Korea
+12220120,Nguyen Hoa,KLC,Park Jimin,hoa60@inha.edu,1050721160,20020528,F,"13 CheongunRo, GyeyangGu, Incheon 120139",5,50,Music Society,jE%2z88N}r,Brazil
+12220121,Hadi Budi,KLC,Lee Hana,budi15@inha.edu,1044704463,19970313,M,"76 OndangRo, SeoGu, Incheon 121560",5,50,0,Bjr@Ik^Wre,India
+12220122,Dilnoza,ISE,Jung Hoseok,dilnoza70@inha.edu,1071639448,20001102,F,"5 CheongunRo, BupyeongGu, Incheon 124104",5,25,Drama Club,VYF_4/9>sj,United States
+12220123,Shohjahon,ISE,Jung Hoseok,shohjahon38@inha.edu,1079624407,19970527,M,"9 MyeongdongRo, SeoGu, Incheon 123776",5,100,Drama Club,U7|>YqS7@,Brazil
+12220124,Jung Donghyun,IBT,Jung Hoseok,donghyun51@inha.edu,1065934060,20000527,M,"82 JungangRo, NamdongGu, Incheon 129873",5,25,0,Sx#iI*9ZY(,United States
+12220125,Madina,ISE,Kang Daehyun,madina52@inha.edu,1014848939,20030507,F,"77 JungangRo, YeonsuGu, Incheon 128448",5,0,0,q\<d+>7l&>,Uzbekistan
+12220126,Hadi Budi,KLC,Kim Seokjin,budi29@inha.edu,1062189746,20001026,M,"27 JungangRo, YeonsuGu, Incheon 122017",5,0,Debate Team,"6;gY""8/#8Q",Germany
+12220127,Park Hyunjin,IBT,Kim Seokjin,hyunjin82@inha.edu,1049141287,19950604,M,"72 MyeongdongRo, YeonsuGu, Incheon 127174",5,50,Drama Club,+u1~ri@jKi,South Korea
+12220128,Malika,ISE,Kim Seokjin,malika95@inha.edu,1077409506,19970509,F,"90 GeumgangRo, NamdongGu, Incheon 125192",5,25,Music Society,"i>,I=P_'~X",India
+12220129,Kang Seoyeon,IBT,Kim Seokjin,seoyeon84@inha.edu,1021991613,19990601,F,"49 MyeongdongRo, SeoGu, Incheon 125117",5,50,0,ZJ2P]'O[]K,South Korea
+12220130,Shohjahon,ISE,Jung Eunji,shohjahon53@inha.edu,1049556351,19970108,M,"42 OndangRo, GyeyangGu, Incheon 126745",5,50,Drama Club,S`zVEdW7Xh,Germany
+12220131,Shohjahon,ISE,Jung Hoseok,shohjahon69@inha.edu,1042409085,19980615,M,"33 OndangRo, BupyeongGu, Incheon 128146",5,0,Game Programming,PFul\o'Ac;,India
+12220132,Kim Minho,IBT,Jung Eunji,minho98@inha.edu,1058873789,20040715,M,"63 MyeongdongRo, SeoGu, Incheon 121153",5,100,Debate Team,A}MtA.4I?;,South Korea
+12220133,Ruslan Bakyt,KLC,Jung Hoseok,bakyt39@inha.edu,1047487684,19991204,M,"15 GeumgangRo, YeonsuGu, Incheon 126960",5,100,Rock Climbing,rgTj9YvUS!,Australia
+12220134,Choi Soojin,IBT,Jung Eunji,soojin1@inha.edu,1012896823,20051123,F,"45 GeumgangRo, YeonsuGu, Incheon 128659",5,0,Game Programming,>A{8gpq(G@,United States
+12230000,Ziyoda,ISE,Kang Daehyun,ziyoda78@inha.edu,1060091754,19970310,F,"59 OndangRo, NamdongGu, Incheon 120446",4,25,Rock Climbing,*CqibiwFK,Germany
+12230001,Aibek Temir,KLC,Choi Minseo,temir71@inha.edu,1039722551,19961214,M,"94 MyeongdongRo, BupyeongGu, Incheon 121904",4,0,Dance Club,2K]4X~'/\A,Germany
+12230002,Min Win,KLC,Jung Eunji,win68@inha.edu,1050241815,20040808,M,"87 MyeongdongRo, SeoGu, Incheon 127775",4,0,Game Programming,"`|$2[+5l,<",Germany
+12230003,Islom,ISE,Jung Eunji,islom4@inha.edu,1097121030,20051201,M,"50 CheongunRo, GyeyangGu, Incheon 129235",4,0,Skating,AqQ#uEm]Ox,India
+12230004,Aibek Temir,KLC,Kang Daehyun,temir79@inha.edu,1058918675,20001223,M,"42 GeumgangRo, GyeyangGu, Incheon 124638",4,0,Game Programming,5YRt=XA/},Germany
+12230005,Lee Jisoo,IBT,Lee Hana,jisoo16@inha.edu,1098485542,20021115,F,"82 MyeongdongRo, YeonsuGu, Incheon 120165",4,0,Rock Climbing,rw7iPOCHM,South Korea
+12230006,Yamada Taro,KLC,Park Jimin,taro56@inha.edu,1077674380,20011104,M,"76 OndangRo, SeoGu, Incheon 128871",4,50,0,XwAJ&rc72=,United States
+12230007,Aizada Nurlan,KLC,Jung Hoseok,nurlan19@inha.edu,1012541993,19961115,F,"12 GeumgangRo, YeonsuGu, Incheon 120098",4,25,0,i7&*4LV%f*,India
+12230008,Gulnoza,ISE,Lee Hana,gulnoza5@inha.edu,1035035426,20030625,F,"78 GeumgangRo, SeoGu, Incheon 123599",4,0,Debate Team,h/9Y5Bc+)1,Germany
+12230009,Sarvar,ISE,Choi Minseo,sarvar96@inha.edu,1057497094,20030404,M,"22 JungangRo, BupyeongGu, Incheon 120780",4,0,Game Programming,j63XG(^1<0,Germany
+12230010,Islom,ISE,Jung Eunji,islom37@inha.edu,1070301634,20051215,M,"10 JungangRo, YeonsuGu, Incheon 129224",4,0,Music Society,"kQ6.,""]s47",Germany
+12230011,Malika,ISE,Kim Seokjin,malika13@inha.edu,1021392814,19980402,F,"43 OndangRo, NamdongGu, Incheon 128551",4,50,Skating,w[on4)$hq6,India
+12230012,Choi Soojin,IBT,Jung Hoseok,soojin8@inha.edu,1049088457,19990301,F,"44 GeumgangRo, SeoGu, Incheon 127232",4,0,Rock Climbing,Q2rQ|HkVu2,Brazil
+12230013,Shohjahon,ISE,Kang Daehyun,shohjahon31@inha.edu,1035244401,19981126,M,"98 MyeongdongRo, SeoGu, Incheon 123753",4,25,Skating,?&yBJSvU)],India
+12230014,Islom,ISE,Choi Minseo,islom96@inha.edu,1053764254,20030817,M,"1 JungangRo, YeonsuGu, Incheon 129778",4,0,Kayaking,"Xl>S,B|VN^",India
+12230015,Choi Soojin,IBT,Lee Hana,soojin80@inha.edu,1060772358,20040927,F,"89 OndangRo, SeoGu, Incheon 129193",4,50,Drama Club,q~zF;@b(i$,United States
+12230016,Jung Donghyun,IBT,Jung Eunji,donghyun90@inha.edu,1035947178,19981114,M,"82 OndangRo, NamdongGu, Incheon 129450",4,0,0,LkeZ{emVTm,United States
+12230017,Choi Soojin,IBT,Kang Daehyun,soojin38@inha.edu,1047365835,19951214,F,"49 JungangRo, NamdongGu, Incheon 128308",4,0,0,<F5?Y<9f.a,Australia
+12230018,Nguyen Hoa,KLC,Kim Seokjin,hoa65@inha.edu,1058792286,19970505,F,"80 MyeongdongRo, GyeyangGu, Incheon 121082",4,0,Debate Team,$[g\/X~.R\,Australia
+12230019,Lee Jisoo,IBT,Kang Daehyun,jisoo67@inha.edu,1098263616,20030223,F,"74 JungangRo, BupyeongGu, Incheon 124363",4,50,Rock Climbing,"<BpkD""KQ+Y",South Korea
+12230020,Sarvar,ISE,Park Jimin,sarvar4@inha.edu,1058347447,20020721,M,"71 GeumgangRo, BupyeongGu, Incheon 120094",4,100,0,"Ba&""OXy?Zh",India
+12230021,Lee Jisoo,IBT,Kim Seokjin,jisoo25@inha.edu,1017786838,19981017,F,"20 MyeongdongRo, YeonsuGu, Incheon 123055",4,0,Skating,"ZLv;I0,{n",South Korea
+12230022,Ziyoda,ISE,Kim Seokjin,ziyoda90@inha.edu,1041683193,20010302,F,"97 JungangRo, SeoGu, Incheon 129270",4,0,Drama Club,"H.nD:R7,Kw",Australia
+12230023,Choi Soojin,IBT,Jung Hoseok,soojin20@inha.edu,1046428047,19970614,F,"45 JungangRo, SeoGu, Incheon 127338",4,0,Game Programming,!I`zw~B'vx,Australia
+12230024,Sarvar,ISE,Jung Hoseok,sarvar97@inha.edu,1084746096,19980201,M,"60 GeumgangRo, SeoGu, Incheon 127184",4,100,Dance Club,#~}]XyU4oW,United States
+12230025,Azizbek,ISE,Jung Hoseok,azizbek89@inha.edu,1087034270,19980122,M,"18 CheongunRo, NamdongGu, Incheon 125922",4,50,Kayaking,Os)0<<AaPu,India
+12230026,Jung Donghyun,IBT,Lee Hana,donghyun6@inha.edu,1013856866,19990524,M,"2 GeumgangRo, GyeyangGu, Incheon 125603",4,25,Skating,"""^W^KK>Yt7",Germany
+12230027,Aung Kyaw,KLC,Kim Seokjin,kyaw53@inha.edu,1098978021,20050203,M,"68 OndangRo, YeonsuGu, Incheon 120582",4,0,Rock Climbing,.p9zI7+!vU,United States
+12230028,Park Hyunjin,IBT,Park Jimin,hyunjin9@inha.edu,1071019977,20000515,M,"37 JungangRo, YeonsuGu, Incheon 121418",4,0,0,ch:@Wk)6u!,South Korea
+12230029,Min Win,KLC,Lee Hana,win46@inha.edu,1069328093,20010918,M,"54 GeumgangRo, SeoGu, Incheon 125163",4,0,Kayaking,"dL#5x,6\,j",Brazil
+12230030,Kim Minho,IBT,Lee Hana,minho61@inha.edu,1037692670,20021015,M,"8 OndangRo, NamdongGu, Incheon 125723",4,0,Music Society,"VO}Rl]I""Z2",South Korea
+12230031,Shohjahon,ISE,Kang Daehyun,shohjahon57@inha.edu,1067336568,19981009,M,"66 CheongunRo, SeoGu, Incheon 121346",4,25,Kayaking,&bhRw|6H/,Australia
+12230032,Lee Jisoo,IBT,Park Jimin,jisoo77@inha.edu,1080057745,20031002,F,"61 CheongunRo, BupyeongGu, Incheon 126559",4,100,0,*j6d.ZV?li,South Korea
+12230033,Kim Minho,IBT,Jung Hoseok,minho49@inha.edu,1017985321,19960918,M,"29 MyeongdongRo, GyeyangGu, Incheon 123963",4,25,Kayaking,C?:5)a>xH},South Korea
+12230034,Kim Minho,IBT,Jung Hoseok,minho6@inha.edu,1029816547,19950321,M,"89 MyeongdongRo, BupyeongGu, Incheon 120434",4,100,Drama Club,&rIVS{ed]A,South Korea
+12230035,Yamada Taro,KLC,Park Jimin,taro87@inha.edu,1025764293,20040401,M,"88 JungangRo, BupyeongGu, Incheon 120501",4,25,Dance Club,og:8cnroy>,Australia
+12230036,Jahongir,ISE,Kim Seokjin,jahongir88@inha.edu,1098267393,20011213,M,"99 CheongunRo, SeoGu, Incheon 121716",4,50,Kayaking,lFat9'b[PB,Uzbekistan
+12230037,Takahashi Mei,KLC,Choi Minseo,mei3@inha.edu,1041618892,20000823,F,"10 JungangRo, YeonsuGu, Incheon 122803",4,100,0,y/u`8VEpTr,India
+12230038,Islom,ISE,Choi Minseo,islom82@inha.edu,1032431001,19970109,M,"52 MyeongdongRo, SeoGu, Incheon 124277",4,25,Skating,(y8C}BfgWi,Brazil
+12230039,Lee Jisoo,IBT,Park Jimin,jisoo76@inha.edu,1023691042,20000924,F,"33 OndangRo, NamdongGu, Incheon 122772",4,0,Music Society,F|Th+gTG_,South Korea
+12230040,Choi Soojin,IBT,Jung Eunji,soojin17@inha.edu,1064569717,20041218,F,"59 MyeongdongRo, SeoGu, Incheon 124554",4,100,Drama Club,EC@QF+ssQr,Australia
+12230041,Choi Soojin,IBT,Kang Daehyun,soojin4@inha.edu,1017495415,19980807,F,"98 GeumgangRo, GyeyangGu, Incheon 126840",4,25,Rock Climbing,C;Q{1kn`F:,India
+12230042,Park Hyunjin,IBT,Lee Hana,hyunjin29@inha.edu,1065366534,20001109,M,"34 MyeongdongRo, BupyeongGu, Incheon 120535",4,0,0,YkLb>m{S]),South Korea
+12230043,Islom,ISE,Jung Eunji,islom5@inha.edu,1089896895,20041006,M,"46 MyeongdongRo, BupyeongGu, Incheon 129022",4,50,Rock Climbing,KA:oU^_HPx,Brazil
+12230044,Jahongir,ISE,Jung Hoseok,jahongir70@inha.edu,1072122806,20000119,M,"86 MyeongdongRo, BupyeongGu, Incheon 120529",4,100,0,Dp.nwp~YP=,Uzbekistan
+12230045,Shohjahon,ISE,Jung Hoseok,shohjahon30@inha.edu,1038808615,20020417,M,"79 CheongunRo, GyeyangGu, Incheon 122802",4,0,Game Programming,Jw~x>bO$X`,Germany
+12230046,Gulnoza,ISE,Park Jimin,gulnoza90@inha.edu,1064934508,20000925,F,"20 JungangRo, SeoGu, Incheon 126240",4,50,0,V8RN`8k:j2,Germany
+12230047,Aizada Nurlan,KLC,Choi Minseo,nurlan63@inha.edu,1015824396,19950205,F,"50 GeumgangRo, NamdongGu, Incheon 121773",4,100,Debate Team,Z'EcJ)dtH2,Germany
+12230048,Dilnoza,ISE,Park Jimin,dilnoza46@inha.edu,1021202264,19960723,F,"41 MyeongdongRo, SeoGu, Incheon 122637",4,0,Kayaking,z&Usui.@o8,Australia
+12230049,Jahongir,ISE,Choi Minseo,jahongir91@inha.edu,1042482059,20010117,M,"81 MyeongdongRo, SeoGu, Incheon 120692",4,0,Game Programming,T'omtdR]nB,Uzbekistan
+12230050,Ziyoda,ISE,Jung Hoseok,ziyoda96@inha.edu,1024653406,20020823,F,"15 MyeongdongRo, NamdongGu, Incheon 122165",4,25,Game Programming,py6?vt'4O<,Brazil
+12230051,Kim Minho,IBT,Jung Hoseok,minho35@inha.edu,1056249964,19950313,M,"75 CheongunRo, BupyeongGu, Incheon 120789",4,0,Game Programming,*$n^a@5mmH,South Korea
+12230052,Shohjahon,ISE,Lee Hana,shohjahon57@inha.edu,1097348932,19970214,M,"19 MyeongdongRo, BupyeongGu, Incheon 129206",4,0,Dance Club,?mYG1(?hv8,India
+12230053,Kang Seoyeon,IBT,Lee Hana,seoyeon37@inha.edu,1086132718,19970213,F,"89 OndangRo, GyeyangGu, Incheon 120283",4,0,Debate Team,T\['`)hC,South Korea
+12230054,Choi Soojin,IBT,Jung Eunji,soojin63@inha.edu,1086615884,20010207,F,"43 JungangRo, YeonsuGu, Incheon 129411",4,50,Kayaking,]'mC8UZm%i,India
+12230055,Ziyoda,ISE,Kang Daehyun,ziyoda37@inha.edu,1057653853,20031213,F,"18 OndangRo, YeonsuGu, Incheon 123039",4,100,Debate Team,q:rUy<6.i2,United States
+12230056,Madina,ISE,Lee Hana,madina52@inha.edu,1025218193,20001216,F,"86 OndangRo, NamdongGu, Incheon 125445",4,0,0,2mk%NNt!u;,Uzbekistan
+12230057,Shohjahon,ISE,Jung Eunji,shohjahon6@inha.edu,1026923713,20010127,M,"20 JungangRo, YeonsuGu, Incheon 128722",4,100,0,w.us?dIZQq,Germany
+12230058,Jung Donghyun,IBT,Lee Hana,donghyun57@inha.edu,1021314965,20040504,M,"49 CheongunRo, GyeyangGu, Incheon 128242",4,100,Music Society,/$R43$<p)1,Australia
+12230059,Park Hyunjin,IBT,Jung Hoseok,hyunjin70@inha.edu,1097012239,19980128,M,"3 OndangRo, NamdongGu, Incheon 124526",4,25,Rock Climbing,\vTdo&Fy@?,South Korea
+12230060,Lee Jisoo,IBT,Jung Eunji,jisoo91@inha.edu,1079514043,19970609,F,"91 MyeongdongRo, NamdongGu, Incheon 123998",4,0,Game Programming,p\5^*]`eW#,South Korea
+12230061,Jung Donghyun,IBT,Kim Seokjin,donghyun59@inha.edu,1022502446,20020413,M,"91 JungangRo, NamdongGu, Incheon 127199",4,0,Drama Club,c:xg+waz|H,Australia
+12230062,Min Win,KLC,Jung Eunji,win81@inha.edu,1079063426,20001006,M,"2 OndangRo, NamdongGu, Incheon 123346",4,0,Debate Team,(@ZR)C<is,Germany
+12230063,Azizbek,ISE,Kang Daehyun,azizbek13@inha.edu,1027018324,19970123,M,"89 MyeongdongRo, SeoGu, Incheon 128758",4,0,Game Programming,"umEah""/3$",United States
+12230064,Thuzar Hnin,KLC,Lee Hana,hnin41@inha.edu,1029048357,20050819,F,"88 MyeongdongRo, BupyeongGu, Incheon 122927",4,0,0,b8?if4vXXY,Germany
+12230065,Jahongir,ISE,Lee Hana,jahongir85@inha.edu,1044756496,19980110,M,"36 JungangRo, BupyeongGu, Incheon 123495",4,50,Music Society,=z[o9am%<c,Uzbekistan
+12230066,Ziyoda,ISE,Kang Daehyun,ziyoda38@inha.edu,1084959322,19950826,F,"88 JungangRo, GyeyangGu, Incheon 126680",4,100,Music Society,5xZsaTs]WE,Australia
+12230067,Bekbolot Akyl,KLC,Kim Seokjin,akyl55@inha.edu,1040156541,20010706,M,"55 MyeongdongRo, GyeyangGu, Incheon 127705",4,25,Kayaking,j>lc;8f$+!,Australia
+12230068,Madina,ISE,Jung Hoseok,madina72@inha.edu,1071392628,19981018,F,"29 CheongunRo, GyeyangGu, Incheon 120260",4,0,Game Programming,CV_P>=zO?B,Uzbekistan
+12230069,Nguyen Hoa,KLC,Jung Eunji,hoa74@inha.edu,1082357518,19950318,F,"27 OndangRo, GyeyangGu, Incheon 126390",4,25,Rock Climbing,4BJJ#vpeab,United States
+12230070,Shohjahon,ISE,Kim Seokjin,shohjahon56@inha.edu,1020464583,19980301,M,"2 MyeongdongRo, SeoGu, Incheon 128136",4,50,Music Society,p9T^`|(K\{,India
+12230071,Kang Seoyeon,IBT,Jung Eunji,seoyeon17@inha.edu,1040542506,20041101,F,"56 MyeongdongRo, SeoGu, Incheon 127496",4,0,Drama Club,"7TE3L:""@ml",South Korea
+12230072,Park Hyunjin,IBT,Kang Daehyun,hyunjin35@inha.edu,1084062069,19960325,M,"69 GeumgangRo, NamdongGu, Incheon 121698",4,0,0,"l,WWseLQ%/",South Korea
+12230073,Malika,ISE,Choi Minseo,malika23@inha.edu,1051173874,19980513,F,"98 OndangRo, BupyeongGu, Incheon 120927",4,0,Game Programming,uH_HMES<_H,United States
+12230074,Choi Soojin,IBT,Choi Minseo,soojin10@inha.edu,1069537637,20050212,F,"43 OndangRo, GyeyangGu, Incheon 129991",4,100,Debate Team,vTj=x=m{g%,India
+12230075,Madina,ISE,Kim Seokjin,madina58@inha.edu,1071586758,19970728,F,"17 CheongunRo, BupyeongGu, Incheon 127265",4,100,Kayaking,"1ZFpO]P#>""",Uzbekistan
+12230076,Kim Minho,IBT,Jung Hoseok,minho66@inha.edu,1046268853,20051028,M,"92 JungangRo, GyeyangGu, Incheon 120171",4,50,Rock Climbing,dZ'i\WV?eO,South Korea
+12230077,Adi Putri,KLC,Jung Hoseok,putri20@inha.edu,1024509247,20051003,F,"46 JungangRo, SeoGu, Incheon 128035",4,25,0,l?O'WmihCe,Brazil
+12230078,Madina,ISE,Lee Hana,madina47@inha.edu,1089229123,20010814,F,"11 MyeongdongRo, GyeyangGu, Incheon 128034",4,0,Game Programming,"I$>+}EFxZ""",Uzbekistan
+12230079,Shohjahon,ISE,Park Jimin,shohjahon38@inha.edu,1046545570,20021017,M,"92 CheongunRo, NamdongGu, Incheon 126617",4,0,Drama Club,;p)YC4RSLC,India
+12230080,Choi Soojin,IBT,Kang Daehyun,soojin18@inha.edu,1011175068,20030609,F,"3 GeumgangRo, NamdongGu, Incheon 120098",4,0,Skating,k.}N#P#{>Y,Germany
+12230081,Min Win,KLC,Lee Hana,win32@inha.edu,1012791463,19960209,M,"46 CheongunRo, YeonsuGu, Incheon 128673",4,0,0,lxObUCJS*w,India
+12230082,Aibek Temir,KLC,Park Jimin,temir81@inha.edu,1018951444,20000526,M,"8 MyeongdongRo, BupyeongGu, Incheon 129653",4,50,Kayaking,.+D.Cfwv2q,Germany
+12230083,Lee Jisoo,IBT,Kang Daehyun,jisoo74@inha.edu,1044849005,20050628,F,"7 CheongunRo, BupyeongGu, Incheon 121056",4,0,Rock Climbing,IFGrp#SXcY,South Korea
+12230084,Kang Seoyeon,IBT,Park Jimin,seoyeon40@inha.edu,1048448486,19960904,F,"80 JungangRo, SeoGu, Incheon 126162",4,0,Skating,HPhH=Xh)Z0,South Korea
+12230085,Gulnoza,ISE,Park Jimin,gulnoza82@inha.edu,1033232168,19950224,F,"77 CheongunRo, GyeyangGu, Incheon 124463",4,25,Rock Climbing,GX4X<f}gx,India
+12230086,Jung Donghyun,IBT,Choi Minseo,donghyun2@inha.edu,1072705657,19950506,M,"50 JungangRo, BupyeongGu, Incheon 122176",4,50,Game Programming,"C+KHM""3EhO",Brazil
+12230087,Lee Jisoo,IBT,Lee Hana,jisoo77@inha.edu,1052333225,19990628,F,"6 MyeongdongRo, NamdongGu, Incheon 125877",4,0,0,7)D@$VWeXM,South Korea
+12230088,Kang Seoyeon,IBT,Choi Minseo,seoyeon60@inha.edu,1055433108,20051106,F,"48 JungangRo, NamdongGu, Incheon 127963",4,0,Dance Club,u+D?&iZA(W,South Korea
+12230089,Islom,ISE,Kim Seokjin,islom63@inha.edu,1054206809,20031018,M,"35 JungangRo, BupyeongGu, Incheon 122501",4,0,Debate Team,4pIHUojx$Q,India
+12230000,Sarvar,ISE,Kang Daehyun,sarvar80@inha.edu,1019956589,19981227,M,"35 CheongunRo, GyeyangGu, Incheon 120127",3,0,Debate Team,[?On4DN19+,India
+12230001,Choi Soojin,IBT,Lee Hana,soojin18@inha.edu,1017654048,20030808,F,"79 MyeongdongRo, BupyeongGu, Incheon 126451",3,0,Kayaking,mgEeWp`'#2,Australia
+12230002,Dilnoza,ISE,Kang Daehyun,dilnoza36@inha.edu,1084277436,20050406,F,"46 MyeongdongRo, GyeyangGu, Incheon 128883",3,0,Music Society,"AL@N=g,|yj",India
+12230003,Jung Donghyun,IBT,Park Jimin,donghyun8@inha.edu,1018373855,19960817,M,"52 OndangRo, GyeyangGu, Incheon 124537",3,100,0,Ep>`7$|X87,Australia
+12230004,Azizbek,ISE,Park Jimin,azizbek5@inha.edu,1084833229,20000126,M,"24 OndangRo, GyeyangGu, Incheon 124770",3,0,Rock Climbing,&6<$t#s$bA,India
+12230005,Kang Seoyeon,IBT,Lee Hana,seoyeon33@inha.edu,1020669009,20030104,F,"42 JungangRo, YeonsuGu, Incheon 125580",3,25,Drama Club,|y%*TZK:r,South Korea
+12230006,Gulnoza,ISE,Kang Daehyun,gulnoza96@inha.edu,1069098906,19961110,F,"99 GeumgangRo, NamdongGu, Incheon 124346",3,50,Rock Climbing,[*x=|Q}v~q,United States
+12230007,Meerim Zhumagul,KLC,Kim Seokjin,zhumagul47@inha.edu,1018819779,19960413,F,"97 CheongunRo, YeonsuGu, Incheon 128628",3,0,Rock Climbing,I}_^QX'lXk,Germany
+12230008,Kim Minho,IBT,Jung Eunji,minho47@inha.edu,1084497096,19960809,M,"35 OndangRo, NamdongGu, Incheon 128165",3,0,Game Programming,kjJMnul/|,South Korea
+12230009,Meerim Zhumagul,KLC,Choi Minseo,zhumagul14@inha.edu,1096527863,20040812,F,"9 GeumgangRo, GyeyangGu, Incheon 124132",3,0,Game Programming,x;>Gy[s$w!,Germany
+12230010,Shohjahon,ISE,Lee Hana,shohjahon11@inha.edu,1060224170,19990523,M,"41 JungangRo, BupyeongGu, Incheon 124536",3,0,Debate Team,"276F""M%/A[",Australia
+12230011,Gulnoza,ISE,Jung Hoseok,gulnoza12@inha.edu,1021173092,20001026,F,"1 OndangRo, YeonsuGu, Incheon 127957",3,0,Drama Club,4M?X1VyicU,Germany
+12230012,Choi Soojin,IBT,Choi Minseo,soojin25@inha.edu,1086908766,20020620,F,"18 OndangRo, GyeyangGu, Incheon 127190",3,0,Rock Climbing,IC#0Z=uOs=,India
+12230013,Lee Jisoo,IBT,Kim Seokjin,jisoo38@inha.edu,1074405680,20020903,F,"41 GeumgangRo, NamdongGu, Incheon 121917",3,25,0,K>}I6Zl!Aw,South Korea
+12230014,Kim Minho,IBT,Park Jimin,minho80@inha.edu,1097546461,19990219,M,"67 MyeongdongRo, GyeyangGu, Incheon 120452",3,25,Debate Team,II/1IWNYG',South Korea
+12230015,Dilnoza,ISE,Lee Hana,dilnoza55@inha.edu,1043255975,19980226,F,"21 JungangRo, NamdongGu, Incheon 125524",3,0,0,HMaV1p!33*,United States
+12230016,Min Win,KLC,Jung Eunji,win44@inha.edu,1098846270,19991201,M,"66 JungangRo, SeoGu, Incheon 125047",3,100,Drama Club,VM<;r=6&HJ,Germany
+12230017,Choi Soojin,IBT,Kang Daehyun,soojin3@inha.edu,1022152076,19961216,F,"9 CheongunRo, YeonsuGu, Incheon 129245",3,0,0,i+?6k=lk1@,India
+12230018,Lee Jisoo,IBT,Jung Eunji,jisoo48@inha.edu,1032384426,19980513,F,"41 GeumgangRo, NamdongGu, Incheon 123468",3,100,0,#[y/.q+QjI,South Korea
+12230019,Kang Seoyeon,IBT,Park Jimin,seoyeon83@inha.edu,1085732289,19970525,F,"52 CheongunRo, SeoGu, Incheon 121509",3,100,Skating,JV{.t3i=BJ,South Korea
+12230020,Sarvar,ISE,Jung Hoseok,sarvar18@inha.edu,1036121678,19971118,M,"74 MyeongdongRo, SeoGu, Incheon 129258",3,100,Skating,kg]GZAJ!Q`,United States
+12230021,Jung Donghyun,IBT,Park Jimin,donghyun71@inha.edu,1024878976,19950612,M,"63 JungangRo, GyeyangGu, Incheon 124396",3,25,Kayaking,.h1n|:f&+f,United States
+12230022,Jung Donghyun,IBT,Kim Seokjin,donghyun4@inha.edu,1083365647,20030415,M,"64 JungangRo, NamdongGu, Incheon 123905",3,0,Drama Club,7]6%k;~fj,Germany
+12230023,Kang Seoyeon,IBT,Park Jimin,seoyeon46@inha.edu,1065667435,20000119,F,"40 JungangRo, GyeyangGu, Incheon 123179",3,25,Skating,&[8;UA>}~s,South Korea
+12230024,Lee Jisoo,IBT,Jung Eunji,jisoo21@inha.edu,1073904423,19960616,F,"48 MyeongdongRo, YeonsuGu, Incheon 125205",3,0,Drama Club,~vrK~R.J`T,South Korea
+12230025,Sarvar,ISE,Jung Hoseok,sarvar98@inha.edu,1049608800,20001225,M,"6 MyeongdongRo, YeonsuGu, Incheon 128881",3,25,Game Programming,|)gFf#2/'h,Brazil
+12230026,Park Hyunjin,IBT,Kim Seokjin,hyunjin50@inha.edu,1053013928,20001219,M,"15 MyeongdongRo, GyeyangGu, Incheon 120705",3,0,Skating,Jz!AOW}H2e,South Korea
+12230027,Kang Seoyeon,IBT,Lee Hana,seoyeon56@inha.edu,1076608731,20010218,F,"8 JungangRo, BupyeongGu, Incheon 123285",3,0,0,G[@$YWE]]k,South Korea
+12230028,Min Win,KLC,Kang Daehyun,win47@inha.edu,1077983625,19990624,M,"37 GeumgangRo, BupyeongGu, Incheon 123112",3,25,Game Programming,fc!'zze.f$,Germany
+12230029,Jung Donghyun,IBT,Jung Eunji,donghyun97@inha.edu,1068767102,20050609,M,"12 CheongunRo, YeonsuGu, Incheon 125425",3,0,Kayaking,(&#wC8BeTo,Germany
+12230030,Kim Minho,IBT,Lee Hana,minho14@inha.edu,1067742684,20040216,M,"35 OndangRo, GyeyangGu, Incheon 120758",3,0,Game Programming,"+Thia,f,=)",South Korea
+12230031,Jahongir,ISE,Kang Daehyun,jahongir80@inha.edu,1033059257,20041114,M,"26 GeumgangRo, NamdongGu, Incheon 121572",3,0,Game Programming,si;Jzr>y0z,Uzbekistan
+12230032,Jung Donghyun,IBT,Choi Minseo,donghyun99@inha.edu,1018402595,20050616,M,"71 MyeongdongRo, NamdongGu, Incheon 120451",3,100,0,"j)I@nAT],~",United States
+12230033,Kim Minho,IBT,Choi Minseo,minho75@inha.edu,1083628604,20051216,M,"59 OndangRo, SeoGu, Incheon 125312",3,25,Debate Team,|^XNz^aZCQ,South Korea
+12230034,Azizbek,ISE,Park Jimin,azizbek7@inha.edu,1082871981,19950402,M,"55 OndangRo, NamdongGu, Incheon 120414",3,0,Music Society,r7#Lcx5]v,Germany
+12230035,Kang Seoyeon,IBT,Kang Daehyun,seoyeon6@inha.edu,1025741632,19960419,F,"38 GeumgangRo, SeoGu, Incheon 129498",3,50,Game Programming,fH?T3<O:vx,South Korea
+12230036,Choi Soojin,IBT,Lee Hana,soojin64@inha.edu,1040362126,20030615,F,"47 GeumgangRo, NamdongGu, Incheon 125896",3,0,Rock Climbing,z\]Sr>L.[B,India
+12230037,Park Hyunjin,IBT,Choi Minseo,hyunjin85@inha.edu,1084566063,19990727,M,"58 CheongunRo, YeonsuGu, Incheon 127997",3,25,Kayaking,XA*0?xqS^[,South Korea
+12230038,Choi Soojin,IBT,Kang Daehyun,soojin93@inha.edu,1057228479,19980309,F,"31 MyeongdongRo, SeoGu, Incheon 125393",3,0,Drama Club,^<\1Y_m/1G,Germany
+12230039,Meerim Zhumagul,KLC,Choi Minseo,zhumagul76@inha.edu,1077574718,20050602,F,"95 GeumgangRo, YeonsuGu, Incheon 122302",3,50,Skating,2DTuPn1^AH,Australia
+12230040,Shohjahon,ISE,Kim Seokjin,shohjahon64@inha.edu,1062814396,19951211,M,"66 CheongunRo, YeonsuGu, Incheon 123621",3,100,Game Programming,EgnIcZ@=zr,Brazil
+12230041,Shohjahon,ISE,Jung Hoseok,shohjahon70@inha.edu,1018461186,20020125,M,"16 GeumgangRo, NamdongGu, Incheon 124097",3,0,Skating,:o(#MS\3U5,Brazil
+12230042,Jung Donghyun,IBT,Choi Minseo,donghyun37@inha.edu,1024297376,19980313,M,"92 CheongunRo, GyeyangGu, Incheon 128253",3,100,0,q[U{3bT1J8,United States
+12230043,Dilnoza,ISE,Lee Hana,dilnoza98@inha.edu,1021901661,19961017,F,"89 MyeongdongRo, YeonsuGu, Incheon 124643",3,50,Kayaking,bDgT_1Ft>M,Brazil
+12230044,Nazira Erkin,KLC,Jung Hoseok,erkin75@inha.edu,1044274849,20000228,F,"77 JungangRo, NamdongGu, Incheon 127287",3,0,0,7<9Mc0lb>u,Uzbekistan
+12230045,Choi Soojin,IBT,Kim Seokjin,soojin40@inha.edu,1068682360,19980310,F,"48 GeumgangRo, YeonsuGu, Incheon 120106",3,25,Debate Team,n$aDFM;Td>,Australia
+12230046,Dilnoza,ISE,Jung Eunji,dilnoza47@inha.edu,1046102257,20020413,F,"93 GeumgangRo, GyeyangGu, Incheon 125791",3,0,Music Society,"H,]w,?4uSc",Germany
+12230047,Jahongir,ISE,Kim Seokjin,jahongir2@inha.edu,1032935761,20000503,M,"38 OndangRo, GyeyangGu, Incheon 121828",3,0,Debate Team,"S""@PVy`(No",Uzbekistan
+12230048,Kang Seoyeon,IBT,Jung Hoseok,seoyeon43@inha.edu,1083029031,20020901,F,"23 CheongunRo, SeoGu, Incheon 121213",3,100,0,'z0Q)OyK~o,South Korea
+12230049,Azizbek,ISE,Lee Hana,azizbek27@inha.edu,1023975855,20020909,M,"46 OndangRo, GyeyangGu, Incheon 127777",3,50,0,RB[mq[hY'9,Germany
+12230050,Madina,ISE,Choi Minseo,madina40@inha.edu,1050371503,20050608,F,"90 GeumgangRo, YeonsuGu, Incheon 124686",3,25,Kayaking,hbY0coAC#,Uzbekistan
+12230051,Jung Donghyun,IBT,Choi Minseo,donghyun6@inha.edu,1042139205,19960210,M,"81 JungangRo, NamdongGu, Incheon 121846",3,25,Drama Club,Sl$:;Sjmq\,Germany
+12230052,Malika,ISE,Park Jimin,malika16@inha.edu,1018164792,19990515,F,"76 GeumgangRo, BupyeongGu, Incheon 129867",3,100,Drama Club,dDQWV]/Gtl,India
+12230053,Dilnoza,ISE,Choi Minseo,dilnoza56@inha.edu,1053643898,20020322,F,"77 OndangRo, BupyeongGu, Incheon 121908",3,100,Dance Club,5@|P/]ORX8,India
+12230054,Bekbolot Akyl,KLC,Kim Seokjin,akyl45@inha.edu,1022221383,20030513,M,"21 MyeongdongRo, NamdongGu, Incheon 126865",3,100,Dance Club,PWwl`@mR=&,Germany
+12230055,Shohjahon,ISE,Jung Hoseok,shohjahon84@inha.edu,1036137472,19951111,M,"51 GeumgangRo, NamdongGu, Incheon 120642",3,0,Debate Team,"PaZ;'}<(""",Germany
+12230056,Kim Minho,IBT,Lee Hana,minho4@inha.edu,1071957461,20020907,M,"45 GeumgangRo, YeonsuGu, Incheon 124442",3,0,Dance Club,mx~ixfJ^[.,South Korea
+12230057,Madina,ISE,Jung Hoseok,madina51@inha.edu,1025742110,20040905,F,"76 OndangRo, SeoGu, Incheon 127242",3,25,Debate Team,",&ai^z'6nH",Uzbekistan
+12230058,Min Win,KLC,Lee Hana,win33@inha.edu,1049904480,20021108,M,"12 JungangRo, NamdongGu, Incheon 123233",3,100,0,(iYN#E>mv$,Australia
+12230059,Park Hyunjin,IBT,Lee Hana,hyunjin58@inha.edu,1045124155,19990807,M,"70 JungangRo, GyeyangGu, Incheon 127585",3,50,Debate Team,^:@g;].+KV,South Korea
+12230060,Lee Jisoo,IBT,Jung Eunji,jisoo73@inha.edu,1073765706,20030122,F,"10 CheongunRo, BupyeongGu, Incheon 124087",3,0,Drama Club,Y(?V@/RH$d,South Korea
+12230061,Choi Soojin,IBT,Kim Seokjin,soojin27@inha.edu,1042091558,20000616,F,"85 CheongunRo, GyeyangGu, Incheon 121028",3,25,Rock Climbing,D|DlT'.mfS,Brazil
+12230062,Azizbek,ISE,Park Jimin,azizbek57@inha.edu,1046219919,20050419,M,"12 JungangRo, YeonsuGu, Incheon 124012",3,0,0,cP><x/]e3e,United States
+12230063,Jung Donghyun,IBT,Jung Eunji,donghyun25@inha.edu,1099871028,19960415,M,"59 JungangRo, YeonsuGu, Incheon 128837",3,0,Game Programming,f'jmv>~hvN,United States
+12230064,Lee Jisoo,IBT,Choi Minseo,jisoo73@inha.edu,1049255386,20010312,F,"10 JungangRo, SeoGu, Incheon 121317",3,0,Game Programming,'|1O2mFz43,South Korea
+12230065,Yamada Taro,KLC,Kang Daehyun,taro95@inha.edu,1039724431,19950614,M,"84 GeumgangRo, SeoGu, Incheon 121396",3,0,Dance Club,QFZPezd.VG,India
+12230066,Madina,ISE,Kang Daehyun,madina47@inha.edu,1089116380,19990121,F,"25 JungangRo, BupyeongGu, Incheon 123407",3,0,Drama Club,4r23!Yk@[J,Uzbekistan
+12230067,Shohjahon,ISE,Kang Daehyun,shohjahon53@inha.edu,1092897737,19980623,M,"43 MyeongdongRo, GyeyangGu, Incheon 126736",3,0,Drama Club,FTUQqYuZ8/,Australia
+12230068,Azizbek,ISE,Jung Hoseok,azizbek8@inha.edu,1053247051,20010113,M,"3 GeumgangRo, NamdongGu, Incheon 126106",3,50,0,lphOb|&gIK,Australia
+12230069,Jahongir,ISE,Lee Hana,jahongir48@inha.edu,1061343271,19990515,M,"98 CheongunRo, YeonsuGu, Incheon 128246",3,0,Rock Climbing,W$Jk52;Zl{,Uzbekistan
+12230070,Ziyoda,ISE,Jung Hoseok,ziyoda76@inha.edu,1032768933,19970407,F,"58 OndangRo, SeoGu, Incheon 123262",3,0,Game Programming,Brz$}9Kxj+,Australia
+12230071,Islom,ISE,Park Jimin,islom20@inha.edu,1057413434,20030916,M,"46 MyeongdongRo, SeoGu, Incheon 126712",3,100,Dance Club,@m2mZFJCVG,United States
+12230072,Park Hyunjin,IBT,Park Jimin,hyunjin85@inha.edu,1063038513,19951128,M,"63 GeumgangRo, BupyeongGu, Incheon 129545",3,50,0,?(`>{%5+qT,South Korea
+12230073,Min Win,KLC,Jung Eunji,win51@inha.edu,1074532492,20040803,M,"9 JungangRo, SeoGu, Incheon 128213",3,50,Skating,oOA%H8]&N`,United States
+12230074,Dilnoza,ISE,Jung Hoseok,dilnoza39@inha.edu,1059227841,20000403,F,"91 CheongunRo, NamdongGu, Incheon 126481",3,50,Kayaking,bHdW0?DpS,Germany
+12230075,Dilnoza,ISE,Kang Daehyun,dilnoza39@inha.edu,1047492543,19981012,F,"62 MyeongdongRo, BupyeongGu, Incheon 124589",3,0,Drama Club,qgWQ+s9is5,Australia
+12230076,Madina,ISE,Lee Hana,madina63@inha.edu,1021678373,19980719,F,"42 GeumgangRo, SeoGu, Incheon 125938",3,25,Music Society,".,(UO'@,v""",Uzbekistan
+12230077,Shohjahon,ISE,Jung Eunji,shohjahon89@inha.edu,1054817624,20020528,M,"99 GeumgangRo, GyeyangGu, Incheon 123995",3,0,Skating,d&crXRzK1c,Germany
+12230078,Kobayashi Riku,KLC,Choi Minseo,riku19@inha.edu,1013926811,20001010,M,"67 MyeongdongRo, YeonsuGu, Incheon 123864",3,0,0,*;Uc6}exq`,United States
+12230079,Kang Seoyeon,IBT,Jung Hoseok,seoyeon72@inha.edu,1034785985,19950305,F,"43 CheongunRo, NamdongGu, Incheon 121674",3,0,Rock Climbing,tZJc!cu1ZX,South Korea
+12230080,Park Hyunjin,IBT,Lee Hana,hyunjin94@inha.edu,1013214561,20040120,M,"40 OndangRo, BupyeongGu, Incheon 125669",3,25,Music Society,p:}W(8qEMr,South Korea
+12230081,Kang Seoyeon,IBT,Lee Hana,seoyeon28@inha.edu,1051299698,20000525,F,"55 OndangRo, NamdongGu, Incheon 120341",3,100,Drama Club,WjhdL<<Np+,South Korea
+12230082,Gulnoza,ISE,Park Jimin,gulnoza51@inha.edu,1097513045,20040326,F,"58 JungangRo, NamdongGu, Incheon 126465",3,0,Music Society,uJics1*^k,Brazil
+12230083,Nazira Erkin,KLC,Kim Seokjin,erkin15@inha.edu,1093017321,20030604,F,"1 MyeongdongRo, YeonsuGu, Incheon 125473",3,100,0,[/a\F7;p>z,Uzbekistan
+12230084,Park Hyunjin,IBT,Park Jimin,hyunjin74@inha.edu,1063301344,20010308,M,"9 JungangRo, BupyeongGu, Incheon 123618",3,100,Dance Club,w7{|?GTsA4,South Korea
+12230085,Meerim Zhumagul,KLC,Jung Eunji,zhumagul16@inha.edu,1082798048,19990621,F,"35 OndangRo, BupyeongGu, Incheon 122140",3,100,Kayaking,GzNa588L$_,Australia
+12230086,Lee Jisoo,IBT,Kang Daehyun,jisoo99@inha.edu,1093901218,20020620,F,"74 MyeongdongRo, YeonsuGu, Incheon 121686",3,0,Drama Club,"|K""ane:TgQ",South Korea
+12230087,Park Hyunjin,IBT,Jung Eunji,hyunjin7@inha.edu,1030275243,19990924,M,"8 MyeongdongRo, BupyeongGu, Incheon 120245",3,25,Kayaking,C!|G~;&K1,South Korea
+12230088,Islom,ISE,Choi Minseo,islom10@inha.edu,1014844497,19950928,M,"86 GeumgangRo, BupyeongGu, Incheon 123078",3,50,Skating,p~_!060xnl,Australia
+12230089,Islom,ISE,Park Jimin,islom72@inha.edu,1023149240,19960713,M,"96 OndangRo, YeonsuGu, Incheon 123522",3,0,Rock Climbing,59KwSpx<8C,United States
+20240000,Gulnoza,ISE,Jung Hoseok,gulnoza8@inha.edu,1089404594,19950713,F,"97 JungangRo, SeoGu, Incheon 125659",2,100,0,7]*x[#IByD,Australia
+20240001,Choi Soojin,IBT,Park Jimin,soojin86@inha.edu,1021902405,19990603,F,"79 GeumgangRo, BupyeongGu, Incheon 123114",2,50,Drama Club,".LM,j/$=5$",Australia
+20240002,Aibek Temir,KLC,Lee Hana,temir38@inha.edu,1070945359,19971103,M,"9 GeumgangRo, YeonsuGu, Incheon 129816",2,0,Rock Climbing,?w3N{Jx}j',India
+20240003,Ziyoda,ISE,Kang Daehyun,ziyoda22@inha.edu,1051491417,20010107,F,"48 MyeongdongRo, YeonsuGu, Incheon 120027",2,0,Dance Club,"TTQS""FDUcn",Brazil
+20240004,Meerim Zhumagul,KLC,Jung Hoseok,zhumagul19@inha.edu,1067952007,19980801,F,"27 MyeongdongRo, BupyeongGu, Incheon 124298",2,0,Music Society,",f&_pw}%Y2",Brazil
+20240005,Park Hyunjin,IBT,Jung Eunji,hyunjin11@inha.edu,1083986028,20050916,M,"82 CheongunRo, NamdongGu, Incheon 127364",2,25,Rock Climbing,k0x:btP_fu,South Korea
+20240006,Islom,ISE,Kang Daehyun,islom35@inha.edu,1076277671,19950107,M,"2 CheongunRo, SeoGu, Incheon 125356",2,100,Rock Climbing,Ui?5M{r4k,Australia
+20240007,Madina,ISE,Kim Seokjin,madina92@inha.edu,1023572588,19950412,F,"25 JungangRo, BupyeongGu, Incheon 128693",2,100,Drama Club,$k[cb`8w}D,Uzbekistan
+20240008,Kim Minho,IBT,Jung Eunji,minho89@inha.edu,1073943738,19990707,M,"78 MyeongdongRo, SeoGu, Incheon 124260",2,0,Music Society,{$L{&SxC*3,South Korea
+20240009,Sarvar,ISE,Kang Daehyun,sarvar25@inha.edu,1090073992,20041006,M,"13 CheongunRo, NamdongGu, Incheon 129241",2,25,0,)ee3xZUy|;,Brazil
+20240010,Ziyoda,ISE,Kang Daehyun,ziyoda69@inha.edu,1034726295,20000609,F,"15 MyeongdongRo, NamdongGu, Incheon 129224",2,0,Skating,6ay\;O$F/m,United States
+20240011,Gulnoza,ISE,Lee Hana,gulnoza27@inha.edu,1024444291,19980416,F,"98 JungangRo, YeonsuGu, Incheon 122757",2,0,Music Society,/xKOW5UXnq,Germany
+20240012,Madina,ISE,Kang Daehyun,madina34@inha.edu,1080689869,20021225,F,"49 JungangRo, BupyeongGu, Incheon 124729",2,25,Game Programming,Go1q:!Dmmf,Uzbekistan
+20240013,Lee Jisoo,IBT,Choi Minseo,jisoo40@inha.edu,1076951098,19980521,F,"47 MyeongdongRo, GyeyangGu, Incheon 121095",2,25,0,"~IQ@0tU,7(",South Korea
+20240014,Meerim Zhumagul,KLC,Choi Minseo,zhumagul74@inha.edu,1081288803,20000825,F,"30 GeumgangRo, GyeyangGu, Incheon 123167",2,0,Kayaking,#=)Q]2^*ZT,Australia
+20240015,Park Hyunjin,IBT,Choi Minseo,hyunjin9@inha.edu,1088255074,20030419,M,"13 MyeongdongRo, GyeyangGu, Incheon 121992",2,25,Game Programming,eo.WtKVx0I,South Korea
+20240016,Aizada Nurlan,KLC,Park Jimin,nurlan4@inha.edu,1018558502,19960324,F,"88 GeumgangRo, BupyeongGu, Incheon 125002",2,25,Skating,4M8Zwsq@KJ,Brazil
+20240017,Ziyoda,ISE,Jung Hoseok,ziyoda31@inha.edu,1051227375,19971115,F,"22 MyeongdongRo, SeoGu, Incheon 120027",2,50,Skating,3ulKuPBt6Y,United States
+20240018,Yamada Taro,KLC,Jung Eunji,taro30@inha.edu,1043854311,19990419,M,"47 JungangRo, BupyeongGu, Incheon 120487",2,50,Game Programming,Da'5gf[=6F,India
+20240019,Aibek Temir,KLC,Choi Minseo,temir88@inha.edu,1090443984,19980615,M,"90 GeumgangRo, YeonsuGu, Incheon 127452",2,25,Dance Club,PI8\!ATm[=,India
+20240020,Jahongir,ISE,Choi Minseo,jahongir70@inha.edu,1036409858,19960409,M,"28 OndangRo, YeonsuGu, Incheon 124700",2,0,Kayaking,GED\y;;AU|,Uzbekistan
+20240021,Sarvar,ISE,Jung Eunji,sarvar35@inha.edu,1070824853,20051119,M,"72 OndangRo, YeonsuGu, Incheon 124820",2,50,Kayaking,vLS.$NBA8E,Germany
+20240022,Kim Minho,IBT,Lee Hana,minho54@inha.edu,1081789727,20040508,M,"5 MyeongdongRo, BupyeongGu, Incheon 125768",2,0,Rock Climbing,adr{p}<gfC,South Korea
+20240023,Shohjahon,ISE,Kang Daehyun,shohjahon84@inha.edu,1078891791,20050217,M,"41 MyeongdongRo, GyeyangGu, Incheon 126680",2,100,Debate Team,"<6=,wn!N!a",Australia
+20240024,Jung Donghyun,IBT,Jung Eunji,donghyun6@inha.edu,1019088784,20021011,M,"70 CheongunRo, YeonsuGu, Incheon 128413",2,50,Skating,$=ej7trhvn,United States
+20240025,Kim Minho,IBT,Kang Daehyun,minho63@inha.edu,1024224598,20050227,M,"59 GeumgangRo, YeonsuGu, Incheon 128939",2,50,Kayaking,L9q$OrnV?Q,South Korea
+20240026,Kang Seoyeon,IBT,Kang Daehyun,seoyeon10@inha.edu,1048228337,20030321,F,"77 JungangRo, BupyeongGu, Incheon 123542",2,100,Rock Climbing,p*jK4ITAol,South Korea
+20240027,Gulnoza,ISE,Kim Seokjin,gulnoza18@inha.edu,1062094632,20000414,F,"95 JungangRo, BupyeongGu, Incheon 122270",2,100,Drama Club,&H7YO=R'Wi,Australia
+20240028,Shohjahon,ISE,Jung Eunji,shohjahon87@inha.edu,1082538368,19990921,M,"48 CheongunRo, BupyeongGu, Incheon 128037",2,25,Kayaking,XqjI32q[0h,Brazil
+20240029,Bekbolot Akyl,KLC,Jung Hoseok,akyl85@inha.edu,1028546323,20040506,M,"9 JungangRo, NamdongGu, Incheon 121231",2,50,Debate Team,NsH`+QD<:A,Germany
+20240030,Ziyoda,ISE,Park Jimin,ziyoda65@inha.edu,1019011587,20031107,F,"14 JungangRo, BupyeongGu, Incheon 128521",2,50,Skating,pWLxW)V0``,Australia
+20240031,Adi Putri,KLC,Jung Eunji,putri55@inha.edu,1082471297,20010919,F,"2 OndangRo, BupyeongGu, Incheon 120162",2,100,Kayaking,NG4ZgB':kA,Germany
+20240032,Choi Soojin,IBT,Choi Minseo,soojin2@inha.edu,1055026173,19970301,F,"79 JungangRo, GyeyangGu, Incheon 123997",2,50,Debate Team,[iI}CVMD2!,India
+20240033,Islom,ISE,Choi Minseo,islom90@inha.edu,1063386926,20020506,M,"79 MyeongdongRo, GyeyangGu, Incheon 120748",2,50,Debate Team,Y+o#pRU4~=,United States
+20240034,Islom,ISE,Choi Minseo,islom76@inha.edu,1099396195,19950504,M,"5 JungangRo, SeoGu, Incheon 126284",2,0,Kayaking,6)G;0hv.=Y,Australia
+20240035,Dilnoza,ISE,Kang Daehyun,dilnoza66@inha.edu,1077648276,20010905,F,"30 JungangRo, GyeyangGu, Incheon 127549",2,25,0,A}?]B:{SsX,United States
+20240036,Aung Kyaw,KLC,Jung Eunji,kyaw11@inha.edu,1075657947,20010920,M,"53 JungangRo, GyeyangGu, Incheon 122254",2,50,Music Society,'&y)lyNGo,Australia
+20240037,Park Hyunjin,IBT,Jung Hoseok,hyunjin41@inha.edu,1031502946,19980503,M,"77 MyeongdongRo, SeoGu, Incheon 128207",2,0,Drama Club,"JE71CD,;t9",South Korea
+20240038,Lee Jisoo,IBT,Kim Seokjin,jisoo23@inha.edu,1023991901,20040315,F,"79 JungangRo, SeoGu, Incheon 128871",2,0,0,">)664""uBuk",South Korea
+20240039,Min Win,KLC,Choi Minseo,win47@inha.edu,1070873431,19961023,M,"7 JungangRo, BupyeongGu, Incheon 125442",2,0,Debate Team,"pxZv""SVa7U",Germany
+20240040,Park Hyunjin,IBT,Kim Seokjin,hyunjin17@inha.edu,1058772241,20051006,M,"6 MyeongdongRo, GyeyangGu, Incheon 128403",2,50,Rock Climbing,bN!jg9MojY,South Korea
+20240041,Choi Soojin,IBT,Choi Minseo,soojin38@inha.edu,1075036707,19951022,F,"73 JungangRo, GyeyangGu, Incheon 127312",2,0,Kayaking,ble(LD~WIN,Australia
+20240042,Malika,ISE,Jung Eunji,malika73@inha.edu,1068913024,20000727,F,"33 JungangRo, BupyeongGu, Incheon 124655",2,50,Skating,8_i[WlL`X5,India
+20240043,Azizbek,ISE,Kim Seokjin,azizbek35@inha.edu,1086673014,20010513,M,"56 OndangRo, GyeyangGu, Incheon 123761",2,50,Game Programming,F+'2DR?=1p,India
+20240044,Kim Minho,IBT,Choi Minseo,minho8@inha.edu,1097993654,20031218,M,"34 MyeongdongRo, GyeyangGu, Incheon 128659",2,0,Kayaking,"%&Mh5k,Y{9",South Korea
+20240045,Madina,ISE,Kang Daehyun,madina73@inha.edu,1017227429,19961123,F,"9 OndangRo, BupyeongGu, Incheon 126061",2,0,Rock Climbing,#!dShB`8Wf,Uzbekistan
+20240046,Azizbek,ISE,Park Jimin,azizbek70@inha.edu,1013103002,19971004,M,"50 GeumgangRo, YeonsuGu, Incheon 128089",2,0,Game Programming,#UMrrher6,Germany
+20240047,Gulnoza,ISE,Choi Minseo,gulnoza52@inha.edu,1032249765,20030212,F,"84 OndangRo, YeonsuGu, Incheon 128004",2,0,0,LW{FN>(Iep,Australia
+20240048,Lee Jisoo,IBT,Jung Eunji,jisoo70@inha.edu,1028164467,20010724,F,"30 CheongunRo, BupyeongGu, Incheon 125329",2,25,Skating,pN9BG&\#%~,South Korea
+20240049,Madina,ISE,Lee Hana,madina46@inha.edu,1079841335,19951202,F,"91 CheongunRo, NamdongGu, Incheon 121538",2,0,Music Society,@_<S9>4G_@,Uzbekistan
+20240050,Choi Soojin,IBT,Kim Seokjin,soojin54@inha.edu,1086835849,19960304,F,"67 GeumgangRo, YeonsuGu, Incheon 128830",2,0,Game Programming,Zb0VCOzp(V,United States
+20240051,Yamada Taro,KLC,Park Jimin,taro34@inha.edu,1027881690,20030518,M,"75 JungangRo, YeonsuGu, Incheon 122120",2,0,Skating,EK;6]>\CCA,Germany
+20240052,Lee Jisoo,IBT,Park Jimin,jisoo6@inha.edu,1030217073,19970115,F,"92 MyeongdongRo, SeoGu, Incheon 120112",2,100,Kayaking,0^hQ07*b7),South Korea
+20240053,Choi Soojin,IBT,Jung Hoseok,soojin73@inha.edu,1089572396,20030504,F,"94 OndangRo, SeoGu, Incheon 127371",2,0,Debate Team,fg~SqJwH8D,Australia
+20240054,Ziyoda,ISE,Jung Hoseok,ziyoda82@inha.edu,1043252713,20020205,F,"23 OndangRo, NamdongGu, Incheon 128416",2,0,Kayaking,Xv+//C`@;w,Australia
+20240055,Kang Seoyeon,IBT,Park Jimin,seoyeon67@inha.edu,1056825586,20000924,F,"69 JungangRo, BupyeongGu, Incheon 122084",2,0,0,B./=MYj'.$,South Korea
+20240056,Azizbek,ISE,Jung Eunji,azizbek51@inha.edu,1091111143,20020205,M,"26 OndangRo, YeonsuGu, Incheon 124505",2,100,0,&=!zuX;9OZ,Germany
+20240057,Tanaka Haruka,KLC,Kang Daehyun,haruka69@inha.edu,1075924845,19980506,F,"20 JungangRo, GyeyangGu, Incheon 128126",2,25,0,"/""#9ht&c[h",India
+20240058,Kang Seoyeon,IBT,Park Jimin,seoyeon66@inha.edu,1082702635,19980526,F,"1 OndangRo, YeonsuGu, Incheon 125631",2,0,Music Society,Av%=Y_euxH,South Korea
+20240059,Gulnoza,ISE,Lee Hana,gulnoza17@inha.edu,1013966879,19960503,F,"71 GeumgangRo, SeoGu, Incheon 124692",2,50,Dance Club,Enx0Gzs=|x,Germany
+20240060,Islom,ISE,Jung Eunji,islom68@inha.edu,1077221166,20030124,M,"15 MyeongdongRo, BupyeongGu, Incheon 126134",2,50,Skating,m4?LL}qR',India
+20240061,Choi Soojin,IBT,Jung Eunji,soojin20@inha.edu,1034854227,20020624,F,"10 OndangRo, NamdongGu, Incheon 126324",2,50,Kayaking,0~rAUv[;P:,India
+20240062,Sarvar,ISE,Lee Hana,sarvar58@inha.edu,1071597374,19980428,M,"26 CheongunRo, SeoGu, Incheon 123981",2,0,Skating,1cK1=od&/S,Germany
+20240063,Azizbek,ISE,Park Jimin,azizbek82@inha.edu,1098856530,19990302,M,"49 MyeongdongRo, BupyeongGu, Incheon 125336",2,0,Music Society,"{Z%@'A>J,6",Germany
+20240064,Takahashi Mei,KLC,Choi Minseo,mei16@inha.edu,1091719617,19960304,F,"70 JungangRo, GyeyangGu, Incheon 123870",2,50,Kayaking,pmO'QPYGoz,Germany
+20240065,Malika,ISE,Lee Hana,malika55@inha.edu,1059819668,20031214,F,"83 CheongunRo, BupyeongGu, Incheon 124365",2,0,Game Programming,tLC]G7|w.,Australia
+20240066,Malika,ISE,Park Jimin,malika85@inha.edu,1022234811,20050203,F,"63 OndangRo, NamdongGu, Incheon 120621",2,100,Music Society,*\o+.ljJ>x,United States
+20240067,Shohjahon,ISE,Jung Eunji,shohjahon89@inha.edu,1099744890,20030915,M,"97 GeumgangRo, SeoGu, Incheon 128678",2,0,Skating,=*u^HT<XN:,Brazil
+20240068,Sarvar,ISE,Kim Seokjin,sarvar81@inha.edu,1064106177,20000909,M,"70 GeumgangRo, SeoGu, Incheon 123086",2,0,Skating,_o?y<o'&P(,Germany
+20240069,Jung Donghyun,IBT,Kim Seokjin,donghyun42@inha.edu,1033266641,19980621,M,"36 CheongunRo, NamdongGu, Incheon 121623",2,0,0,6dqP6|RUqV,Australia
+20240070,Shohjahon,ISE,Park Jimin,shohjahon71@inha.edu,1090566225,20040325,M,"39 JungangRo, BupyeongGu, Incheon 120114",2,0,Debate Team,x\|%8qo!Am,Australia
+20240071,Nazira Erkin,KLC,Kang Daehyun,erkin20@inha.edu,1071507757,20011104,F,"18 MyeongdongRo, BupyeongGu, Incheon 120651",2,50,Debate Team,!~D]}H:D%,Uzbekistan
+20240072,Choi Soojin,IBT,Park Jimin,soojin39@inha.edu,1030616648,19970727,F,"8 GeumgangRo, BupyeongGu, Incheon 120976",2,0,0,p6xtYN{gMG,Australia
+20240073,Kang Seoyeon,IBT,Kim Seokjin,seoyeon22@inha.edu,1064392824,20040505,F,"75 MyeongdongRo, NamdongGu, Incheon 125150",2,100,Drama Club,(<~GSBC=dK,South Korea
+20240074,Shohjahon,ISE,Park Jimin,shohjahon93@inha.edu,1071521650,20020316,M,"9 JungangRo, YeonsuGu, Incheon 128621",2,50,Kayaking,iorIU6Z2O+,Australia
+20240075,Dilnoza,ISE,Jung Hoseok,dilnoza78@inha.edu,1058897019,20050701,F,"47 MyeongdongRo, BupyeongGu, Incheon 125555",2,50,Skating,))X?Ci*e&|,India
+20240076,Park Hyunjin,IBT,Jung Hoseok,hyunjin8@inha.edu,1017837583,20051020,M,"49 MyeongdongRo, BupyeongGu, Incheon 126366",2,0,0,ZD]`WXr|)K,South Korea
+20240077,Kang Seoyeon,IBT,Park Jimin,seoyeon22@inha.edu,1068872395,20011108,F,"8 CheongunRo, BupyeongGu, Incheon 127981",2,100,Rock Climbing,5vI<39Mq5o,South Korea
+20240078,Park Hyunjin,IBT,Park Jimin,hyunjin78@inha.edu,1036053262,19990517,M,"46 GeumgangRo, NamdongGu, Incheon 120057",2,0,Drama Club,Fj\`p7cQn%,South Korea
+20240079,Choi Soojin,IBT,Kang Daehyun,soojin55@inha.edu,1069877946,19970201,F,"14 JungangRo, GyeyangGu, Incheon 123705",2,50,Music Society,q~_{<8%M)k,India
+20240080,Yamada Taro,KLC,Choi Minseo,taro28@inha.edu,1093884160,20030910,M,"75 JungangRo, YeonsuGu, Incheon 123061",2,0,Music Society,"A(=N"".Ez=$",United States
+20240081,Ruslan Bakyt,KLC,Jung Hoseok,bakyt57@inha.edu,1070994813,19971105,M,"86 MyeongdongRo, GyeyangGu, Incheon 120161",2,0,0,E7v755E>C,Brazil
+20240082,Park Hyunjin,IBT,Jung Hoseok,hyunjin54@inha.edu,1023409694,19980413,M,"3 CheongunRo, BupyeongGu, Incheon 127366",2,25,Skating,U(&deC4Nni,South Korea
+20240083,Choi Soojin,IBT,Park Jimin,soojin82@inha.edu,1017706936,20001002,F,"12 MyeongdongRo, BupyeongGu, Incheon 127073",2,50,Debate Team,7^J;0Z1D8j,United States
+20240084,Aung Kyaw,KLC,Lee Hana,kyaw61@inha.edu,1018002258,19990501,M,"60 CheongunRo, GyeyangGu, Incheon 122446",2,0,Kayaking,i4hCNC}{.O,Australia
+20240085,Jung Donghyun,IBT,Jung Hoseok,donghyun79@inha.edu,1017228438,19950814,M,"9 JungangRo, GyeyangGu, Incheon 126725",2,100,Music Society,"?|+/"")_O]g",Australia
+20240086,Ziyoda,ISE,Choi Minseo,ziyoda11@inha.edu,1011444193,19980406,F,"68 MyeongdongRo, SeoGu, Incheon 128042",2,25,Music Society,"}K@=7q1GR""",United States
+20240087,Lee Jisoo,IBT,Jung Eunji,jisoo34@inha.edu,1095931498,19990125,F,"72 CheongunRo, GyeyangGu, Incheon 120292",2,25,Kayaking,sbM)LJ7K4o,South Korea
+20240088,Choi Soojin,IBT,Choi Minseo,soojin14@inha.edu,1025728666,20011223,F,"37 MyeongdongRo, NamdongGu, Incheon 124111",2,0,Game Programming,"VJ9WC""()k9",Brazil
+20240089,Tanaka Haruka,KLC,Jung Eunji,haruka57@inha.edu,1017601554,20050301,F,"63 MyeongdongRo, GyeyangGu, Incheon 122175",2,100,Dance Club,":6Y*rc|,)Z",Germany
+20240000,Shohjahon,ISE,Kang Daehyun,shohjahon94@inha.edu,1028059439,19950816,M,"24 GeumgangRo, NamdongGu, Incheon 120086",1,0,Skating,"3<7}'}""%\J",Australia
+20240001,Aibek Temir,KLC,Lee Hana,temir20@inha.edu,1033366978,20000501,M,"96 JungangRo, BupyeongGu, Incheon 121755",1,50,Rock Climbing,cI?`cvgS;',Brazil
+20240002,Park Hyunjin,IBT,Lee Hana,hyunjin92@inha.edu,1072291240,19970626,M,"16 CheongunRo, YeonsuGu, Incheon 128129",1,0,Skating,'S{LLXOyiT,South Korea
+20240003,Hadi Budi,KLC,Jung Hoseok,budi57@inha.edu,1035749192,19990512,M,"33 GeumgangRo, SeoGu, Incheon 126462",1,0,0,",8vLx/I54W",India
+20240004,Choi Soojin,IBT,Kang Daehyun,soojin85@inha.edu,1017564362,19990205,F,"35 MyeongdongRo, SeoGu, Incheon 122983",1,0,Kayaking,K^(yw>6)Rc,United States
+20240005,Hadi Budi,KLC,Kang Daehyun,budi64@inha.edu,1059206500,19950406,M,"80 OndangRo, BupyeongGu, Incheon 124658",1,0,Dance Club,sX?L3=a#a,Germany
+20240006,Park Hyunjin,IBT,Choi Minseo,hyunjin59@inha.edu,1061391042,20030928,M,"65 MyeongdongRo, GyeyangGu, Incheon 123385",1,0,Rock Climbing,UU\z%T^W|=,South Korea
+20240007,Gulnoza,ISE,Choi Minseo,gulnoza40@inha.edu,1019843817,20020204,F,"46 MyeongdongRo, GyeyangGu, Incheon 129731",1,0,Dance Club,"""Ft!r6H*q?",United States
+20240008,Islom,ISE,Kang Daehyun,islom78@inha.edu,1073937324,20020407,M,"58 OndangRo, YeonsuGu, Incheon 121379",1,0,Skating,hw2W5e_!wS,Brazil
+20240009,Malika,ISE,Kim Seokjin,malika62@inha.edu,1072329337,19960609,F,"8 OndangRo, NamdongGu, Incheon 122246",1,0,Kayaking,mPuY(=[wR<,India
+20240010,Sarvar,ISE,Jung Hoseok,sarvar56@inha.edu,1092959307,20050417,M,"54 JungangRo, NamdongGu, Incheon 121665",1,0,Drama Club,49SisMy1_I,Brazil
+20240011,Park Hyunjin,IBT,Park Jimin,hyunjin55@inha.edu,1056802781,20051017,M,"43 CheongunRo, GyeyangGu, Incheon 123454",1,25,Drama Club,LM<i32CG?x,South Korea
+20240012,Choi Soojin,IBT,Jung Hoseok,soojin1@inha.edu,1028238466,19990228,F,"91 MyeongdongRo, YeonsuGu, Incheon 127594",1,0,Music Society,"o+,I~u)5sy",United States
+20240013,Dilnoza,ISE,Kang Daehyun,dilnoza20@inha.edu,1081509376,20020827,F,"90 OndangRo, NamdongGu, Incheon 120776",1,25,Game Programming,1/7Wk%^&xc,Australia
+20240014,Hadi Budi,KLC,Lee Hana,budi99@inha.edu,1063013312,19990820,M,"40 CheongunRo, YeonsuGu, Incheon 123022",1,0,Skating,!YKQ>Qo%w',India
+20240015,Madina,ISE,Kim Seokjin,madina40@inha.edu,1084933114,19971214,F,"17 CheongunRo, BupyeongGu, Incheon 122952",1,25,0,+0QTOCev@Y,Uzbekistan
+20240016,Choi Soojin,IBT,Jung Eunji,soojin52@inha.edu,1028583336,19970128,F,"32 GeumgangRo, YeonsuGu, Incheon 121444",1,0,Debate Team,"[Va9qB2l""=",India
+20240017,Gulnoza,ISE,Kang Daehyun,gulnoza67@inha.edu,1018384041,20010206,F,"8 GeumgangRo, SeoGu, Incheon 127691",1,0,Debate Team,"Qv[X^}+,)X",Germany
+20240018,Choi Soojin,IBT,Lee Hana,soojin27@inha.edu,1058271016,19981025,F,"5 GeumgangRo, BupyeongGu, Incheon 127735",1,100,0,Yhns`D\Oi',United States
+20240019,Kang Seoyeon,IBT,Jung Hoseok,seoyeon46@inha.edu,1029577919,19960607,F,"98 CheongunRo, SeoGu, Incheon 124963",1,50,Debate Team,;2\9u.tVD{,South Korea
+20240020,Gulnoza,ISE,Jung Eunji,gulnoza47@inha.edu,1060989194,20020510,F,"70 OndangRo, BupyeongGu, Incheon 123451",1,0,Debate Team,}cUUhsp2dO,India
+20240021,Ziyoda,ISE,Jung Hoseok,ziyoda51@inha.edu,1028121157,20010624,F,"94 GeumgangRo, BupyeongGu, Incheon 124330",1,0,Kayaking,HgZZEx^+K:,United States
+20240022,Thuzar Hnin,KLC,Jung Hoseok,hnin51@inha.edu,1093992836,20050128,F,"13 GeumgangRo, YeonsuGu, Incheon 126118",1,50,Kayaking,cL0zCBUbdi,India
+20240023,Choi Soojin,IBT,Park Jimin,soojin45@inha.edu,1033997241,20000208,F,"30 MyeongdongRo, NamdongGu, Incheon 123559",1,0,Game Programming,h&r:f(Rbw<,Germany
+20240024,Bekbolot Akyl,KLC,Lee Hana,akyl94@inha.edu,1094898172,19970405,M,"88 OndangRo, YeonsuGu, Incheon 129103",1,50,Kayaking,*2k$zuhd&t,Germany
+20240025,Malika,ISE,Jung Hoseok,malika20@inha.edu,1051273846,20031111,F,"96 MyeongdongRo, GyeyangGu, Incheon 128165",1,0,0,y4ZC1/e)0V,India
+20240026,Lee Jisoo,IBT,Jung Hoseok,jisoo20@inha.edu,1099766464,20050725,F,"35 JungangRo, GyeyangGu, Incheon 120356",1,25,Debate Team,"|7/""Bb';$W",South Korea
+20240027,Choi Soojin,IBT,Jung Eunji,soojin34@inha.edu,1090287731,20040703,F,"35 CheongunRo, GyeyangGu, Incheon 128170",1,25,Game Programming,z3492]CEYq,Australia
+20240028,Kim Minho,IBT,Kang Daehyun,minho72@inha.edu,1029861036,19970814,M,"69 OndangRo, SeoGu, Incheon 124240",1,0,0,ullQc!C'W>,South Korea
+20240029,Shohjahon,ISE,Kim Seokjin,shohjahon66@inha.edu,1040931157,20051118,M,"44 MyeongdongRo, YeonsuGu, Incheon 125949",1,0,0,h3OyZw{0pT,India
+20240030,Kim Minho,IBT,Kang Daehyun,minho44@inha.edu,1026127212,20040210,M,"48 OndangRo, YeonsuGu, Incheon 128351",1,100,Debate Team,Vv(eRkbcta,South Korea
+20240031,Shohjahon,ISE,Choi Minseo,shohjahon53@inha.edu,1072719901,20041123,M,"24 CheongunRo, BupyeongGu, Incheon 129718",1,100,0,">8h}nTHk""D",Australia
+20240032,Kang Seoyeon,IBT,Jung Hoseok,seoyeon59@inha.edu,1025355928,19960523,F,"33 GeumgangRo, BupyeongGu, Incheon 127379",1,0,Dance Club,3EI[jxr;>c,South Korea
+20240033,Azizbek,ISE,Park Jimin,azizbek71@inha.edu,1033685751,20051004,M,"8 JungangRo, BupyeongGu, Incheon 129602",1,50,0,n~%HCP)#&n,Australia
+20240034,Choi Soojin,IBT,Jung Hoseok,soojin85@inha.edu,1052731017,19951224,F,"9 MyeongdongRo, YeonsuGu, Incheon 124254",1,0,Game Programming,jKC<Uadw1|,Brazil
+20240035,Kim Minho,IBT,Kang Daehyun,minho94@inha.edu,1033986450,20041009,M,"78 GeumgangRo, SeoGu, Incheon 127435",1,0,Skating,DSbE)+gFda,South Korea
+20240036,Jung Donghyun,IBT,Jung Hoseok,donghyun89@inha.edu,1034128122,20010815,M,"96 CheongunRo, GyeyangGu, Incheon 123499",1,0,Debate Team,b+6JxQ=af8,Brazil
+20240037,Lee Jisoo,IBT,Choi Minseo,jisoo49@inha.edu,1025555342,19950423,F,"50 JungangRo, GyeyangGu, Incheon 124673",1,0,Drama Club,:XP+Ew$;bo,South Korea
+20240038,Azizbek,ISE,Kim Seokjin,azizbek54@inha.edu,1081419836,20040818,M,"78 JungangRo, YeonsuGu, Incheon 124868",1,25,Drama Club,^~$`?QL4|o,Germany
+20240039,Kobayashi Riku,KLC,Jung Hoseok,riku78@inha.edu,1010562854,20000401,M,"57 GeumgangRo, NamdongGu, Incheon 124101",1,50,Debate Team,oi)MxE]o5O,Australia
+20240040,Ziyoda,ISE,Park Jimin,ziyoda38@inha.edu,1065298606,20010507,F,"13 MyeongdongRo, BupyeongGu, Incheon 120918",1,0,Rock Climbing,"u^hq1XmX""<",Germany
+20240041,Shohjahon,ISE,Kang Daehyun,shohjahon37@inha.edu,1036927095,19960519,M,"74 MyeongdongRo, SeoGu, Incheon 127077",1,50,Rock Climbing,$1M&rzE3,Germany
+20240042,Min Win,KLC,Jung Hoseok,win81@inha.edu,1017523893,20030817,M,"84 OndangRo, NamdongGu, Incheon 126206",1,0,Game Programming,AVjk}g#C~B,Germany
+20240043,Dilnoza,ISE,Jung Eunji,dilnoza43@inha.edu,1064623886,20040228,F,"15 CheongunRo, BupyeongGu, Incheon 127093",1,0,Music Society,x~hOu8HW+I,Germany
+20240044,Lee Jisoo,IBT,Jung Hoseok,jisoo30@inha.edu,1025527020,19980326,F,"53 OndangRo, NamdongGu, Incheon 122065",1,0,0,>1<Ly6oXrU,South Korea
+20240045,Sarvar,ISE,Kim Seokjin,sarvar87@inha.edu,1041656081,20050414,M,"61 OndangRo, NamdongGu, Incheon 129414",1,0,Dance Club,Fv[v<_jvL,Australia
+20240046,Thuzar Hnin,KLC,Jung Eunji,hnin34@inha.edu,1093927431,20050828,F,"30 JungangRo, YeonsuGu, Incheon 120168",1,100,Drama Club,";`T{RpqJp,",India
+20240047,Kobayashi Riku,KLC,Jung Eunji,riku66@inha.edu,1092987479,19991126,M,"60 JungangRo, NamdongGu, Incheon 129761",1,25,Kayaking,_syD%OV%v*,United States
+20240048,Jung Donghyun,IBT,Choi Minseo,donghyun55@inha.edu,1090723678,20050508,M,"4 CheongunRo, NamdongGu, Incheon 120294",1,25,Drama Club,vmY&R*MMHx,United States
+20240049,Choi Soojin,IBT,Lee Hana,soojin42@inha.edu,1072873071,20021225,F,"70 MyeongdongRo, NamdongGu, Incheon 127123",1,0,Kayaking,)y?Y%&a%<,Australia
+20240050,Islom,ISE,Kang Daehyun,islom49@inha.edu,1026172939,20001028,M,"16 MyeongdongRo, SeoGu, Incheon 127203",1,25,Dance Club,RuAA?|3AZ,Australia
+20240051,Ziyoda,ISE,Lee Hana,ziyoda36@inha.edu,1050661017,19990214,F,"39 CheongunRo, YeonsuGu, Incheon 120813",1,50,Debate Team,9~LgyHGvk(,Australia
+20240052,Kang Seoyeon,IBT,Kang Daehyun,seoyeon78@inha.edu,1069807064,20020805,F,"2 OndangRo, SeoGu, Incheon 122945",1,0,Kayaking,6&utD+p4H+,South Korea
+20240053,Tanaka Haruka,KLC,Park Jimin,haruka67@inha.edu,1062005009,19990823,F,"23 OndangRo, GyeyangGu, Incheon 127360",1,0,Game Programming,mcmn1`d}{1,United States
+20240054,Gulnoza,ISE,Choi Minseo,gulnoza92@inha.edu,1057393909,19980805,F,"27 MyeongdongRo, SeoGu, Incheon 123384",1,0,Dance Club,"""$#4q9Im",United States
+20240055,Min Win,KLC,Kang Daehyun,win38@inha.edu,1020208308,20020805,M,"25 JungangRo, BupyeongGu, Incheon 120541",1,0,Rock Climbing,#u8jB4t?Ku,United States
+20240056,Jahongir,ISE,Choi Minseo,jahongir54@inha.edu,1041648251,19981018,M,"34 OndangRo, GyeyangGu, Incheon 124865",1,0,Dance Club,8cohkR~cU,Uzbekistan
+20240057,Lee Jisoo,IBT,Lee Hana,jisoo87@inha.edu,1015941058,19960111,F,"45 OndangRo, YeonsuGu, Incheon 124649",1,25,0,!iYt:vHeVr,South Korea
+20240058,Aung Kyaw,KLC,Lee Hana,kyaw66@inha.edu,1059976103,19951224,M,"76 GeumgangRo, SeoGu, Incheon 123479",1,50,Drama Club,IM84tTTUJ:,India
+20240059,Meerim Zhumagul,KLC,Jung Hoseok,zhumagul10@inha.edu,1038553356,20050527,F,"22 OndangRo, BupyeongGu, Incheon 126896",1,50,Rock Climbing,c;\>(/=]Xz,Australia
