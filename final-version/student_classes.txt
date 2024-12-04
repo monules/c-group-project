@@ -1,1 +1,230 @@
 
+12200000:Emerging Markets,Market Research,Economic Policy,Sustainability in Business,Business Ethics,Risk Management:3.0,2.5,3.0,3.5,3.0,1.0
+12200003:Corporate Governance,Business Law,Financial Accounting,Leadership Development,Innovation in Business,Risk Management:3.0,3.0,2.0,4.0,4.5,4.5
+12200004:Startup Incubation,Data-Driven Decision Making,Negotiation and Conflict Management,Innovation in Business,Risk Management,Sales Management:1.0,1.0,1.5,3.0,3.0,3.0
+12200005:Negotiation and Conflict Management,Crisis Management,Project Management,Business Ethics,International Trade,Performance Management:1.0,2.0,4.0,1.5,3.5,1.0
+12200007:Marketing Strategies,Sustainability in Business,Retail Management,Operations Management,Sales Management,Corporate Governance:2.5,4.5,4.5,1.0,4.5,1.5
+12200008:Supply Chain Management,Strategic Management,Logistics Management,Advanced Excel for Business,Digital Marketing,Organizational Behavior:4.5,2.0,1.5,2.5,4.5,2.5
+12200013:Marketing Strategies,Innovation in Business,Leadership Development,Financial Accounting,Consumer Behavior,Organizational Behavior:4.0,3.5,4.0,4.0,2.5,2.5
+12200015:Innovation in Business,Principles of Management,Venture Capital,Strategic Management,Leadership Development,Retail Management:4.5,2.0,1.0,2.5,4.5,1.0
+12200016:Entrepreneurship,Project Management,Customer Relationship Management,Negotiation and Conflict Management,Economic Policy,Retail Management:3.5,3.0,3.5,1.0,4.0,4.0
+12200019:Advanced Excel for Business,Entrepreneurship,Logistics Management,Organizational Behavior,Emerging Markets,Managerial Accounting:4.5,1.0,4.0,4.0,2.5,3.5
+12200020:Consumer Behavior,Advanced Excel for Business,Sales Management,Venture Capital,Economic Policy,Sustainability in Business:2.0,1.0,1.0,3.0,4.5,3.0
+12200021:Performance Management,Market Research,Marketing Strategies,Investment Analysis,Advanced Excel for Business,Operations Management:1.0,1.5,3.0,2.5,2.5,1.0
+12200023:Supply Chain Management,Marketing Strategies,Financial Accounting,Risk Management,Operations Management,Business Ethics:3.5,2.0,4.0,3.0,1.5,4.0
+12200025:Data-Driven Decision Making,Supply Chain Management,Business Communication,Principles of Management,Business Ethics,Retail Management:3.0,2.5,2.0,3.0,4.5,4.5
+12200026:Supply Chain Management,Business Communication,Leadership Development,Sales Management,Marketing Strategies,Negotiation and Conflict Management:3.0,3.0,2.0,3.5,4.5,4.5
+12200028:Human Resources Management,Investment Analysis,Brand Management,Strategic Management,Logistics Management,Emerging Markets:4.5,3.0,3.5,1.0,1.5,3.0
+12210001:Innovation in Business,Business Communication,Logistics Management,Negotiation and Conflict Management,Entrepreneurship,Small Business Management:1.0,3.5,4.0,3.0,4.0,3.5
+12210003:Leadership Development,Real Estate Business,Customer Relationship Management,Entrepreneurship,Advanced Excel for Business,Strategic Management:2.0,2.5,4.0,1.0,4.0,3.0
+12210004:Negotiation and Conflict Management,Business Law,Corporate Governance,Business Analytics,Consumer Behavior,Digital Marketing:2.0,2.5,2.5,3.5,1.0,1.0
+12210005:Innovation in Business,Business Law,Economic Policy,Human Resources Management,Principles of Management,Supply Chain Management:3.5,2.5,2.5,3.5,2.0,2.5
+12210006:Risk Management,Negotiation and Conflict Management,Performance Management,Venture Capital,Retail Management,Logistics Management:2.0,1.0,2.0,3.0,1.5,4.5
+12210009:Retail Management,Customer Relationship Management,International Business,Investment Analysis,Digital Marketing,Business Ethics:4.5,3.0,2.0,2.5,1.0,2.0
+12210012:Supply Chain Management,Corporate Governance,Retail Management,Performance Management,Financial Accounting,Emerging Markets:2.0,3.5,4.0,1.0,4.0,4.0
+12210014:Supply Chain Management,Data-Driven Decision Making,Operations Management,Managerial Accounting,Principles of Management,Business Law:2.5,3.0,4.0,1.5,3.0,1.0
+12210016:Sustainability in Business,Logistics Management,Emerging Markets,Business Ethics,Managerial Accounting,International Business:2.5,2.5,4.5,1.0,1.0,4.0
+12210017:International Business,Business Analytics,Customer Relationship Management,Economic Policy,Risk Management,Marketing Strategies:1.0,2.0,3.5,1.0,3.5,2.0
+12210018:Business Analytics,Retail Management,E-Commerce,Market Research,Small Business Management,Managerial Accounting:3.5,3.5,3.0,2.0,2.0,2.5
+12210020:Sales Management,Real Estate Business,Sustainability in Business,International Trade,Small Business Management,Retail Management:4.0,2.0,2.5,4.5,2.5,2.0
+12210021:Operations Management,Consumer Behavior,Negotiation and Conflict Management,Advanced Excel for Business,Entrepreneurship,International Trade:3.5,4.5,4.5,3.5,1.0,4.5
+12210026:Advanced Excel for Business,Organizational Behavior,Human Resources Management,Negotiation and Conflict Management,Operations Management,Emerging Markets:1.5,1.5,3.5,1.0,4.5,1.0
+12210027:Digital Marketing,Human Resources Management,Market Research,Project Management,Leadership Development,Brand Management:2.0,3.0,1.0,1.5,3.5,2.0
+12210029:Marketing Strategies,Small Business Management,Business Ethics,Negotiation and Conflict Management,Entrepreneurship,Human Resources Management:1.0,1.0,3.5,4.0,3.5,4.5
+12210030:Human Resources Management,Business Ethics,Negotiation and Conflict Management,Business Communication,Customer Relationship Management,Crisis Management:2.0,3.5,2.5,4.0,4.0,4.0
+12210035:Performance Management,Startup Incubation,Sustainability in Business,Logistics Management,Sales Management,Human Resources Management:4.0,2.5,1.5,2.5,2.0,3.0
+12210043:Leadership Development,Entrepreneurship,Emerging Markets,Investment Analysis,Corporate Social Responsibility,Performance Management:1.5,2.0,3.0,3.5,4.5,1.0
+12210044:Leadership Development,Entrepreneurship,Retail Management,Marketing Strategies,Innovation in Business,Consumer Behavior:4.0,4.5,4.0,3.5,1.0,2.5
+12210045:Organizational Behavior,Market Research,Business Analytics,Performance Management,Emerging Markets,Business Law:4.5,4.5,2.0,2.5,4.5,4.5
+12210047:Business Analytics,Sales Management,Business Communication,Corporate Social Responsibility,Digital Marketing,Performance Management:2.0,2.0,1.5,1.5,1.5,1.5
+12210049:Venture Capital,Strategic Management,Digital Marketing,Project Management,Human Resources Management,Business Law:4.0,2.5,3.5,4.0,3.0,2.5
+12210051:Real Estate Business,Venture Capital,Strategic Management,Innovation in Business,Advanced Excel for Business,Negotiation and Conflict Management:4.0,1.0,3.0,4.0,3.5,1.0
+12210052:Corporate Governance,Brand Management,Financial Accounting,Market Research,Managerial Accounting,Crisis Management:4.5,2.0,4.0,1.0,3.0,3.5
+12210055:Organizational Behavior,Digital Marketing,Real Estate Business,Project Management,Corporate Governance,Retail Management:2.5,2.0,3.0,4.5,2.5,1.0
+12210057:Consumer Behavior,Customer Relationship Management,Economic Policy,E-Commerce,Managerial Accounting,Venture Capital:1.0,3.0,1.5,3.0,2.0,3.0
+12210059:Economic Policy,Small Business Management,Strategic Management,Crisis Management,Business Analytics,Financial Accounting:3.5,3.5,2.0,2.5,4.0,4.5
+12210060:International Trade,Operations Management,Economic Policy,International Business,Venture Capital,Retail Management:3.5,4.0,3.5,1.5,3.0,3.5
+12210062:Data-Driven Decision Making,Economic Policy,Small Business Management,Brand Management,Business Communication,Organizational Behavior:1.5,4.0,3.5,3.0,2.5,3.5
+12210063:Consumer Behavior,Sales Management,Organizational Behavior,Venture Capital,Business Ethics,Real Estate Business:1.0,3.0,2.0,3.0,1.0,2.0
+12210064:Principles of Management,Sales Management,Corporate Governance,Digital Marketing,Corporate Social Responsibility,Supply Chain Management:4.0,3.5,4.5,3.5,4.0,2.5
+12210065:Sales Management,Principles of Management,Project Management,Small Business Management,Strategic Management,Emerging Markets:4.5,3.0,2.5,3.5,4.5,1.5
+12210066:Operations Management,Investment Analysis,Digital Marketing,Crisis Management,Supply Chain Management,Logistics Management:4.0,2.5,4.0,3.0,1.0,1.0
+12210067:Logistics Management,Principles of Management,Consumer Behavior,Risk Management,Digital Marketing,Crisis Management:2.0,1.0,4.5,2.5,3.5,4.0
+12210068:Business Analytics,Corporate Social Responsibility,Principles of Management,Customer Relationship Management,Market Research,Financial Accounting:4.5,1.5,2.5,4.0,1.0,1.5
+12210069:Advanced Excel for Business,Startup Incubation,Sustainability in Business,Digital Marketing,Financial Accounting,Venture Capital:2.0,1.5,4.5,4.5,3.5,2.5
+12210070:Marketing Strategies,International Trade,Managerial Accounting,Principles of Management,Venture Capital,Corporate Social Responsibility:2.5,3.5,1.0,1.0,3.5,3.0
+12210071:Real Estate Business,Logistics Management,Sales Management,Marketing Strategies,Startup Incubation,Advanced Excel for Business:3.5,2.0,4.0,3.5,4.0,3.0
+12210072:Sales Management,Performance Management,Business Analytics,Risk Management,Investment Analysis,Financial Accounting:4.0,1.0,1.5,4.0,4.5,2.0
+12210073:Strategic Management,Economic Policy,International Business,Business Communication,Supply Chain Management,Leadership Development:3.5,4.0,1.0,2.5,2.0,2.0
+12210074:Corporate Governance,Real Estate Business,Venture Capital,Investment Analysis,Startup Incubation,Economic Policy:2.5,3.5,4.5,4.5,3.0,2.5
+12210075:Leadership Development,International Business,Retail Management,Real Estate Business,Economic Policy,Financial Accounting:3.5,4.0,1.5,1.0,3.0,2.5
+12210076:Human Resources Management,International Business,International Trade,Sustainability in Business,Operations Management,Supply Chain Management:3.0,1.5,3.5,3.5,3.0,3.5
+12210077:Business Law,Human Resources Management,Real Estate Business,Brand Management,Negotiation and Conflict Management,E-Commerce:1.0,3.5,1.5,3.5,4.5,3.0
+12210078:International Business,Business Analytics,Data-Driven Decision Making,Risk Management,Digital Marketing,Market Research:3.0,2.5,4.5,3.5,4.0,1.5
+12210079:Startup Incubation,Risk Management,Business Communication,Principles of Management,Managerial Accounting,Business Ethics:1.5,3.5,4.0,4.0,3.0,3.0
+12210080:Corporate Governance,Customer Relationship Management,Risk Management,Sales Management,Market Research,Logistics Management:2.0,4.5,4.5,1.5,3.0,1.5
+12210081:Crisis Management,Organizational Behavior,Negotiation and Conflict Management,Customer Relationship Management,Corporate Governance,Economic Policy:1.5,4.0,1.0,4.0,4.0,1.0
+12210082:Startup Incubation,Negotiation and Conflict Management,Organizational Behavior,Market Research,Corporate Social Responsibility,Project Management:1.0,2.0,4.5,1.5,2.0,2.5
+12210083:Business Law,Data-Driven Decision Making,Sales Management,Consumer Behavior,Financial Accounting,Innovation in Business:2.0,1.0,2.0,3.5,4.5,4.0
+12210084:Business Law,Data-Driven Decision Making,Retail Management,E-Commerce,Financial Accounting,Performance Management:4.0,4.0,4.0,2.0,4.5,1.0
+12210085:International Business,Business Analytics,Customer Relationship Management,Market Research,Venture Capital,Operations Management:3.0,4.0,2.0,1.5,3.5,4.5
+12210086:Market Research,International Business,Data-Driven Decision Making,Startup Incubation,Retail Management,Marketing Strategies:2.0,3.0,1.5,3.0,2.5,1.0
+12210087:Risk Management,Strategic Management,Corporate Social Responsibility,Real Estate Business,Organizational Behavior,Venture Capital:2.0,1.0,4.5,4.5,1.5,1.0
+12210088:Risk Management,Project Management,E-Commerce,Business Analytics,Leadership Development,Crisis Management:1.0,2.5,4.0,3.5,2.0,1.5
+12210089:Business Analytics,Financial Accounting,Principles of Management,Innovation in Business,Strategic Management,Managerial Accounting:2.0,4.0,1.5,1.0,2.0,3.5
+12210090:Performance Management,Negotiation and Conflict Management,Marketing Strategies,Data-Driven Decision Making,Investment Analysis,Human Resources Management:3.5,2.5,2.5,4.5,3.5,4.5
+12210091:Corporate Social Responsibility,Market Research,Sustainability in Business,Startup Incubation,Business Ethics,Emerging Markets:4.5,1.5,3.5,4.0,3.0,3.5
+12210092:Operations Management,Crisis Management,Negotiation and Conflict Management,Managerial Accounting,International Trade,Startup Incubation:4.0,2.5,1.0,3.0,4.0,4.5
+12210093:Brand Management,Innovation in Business,Sales Management,Advanced Excel for Business,Consumer Behavior,Business Ethics:1.5,1.5,2.5,1.0,3.5,3.0
+12210094:Marketing Strategies,Human Resources Management,Performance Management,Entrepreneurship,Startup Incubation,International Trade:4.5,4.0,1.0,3.0,2.0,3.5
+12210095:Marketing Strategies,Business Ethics,Investment Analysis,Human Resources Management,Emerging Markets,Managerial Accounting:1.0,1.5,2.5,3.5,2.0,3.5
+12210096:Logistics Management,Project Management,Innovation in Business,Business Communication,Real Estate Business,International Business:4.0,2.0,3.0,3.5,2.0,2.0
+12210097:Business Communication,Sales Management,Economic Policy,Negotiation and Conflict Management,Organizational Behavior,Retail Management:3.0,1.5,4.0,3.0,2.0,1.0
+12210098:Corporate Governance,Real Estate Business,E-Commerce,Brand Management,Business Communication,Performance Management:2.5,4.0,2.5,1.5,3.5,3.5
+12210099:Corporate Social Responsibility,Emerging Markets,Small Business Management,Risk Management,Retail Management,Advanced Excel for Business:2.5,2.5,2.0,4.0,4.0,1.5
+12210100:Sustainability in Business,Consumer Behavior,International Trade,Operations Management,Brand Management,Innovation in Business:1.5,3.0,1.5,1.5,3.5,2.5
+12210101:Retail Management,Financial Accounting,International Business,Sustainability in Business,Leadership Development,Managerial Accounting:2.5,4.0,4.0,1.5,1.5,2.5
+12210102:Logistics Management,Customer Relationship Management,Leadership Development,Emerging Markets,International Trade,Organizational Behavior:2.5,1.5,4.5,4.0,1.5,3.0
+12210103:Emerging Markets,Financial Accounting,Organizational Behavior,Crisis Management,Logistics Management,Economic Policy:1.0,3.0,2.0,4.0,3.5,3.0
+12210104:Business Ethics,Consumer Behavior,Marketing Strategies,Business Communication,International Trade,Principles of Management:2.5,2.0,3.5,3.0,1.5,3.5
+12210105:Business Analytics,Business Ethics,Negotiation and Conflict Management,Customer Relationship Management,Sales Management,Sustainability in Business:3.5,1.0,4.5,2.5,4.5,2.0
+12210106:Consumer Behavior,Corporate Social Responsibility,Performance Management,Innovation in Business,Emerging Markets,Digital Marketing:1.5,2.5,3.5,4.0,1.5,1.5
+12210107:Retail Management,Organizational Behavior,Crisis Management,Economic Policy,Leadership Development,Principles of Management:1.0,1.5,2.5,2.5,1.0,3.5
+12210108:Emerging Markets,Corporate Social Responsibility,Corporate Governance,Organizational Behavior,Marketing Strategies,Risk Management:2.0,1.0,1.5,2.0,2.5,2.0
+12210109:Business Law,Small Business Management,Corporate Social Responsibility,Financial Accounting,Venture Capital,Risk Management:3.5,3.5,4.5,2.5,4.5,4.0
+12210110:Emerging Markets,Strategic Management,Human Resources Management,Advanced Excel for Business,Small Business Management,Leadership Development:3.5,3.5,1.5,2.5,1.0,4.0
+12210111:Performance Management,Risk Management,Digital Marketing,Small Business Management,Sales Management,Human Resources Management:2.0,1.5,2.0,1.0,3.5,4.0
+12210112:Market Research,Operations Management,Performance Management,Managerial Accounting,Project Management,Real Estate Business:1.0,1.0,3.5,1.0,2.5,4.5
+12210113:Leadership Development,Entrepreneurship,Business Law,Economic Policy,Retail Management,Business Ethics:1.5,2.0,4.5,2.5,4.5,3.0
+12210114:Retail Management,Real Estate Business,Small Business Management,Corporate Social Responsibility,Logistics Management,Customer Relationship Management:3.5,2.5,2.5,4.0,1.0,3.0
+12210115:Corporate Social Responsibility,Operations Management,Economic Policy,Customer Relationship Management,International Trade,Data-Driven Decision Making:4.5,3.0,2.5,4.5,4.5,3.0
+12210116:Sales Management,Principles of Management,Marketing Strategies,Market Research,Business Law,Data-Driven Decision Making:2.0,2.5,3.5,1.0,3.5,2.0
+12210117:Negotiation and Conflict Management,Market Research,Advanced Excel for Business,Data-Driven Decision Making,Corporate Social Responsibility,Entrepreneurship:1.5,2.5,3.5,1.0,2.5,4.5
+12210118:Sustainability in Business,Supply Chain Management,Performance Management,Strategic Management,Business Law,Consumer Behavior:1.5,3.5,2.5,1.0,3.0,3.5
+12210119:Supply Chain Management,Organizational Behavior,Sustainability in Business,Emerging Markets,Financial Accounting,Digital Marketing:2.0,3.5,3.5,1.5,1.0,4.0
+12210120:E-Commerce,Digital Marketing,Financial Accounting,Risk Management,Corporate Governance,Consumer Behavior:1.0,1.0,1.0,1.5,2.0,1.5
+12210121:Business Communication,Risk Management,Emerging Markets,Corporate Social Responsibility,Market Research,Strategic Management:4.0,2.5,3.5,4.0,3.5,1.0
+12210122:Customer Relationship Management,Performance Management,Sustainability in Business,Organizational Behavior,Retail Management,Sales Management:2.0,2.0,3.0,4.0,2.0,2.0
+12210123:Business Analytics,Consumer Behavior,Financial Accounting,Real Estate Business,Customer Relationship Management,Project Management:1.0,1.5,1.5,1.0,3.5,1.0
+12210124:Project Management,International Trade,Leadership Development,Entrepreneurship,Brand Management,Financial Accounting:1.5,3.0,4.0,3.0,2.5,2.5
+12210125:Data-Driven Decision Making,Real Estate Business,Entrepreneurship,Performance Management,Digital Marketing,Advanced Excel for Business:1.5,3.5,1.0,1.5,1.0,4.5
+12210126:Data-Driven Decision Making,Corporate Governance,Brand Management,Startup Incubation,Strategic Management,Negotiation and Conflict Management:4.5,3.0,2.0,4.5,4.5,1.0
+12210127:Organizational Behavior,Business Communication,Customer Relationship Management,Human Resources Management,Leadership Development,Corporate Governance:4.0,4.0,1.0,4.0,4.0,4.5
+12210128:Human Resources Management,Business Communication,Economic Policy,Business Analytics,Performance Management,Sustainability in Business:2.5,3.5,3.5,1.5,1.0,3.0
+12210129:Venture Capital,Digital Marketing,Performance Management,Customer Relationship Management,Entrepreneurship,Economic Policy:1.0,2.5,2.5,3.5,1.0,4.0
+12210130:Marketing Strategies,Retail Management,Digital Marketing,Risk Management,Negotiation and Conflict Management,Startup Incubation:3.0,2.5,4.5,3.5,1.0,2.0
+12210131:Principles of Management,Project Management,Real Estate Business,Marketing Strategies,International Business,Negotiation and Conflict Management:4.0,1.5,1.5,4.5,1.0,2.0
+12210132:International Business,Consumer Behavior,Marketing Strategies,Risk Management,Human Resources Management,Sales Management:3.0,3.0,1.5,2.5,1.0,3.5
+12210133:Human Resources Management,Negotiation and Conflict Management,Real Estate Business,International Trade,Customer Relationship Management,Entrepreneurship:3.5,3.5,1.0,4.5,3.5,4.5
+12210134:Performance Management,E-Commerce,International Business,Sustainability in Business,Retail Management,Small Business Management:3.5,2.0,4.0,3.5,3.5,3.5
+12210000:Investment Analysis,Advanced Excel for Business,Digital Marketing,Logistics Management,Leadership Development,Customer Relationship Management:1.5,1.5,2.5,3.5,4.5,1.5
+12210002:Supply Chain Management,Negotiation and Conflict Management,Investment Analysis,Advanced Excel for Business,Logistics Management,Marketing Strategies:2.5,1.0,4.0,2.0,3.0,2.5
+12210007:Marketing Strategies,International Trade,Small Business Management,Project Management,Customer Relationship Management,Risk Management:4.5,3.5,1.5,1.5,1.5,3.0
+12210008:Logistics Management,Business Analytics,Sustainability in Business,E-Commerce,Advanced Excel for Business,Investment Analysis:2.5,2.0,1.0,1.0,4.0,2.5
+12210010:Market Research,Emerging Markets,Business Ethics,Digital Marketing,Human Resources Management,Corporate Governance:3.5,3.5,3.5,4.0,1.5,4.5
+12210011:Business Ethics,Startup Incubation,Business Communication,Consumer Behavior,Leadership Development,Market Research:1.5,3.0,4.0,4.5,3.5,2.0
+12210013:Emerging Markets,Business Law,Small Business Management,Business Ethics,Crisis Management,Corporate Social Responsibility:4.5,3.5,3.5,3.5,2.0,4.0
+12210015:Emerging Markets,Innovation in Business,Consumer Behavior,Operations Management,Brand Management,Financial Accounting:3.5,3.5,3.5,4.0,1.5,3.0
+12210019:Small Business Management,Leadership Development,Business Analytics,Entrepreneurship,Strategic Management,Sales Management:1.5,2.5,4.0,3.5,4.0,1.0
+12210022:Consumer Behavior,Entrepreneurship,Corporate Social Responsibility,Sales Management,Business Communication,Project Management:3.5,4.0,1.0,1.5,4.0,1.5
+12210023:Brand Management,Retail Management,Innovation in Business,Customer Relationship Management,Crisis Management,Entrepreneurship:4.5,4.0,2.0,4.0,2.0,1.5
+12210024:Sustainability in Business,Organizational Behavior,Corporate Governance,Retail Management,Economic Policy,Leadership Development:2.5,3.0,3.5,3.0,4.5,4.0
+12210025:Investment Analysis,Human Resources Management,Customer Relationship Management,Startup Incubation,Managerial Accounting,Leadership Development:4.5,1.0,2.0,2.0,3.0,3.5
+12210028:Customer Relationship Management,Business Analytics,Sales Management,Investment Analysis,Entrepreneurship,Digital Marketing:3.5,4.0,2.0,4.5,3.5,2.5
+12210031:Logistics Management,E-Commerce,International Trade,Organizational Behavior,Operations Management,Business Communication:2.0,2.0,4.5,1.0,3.0,1.5
+12210032:Business Analytics,Emerging Markets,Risk Management,Principles of Management,Corporate Social Responsibility,Project Management:4.0,3.5,2.0,3.5,3.5,3.0
+12210033:Data-Driven Decision Making,Innovation in Business,Digital Marketing,Supply Chain Management,Real Estate Business,Business Communication:2.0,3.0,1.0,1.5,4.5,4.5
+12210034:Economic Policy,Supply Chain Management,Business Analytics,International Business,Negotiation and Conflict Management,Emerging Markets:3.5,1.0,3.0,2.0,4.0,4.5
+12210036:Investment Analysis,Business Analytics,Negotiation and Conflict Management,Sustainability in Business,Brand Management,Innovation in Business:1.0,1.5,1.5,1.0,4.0,1.5
+12210037:Investment Analysis,Negotiation and Conflict Management,Innovation in Business,Market Research,Performance Management,Business Law:1.0,3.5,1.0,3.5,3.0,3.0
+12210038:Leadership Development,Emerging Markets,International Trade,International Business,Principles of Management,Financial Accounting:3.0,3.5,2.0,2.0,3.0,1.5
+12210039:Brand Management,Business Law,Strategic Management,Small Business Management,Entrepreneurship,Startup Incubation:1.0,4.5,4.5,4.5,1.5,4.5
+12210040:International Business,Supply Chain Management,Brand Management,Crisis Management,Logistics Management,Emerging Markets:2.0,2.5,2.0,4.0,1.5,4.0
+12210041:Business Analytics,Economic Policy,Data-Driven Decision Making,Risk Management,Strategic Management,Corporate Governance:4.0,4.0,2.0,2.0,3.5,4.5
+12210042:Business Law,Corporate Social Responsibility,Economic Policy,Retail Management,Managerial Accounting,Small Business Management:3.5,2.0,4.5,2.0,2.5,3.0
+12210046:Crisis Management,Principles of Management,Brand Management,Managerial Accounting,Emerging Markets,Business Law:1.0,2.0,1.5,2.0,2.5,3.0
+12210053:Human Resources Management,Marketing Strategies,Data-Driven Decision Making,Business Communication,Supply Chain Management,Venture Capital:2.0,3.0,2.5,3.5,2.0,3.5
+12210056:Real Estate Business,Marketing Strategies,Sales Management,Business Communication,Managerial Accounting,Advanced Excel for Business:1.0,4.0,3.5,3.5,1.5,2.5
+12210058:Leadership Development,Investment Analysis,Crisis Management,Principles of Management,Human Resources Management,International Business:4.0,3.0,3.5,4.0,4.5,3.0
+12210061:Small Business Management,Entrepreneurship,Marketing Strategies,Investment Analysis,Data-Driven Decision Making,Customer Relationship Management:1.5,4.5,1.0,1.0,3.5,4.5
+12220000:Innovation in Business,Project Management,Investment Analysis,Real Estate Business,Risk Management,Advanced Excel for Business:4.0,4.0,4.0,3.5,1.5,4.5
+12220001:Venture Capital,Principles of Management,Crisis Management,Business Communication,Organizational Behavior,Human Resources Management:2.0,4.0,4.0,1.5,2.0,2.0
+12220002:Market Research,Supply Chain Management,Business Analytics,Operations Management,Sustainability in Business,Real Estate Business:2.0,4.5,4.0,3.0,2.5,4.0
+12220005:Digital Marketing,Emerging Markets,Small Business Management,Real Estate Business,Risk Management,Performance Management:2.5,2.5,2.5,1.5,4.0,3.5
+12220007:Managerial Accounting,Retail Management,Economic Policy,Logistics Management,Operations Management,Performance Management:3.5,2.0,4.5,3.0,1.5,2.0
+12220010:Logistics Management,Corporate Governance,International Business,Real Estate Business,E-Commerce,Marketing Strategies:2.0,3.0,1.0,1.5,3.5,2.5
+12220011:Strategic Management,Investment Analysis,Startup Incubation,Principles of Management,Negotiation and Conflict Management,International Business:3.5,2.0,3.5,3.0,2.0,3.0
+12220012:Strategic Management,Leadership Development,International Business,Project Management,Digital Marketing,Organizational Behavior:2.5,1.5,4.5,2.0,2.5,3.0
+12220013:Corporate Governance,Performance Management,Principles of Management,Data-Driven Decision Making,Sustainability in Business,Brand Management:2.0,3.0,3.5,4.0,1.0,1.0
+12220014:Innovation in Business,Negotiation and Conflict Management,Digital Marketing,Organizational Behavior,Crisis Management,Managerial Accounting:4.0,3.0,3.5,2.0,1.0,1.0
+12220015:Corporate Governance,Corporate Social Responsibility,Business Law,Customer Relationship Management,Sustainability in Business,Business Ethics:1.0,3.0,2.5,3.5,3.0,4.5
+12220017:Economic Policy,Consumer Behavior,Brand Management,Managerial Accounting,Supply Chain Management,Business Law:3.0,4.5,2.5,1.0,2.0,4.0
+12220019:Leadership Development,Marketing Strategies,Business Law,Corporate Governance,Crisis Management,Logistics Management:4.5,4.5,3.5,3.5,2.5,3.5
+12220020:Corporate Social Responsibility,Strategic Management,International Trade,Real Estate Business,Advanced Excel for Business,Risk Management:1.0,3.5,4.0,3.5,1.5,4.0
+12220021:Investment Analysis,Venture Capital,Logistics Management,Sustainability in Business,Market Research,Risk Management:4.5,1.5,1.0,2.5,4.5,1.0
+12220022:Managerial Accounting,International Business,Business Law,Startup Incubation,Customer Relationship Management,Real Estate Business:3.0,4.0,4.5,3.5,2.5,3.0
+12220023:Innovation in Business,Retail Management,Organizational Behavior,Digital Marketing,Business Law,Small Business Management:4.0,2.0,2.5,1.0,4.5,1.0
+12220026:Sales Management,Business Ethics,Startup Incubation,Managerial Accounting,Market Research,Investment Analysis:1.0,2.5,3.0,4.5,2.0,1.5
+12220028:Strategic Management,Logistics Management,Brand Management,Human Resources Management,Managerial Accounting,Corporate Social Responsibility:2.0,1.0,2.5,4.5,4.0,2.0
+12220029:Retail Management,Strategic Management,International Trade,Leadership Development,Business Ethics,Corporate Social Responsibility:3.5,1.0,3.0,2.5,1.5,1.0
+12220031:Marketing Strategies,Leadership Development,Advanced Excel for Business,Digital Marketing,Market Research,Business Ethics:3.0,1.5,3.0,2.5,2.5,2.5
+12220032:International Trade,Real Estate Business,Managerial Accounting,Consumer Behavior,Emerging Markets,Business Ethics:4.0,3.0,2.0,3.5,1.5,1.5
+12220033:Crisis Management,Emerging Markets,Consumer Behavior,Data-Driven Decision Making,Business Ethics,Sales Management:1.0,1.0,1.5,2.5,3.5,1.0
+12220035:Corporate Governance,Corporate Social Responsibility,Data-Driven Decision Making,Business Analytics,Economic Policy,Business Communication:2.0,4.5,3.0,1.5,4.5,3.0
+12220037:Performance Management,Crisis Management,Corporate Social Responsibility,Sustainability in Business,Consumer Behavior,Business Analytics:1.0,2.5,1.5,3.0,4.0,2.5
+12220038:Brand Management,Sustainability in Business,Real Estate Business,Risk Management,Retail Management,Data-Driven Decision Making:3.5,4.5,4.0,1.5,1.5,3.5
+12220040:Digital Marketing,Entrepreneurship,Brand Management,Real Estate Business,Sustainability in Business,Performance Management:4.5,4.5,1.0,1.5,1.5,4.0
+12220042:Business Communication,Marketing Strategies,Innovation in Business,Venture Capital,Economic Policy,International Trade:2.5,4.5,2.5,2.5,2.5,4.5
+12220043:Consumer Behavior,Crisis Management,Human Resources Management,Business Ethics,Logistics Management,Leadership Development:3.5,4.5,1.0,3.5,3.0,4.5
+12220044:Customer Relationship Management,Managerial Accounting,Startup Incubation,Brand Management,Supply Chain Management,Operations Management:3.5,3.5,3.0,4.5,2.5,3.5
+12220045:Performance Management,Sustainability in Business,Crisis Management,Investment Analysis,Advanced Excel for Business,Business Analytics:3.5,2.0,3.0,2.0,1.5,1.5
+12220046:Sales Management,Business Communication,Entrepreneurship,Customer Relationship Management,International Business,Project Management:4.0,1.5,1.5,4.0,4.5,1.0
+12220047:Brand Management,Business Communication,Economic Policy,Negotiation and Conflict Management,Investment Analysis,Performance Management:4.0,2.0,3.0,3.5,4.5,4.5
+12220048:Principles of Management,International Business,Brand Management,Financial Accounting,Supply Chain Management,Leadership Development:1.0,2.5,1.0,1.0,4.0,4.0
+12220051:Innovation in Business,Operations Management,Project Management,Real Estate Business,Sales Management,International Trade:4.5,2.0,3.5,1.0,1.0,4.5
+12220052:Marketing Strategies,Retail Management,Organizational Behavior,Investment Analysis,Market Research,Project Management:2.0,3.5,2.5,2.5,3.0,2.5
+12220053:Crisis Management,Economic Policy,E-Commerce,Business Analytics,Brand Management,Performance Management:3.0,3.0,2.0,1.0,2.0,2.5
+12220054:Business Communication,Risk Management,Marketing Strategies,Economic Policy,Consumer Behavior,Logistics Management:3.0,3.0,4.0,4.5,3.0,3.0
+12220056:Performance Management,Retail Management,Risk Management,Leadership Development,Data-Driven Decision Making,Negotiation and Conflict Management:3.5,2.5,4.0,2.0,3.5,2.5
+12220057:Logistics Management,Risk Management,Principles of Management,Sales Management,Emerging Markets,Customer Relationship Management:2.0,1.5,3.5,2.0,2.0,2.5
+12220061:Risk Management,Marketing Strategies,Strategic Management,Economic Policy,Venture Capital,Data-Driven Decision Making:4.0,1.5,4.0,2.0,2.0,4.5
+12220062:Business Law,Risk Management,Business Analytics,Supply Chain Management,Economic Policy,Brand Management:4.5,4.5,1.0,1.5,1.0,1.5
+12220065:Managerial Accounting,Business Ethics,Project Management,Sustainability in Business,Organizational Behavior,Sales Management:4.5,1.5,2.5,1.0,3.5,4.0
+12220067:Marketing Strategies,Corporate Governance,Data-Driven Decision Making,Emerging Markets,Entrepreneurship,Economic Policy:2.5,3.5,1.0,1.0,3.5,3.5
+12220069:Market Research,Corporate Social Responsibility,Entrepreneurship,Venture Capital,Consumer Behavior,Data-Driven Decision Making:1.0,2.5,3.5,4.5,4.0,4.0
+12220070:Operations Management,Digital Marketing,Leadership Development,Corporate Social Responsibility,International Trade,Venture Capital:3.0,2.0,2.0,2.5,1.5,3.5
+12220072:Entrepreneurship,Data-Driven Decision Making,Retail Management,Market Research,Consumer Behavior,Venture Capital:4.0,1.0,3.0,2.0,1.0,4.0
+12220073:Investment Analysis,Human Resources Management,E-Commerce,Advanced Excel for Business,Business Analytics,Business Law:1.0,3.5,4.0,3.0,2.0,1.5
+12220074:Real Estate Business,Emerging Markets,Startup Incubation,Innovation in Business,Digital Marketing,Project Management:3.5,4.0,2.5,2.5,4.5,1.0
+12220076:Emerging Markets,Negotiation and Conflict Management,Organizational Behavior,E-Commerce,Marketing Strategies,Economic Policy:4.5,3.5,4.0,4.0,1.5,1.0
+12220078:Supply Chain Management,Risk Management,Project Management,International Business,Principles of Management,Corporate Governance:4.5,4.0,4.0,4.5,3.5,1.0
+12220079:Sales Management,Investment Analysis,Economic Policy,Innovation in Business,Organizational Behavior,Business Communication:2.0,4.5,1.0,3.5,1.0,1.0
+12220080:Marketing Strategies,Negotiation and Conflict Management,Economic Policy,Venture Capital,Startup Incubation,Emerging Markets:4.0,3.5,4.0,3.0,3.0,2.0
+12220082:Principles of Management,International Trade,Innovation in Business,Sales Management,Digital Marketing,Customer Relationship Management:3.0,1.5,1.0,2.0,1.0,2.5
+12220086:Business Analytics,Crisis Management,Supply Chain Management,Financial Accounting,Digital Marketing,Project Management:2.5,2.0,4.0,4.0,1.5,1.0
+12220087:Strategic Management,Leadership Development,Economic Policy,Business Analytics,Logistics Management,Advanced Excel for Business:3.5,1.5,4.0,1.5,3.0,3.5
+12220089:International Business,Venture Capital,Startup Incubation,Project Management,Corporate Social Responsibility,Crisis Management:2.5,1.5,1.5,3.0,2.0,2.0
+12220092:Digital Marketing,Corporate Social Responsibility,Human Resources Management,Supply Chain Management,Crisis Management,Retail Management:3.0,2.5,2.0,3.0,3.5,4.0
+12220094:Venture Capital,Innovation in Business,Marketing Strategies,Investment Analysis,Project Management,International Trade:1.0,1.5,3.5,3.0,2.5,4.0
+12220095:Investment Analysis,Financial Accounting,Brand Management,Small Business Management,Customer Relationship Management,Supply Chain Management:4.5,2.0,2.0,3.5,2.5,1.5
+12220097:Project Management,Startup Incubation,Digital Marketing,Organizational Behavior,E-Commerce,Innovation in Business:3.5,3.0,2.5,4.5,4.5,1.5
+12220098:Human Resources Management,Startup Incubation,Advanced Excel for Business,Sustainability in Business,Corporate Governance,Emerging Markets:1.0,2.5,2.0,2.5,4.0,3.0
+12220100:Project Management,International Business,Performance Management,Sales Management,Advanced Excel for Business,Financial Accounting:1.0,4.5,1.5,2.5,4.0,4.0
+12220101:Supply Chain Management,Crisis Management,Logistics Management,Venture Capital,Marketing Strategies,Digital Marketing:3.0,3.0,4.0,3.5,1.5,1.0
+12220104:Investment Analysis,Strategic Management,Leadership Development,Corporate Social Responsibility,Logistics Management,Customer Relationship Management:4.0,1.0,1.5,1.5,1.0,4.5
+12220108:International Business,Investment Analysis,Brand Management,International Trade,Crisis Management,Organizational Behavior:2.5,1.5,3.5,2.0,3.5,4.0
+12220109:Performance Management,Human Resources Management,International Business,Venture Capital,Crisis Management,Supply Chain Management:4.0,3.5,3.5,4.0,3.0,1.0
+12220110:Project Management,Supply Chain Management,Sales Management,Logistics Management,Financial Accounting,Brand Management:4.0,4.0,2.0,4.5,1.0,1.0
+12220115:Project Management,Entrepreneurship,Principles of Management,Market Research,Managerial Accounting,Business Analytics:1.0,1.0,4.0,4.0,4.5,4.0
+12220116:Investment Analysis,Innovation in Business,Logistics Management,Economic Policy,Project Management,Crisis Management:1.0,2.5,2.0,4.0,2.0,1.5
+12220118:Risk Management,Managerial Accounting,Digital Marketing,Financial Accounting,Sustainability in Business,Crisis Management:1.5,3.5,3.0,1.0,3.0,2.0
+12220119:Leadership Development,Market Research,Data-Driven Decision Making,Innovation in Business,International Trade,Managerial Accounting:2.5,4.5,4.0,3.5,4.0,4.0
+12220120:Business Ethics,Innovation in Business,Performance Management,Human Resources Management,Retail Management,Operations Management:2.5,4.5,3.0,3.0,1.0,3.0
+12220121:Marketing Strategies,Real Estate Business,Managerial Accounting,Entrepreneurship,Business Communication,Customer Relationship Management:2.5,3.5,1.0,1.5,1.0,2.5
+12220122:Business Law,Emerging Markets,Risk Management,Advanced Excel for Business,Real Estate Business,Marketing Strategies:3.0,1.5,4.0,2.0,4.0,4.5
+12220124:Business Analytics,Emerging Markets,Operations Management,Real Estate Business,Advanced Excel for Business,Market Research:4.0,1.0,4.0,4.5,1.0,3.5
+12220125:Business Law,International Trade,Corporate Social Responsibility,Managerial Accounting,Customer Relationship Management,Marketing Strategies:3.0,1.5,3.5,2.5,4.0,4.5
+12220126:Business Communication,Sales Management,Investment Analysis,Retail Management,Strategic Management,Business Analytics:4.5,4.5,2.5,3.5,2.5,4.5
+12220127:Negotiation and Conflict Management,Corporate Social Responsibility,Marketing Strategies,International Trade,International Business,Advanced Excel for Business:4.0,4.5,3.5,2.0,3.5,3.5
+12220128:Project Management,Entrepreneurship,Business Analytics,Market Research,Organizational Behavior,Risk Management:1.0,4.0,2.5,1.5,3.0,1.5
+12220134:Crisis Management,Emerging Markets,Venture Capital,E-Commerce,Operations Management,Economic Policy:2.0,4.0,1.0,4.0,2.5,2.5
