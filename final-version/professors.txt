@@ -1,1 +1,25 @@
 
+ID: 222100, Name: Kabir Humayun, Major: ISE, Email: lalalend@inha.ac.kr, Phone: +82-47-1804-5475, Password: BmSBJ=EE)E, Courses: 
+ID: 222101, Name: Serrao Pruthvi Loy Rozario, Major: ISE, Email: serrao.pruthvi.loy.rozario@inha.ac.kr, Phone: +82-36-6455-8373, Password: .T's>j:E9V, Courses: 
+ID: 222102, Name: Vivek Kumar, Major: ISE, Email: vivek.kumar@inha.ac.kr, Phone: +82-88-9619-9155, Password: Q:-}LC4Ba^, Courses: 
+ID: 222103, Name: Kakani Vijay, Major: ISE, Email: kakani.vijay@inha.ac.kr, Phone: +82-77-5769-1821, Password: g}pCQs#`@l, Courses: 
+ID: 222104, Name: Mehdi Pirahandeh, Major: ISE, Email: mehdi.pirahandeh@inha.ac.kr, Phone: +82-20-1751-2513, Password: +KOP+(, Courses: 
+ID: 222105, Name: Shafenoor, Major: ISE, Email: shafenoor@inha.ac.kr, Phone: +82-47-3811-6664, Password: EwsUKFI3AH, Courses: 
+ID: 222106, Name: Jung Minsoo, Major: ISE, Email: jung.minsoo@inha.ac.kr, Phone: +82-29-6336-9218, Password: I%:w@$IS|R, Courses: 
+ID: 222107, Name: Kang Yuna, Major: ISE, Email: kang.yuna@inha.ac.kr, Phone: +82-14-8606-6837, Password: =9-2k0#lIG, Courses: 
+ID: 222100, Name: Lee Seoyeon, Major: IBT, Email: lee.seoyeon@inha.ac.kr, Phone: +82-37-8564-8595, Password: %umF28(tLq, Courses: 
+ID: 222101, Name: Choi Eunji, Major: IBT, Email: choi.eunji@inha.ac.kr, Phone: +82-28-1317-9106, Password: uhg*y8Y<fz, Courses: 
+ID: 222102, Name: Kang Daehyun, Major: IBT, Email: kang.daehyun@inha.ac.kr, Phone: +82-80-4233-8358, Password: "MRVf4d#Yh, Courses: 
+ID: 222103, Name: Cho Jihoon, Major: IBT, Email: cho.jihoon@inha.ac.kr, Phone: +82-83-7370-5956, Password: .-'>-x(.g>, Courses: 
+ID: 222104, Name: Kim Minsoo, Major: IBT, Email: kim.minsoo@inha.ac.kr, Phone: +82-58-7816-8595, Password: ?LUlGo@oeu, Courses: 
+ID: 222105, Name: Yoon Minsoo, Major: IBT, Email: yoon.minsoo@inha.ac.kr, Phone: +82-18-9701-9417, Password: OGeQ+x"39v, Courses: 
+ID: 222106, Name: Kim Hyunwoo, Major: IBT, Email: kim.hyunwoo@inha.ac.kr, Phone: +82-49-1898-1155, Password: hVqJOQUsc}, Courses: 
+ID: 222107, Name: Yoon Hyunwoo, Major: IBT, Email: yoon.hyunwoo@inha.ac.kr, Phone: +82-62-9454-1649, Password: #i82$?14Y%, Courses: 
+ID: 222100, Name: Yoon Seoyeon, Major: KLC, Email: yoon.seoyeon@inha.ac.kr, Phone: +82-86-1466-9089, Password: +J, Courses: 
+ID: 222101, Name: Choi Daehyun, Major: KLC, Email: choi.daehyun@inha.ac.kr, Phone: +82-71-4003-2634, Password: I7&}crlzW;, Courses: 
+ID: 222102, Name: Cho Yuna, Major: KLC, Email: cho.yuna@inha.ac.kr, Phone: +82-55-9441-7517, Password: g_dw?$_c_[, Courses: 
+ID: 222103, Name: Kim Hyunwoo, Major: KLC, Email: kim.hyunwoo@inha.ac.kr, Phone: +82-10-7168-9316, Password: 5@v(Zj~&X}, Courses: 
+ID: 222104, Name: Choi Daehyun, Major: KLC, Email: choi.daehyun@inha.ac.kr, Phone: +82-25-9518-5718, Password: `=_R]A`ug0, Courses: 
+ID: 222105, Name: Kim Eunji, Major: KLC, Email: kim.eunji@inha.ac.kr, Phone: +82-31-2384-7241, Password: YWsx, Courses: 
+ID: 222106, Name: Lee Daehyun, Major: KLC, Email: lee.daehyun@inha.ac.kr, Phone: +82-67-8528-1071, Password: EW4Q\[-RT4, Courses: 
+ID: 222107, Name: Jung Minsoo, Major: KLC, Email: jung.minsoo@inha.ac.kr, Phone: +82-46-9077-9208, Password: `>@yUYVq=P, Courses: 
